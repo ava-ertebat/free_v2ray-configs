@@ -185,3 +185,4 @@ vless://01be6498-eb5c-42c3-a84c-71879900f037@212.16.71.254:80?type=tcp&headerTyp
 vless://886b853b-3079-45c1-b912-835955087a2b@212.16.71.222:80?type=tcp&headerType=http&path=/zagros.host&security=none#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWQ2NWQ0ZC0wNTYxLTQ5NjktYjYxOC1lYzcwNGE0ODc3ODg@free.2weradf.xyz:36571#🔥Join+Telegram:@Farah_VPN🟣
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@www.gco.gov.qa:8443?encryption=none&security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
+trojan://e6a2e741-0fce-440b-910c-b81325e2263a@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=bats-paper-chump.stark-industries.solutions#🔥Join+Telegram:@Farah_VPN🟣
