@@ -118,3 +118,14 @@ vless://804385b5-c39b-4070-9f6d-33ffc6cefda9@netherland.zone-server-irani.ir:399
 vless://804385b5-c39b-4070-9f6d-33ffc6cefda9@italy.tehranserver.site:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=random&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@15.188.131.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@15.188.131.37:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://8b017de8-d24a-46f6-b994-5d2ed4c005ff@185.204.168.163:20753?security=&type=tcp&path=/&headerType=http&host=&encryption=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://CHIK_182318@77.91.85.161:443?security=reality&encryption=none&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&headerType=&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#🔥Join+Telegram:@Farah_VPN🟣
+vless://e18e656d-39fd-4b80-95e5-72edcacb952c@185.204.168.163:35972?type=tcp&path=%2F&headerType=http&security=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://CHIK_781333@77.91.76.14:443?security=reality&encryption=none&pbk=7YEakrIiKu1CHDSOOrglxndNDLdh8ub7DzVoecOOtws&headerType=&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#🔥Join+Telegram:@Farah_VPN🟣
+vless://CHIK_981036@77.91.76.14:443?security=reality&encryption=none&pbk=7YEakrIiKu1CHDSOOrglxndNDLdh8ub7DzVoecOOtws&headerType=&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#🔥Join+Telegram:@Farah_VPN🟣
+vless://CHIK_181509@77.91.76.14:443?security=reality&encryption=none&pbk=7YEakrIiKu1CHDSOOrglxndNDLdh8ub7DzVoecOOtws&headerType=&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#🔥Join+Telegram:@Farah_VPN🟣
+vless://CHIK_881548@us1.chik-chirik.xyz:443?security=reality&encryption=none&pbk=wsuNVssCC7Wh0VH_CpY3Th8z1brS70MpoqkgWmSdAk4&headerType=&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#🔥Join+Telegram:@Farah_VPN🟣
+vless://CHIK_981062@77.91.85.161:443?security=reality&encryption=none&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&headerType=&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#🔥Join+Telegram:@Farah_VPN🟣
+vless://CHIK_481495@83.147.252.114:443?security=reality&encryption=none&pbk=jP5khyw0xKq1-GuOB4RApEzC48qE4yyExXqPaPFvezo&headerType=&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#🔥Join+Telegram:@Farah_VPN🟣
+vless://CHIK_481529@77.91.85.161:443?security=reality&encryption=none&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&headerType=&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#🔥Join+Telegram:@Farah_VPN🟣
+vless://CHIK_281047@77.91.85.161:443?security=reality&encryption=none&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&headerType=&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#🔥Join+Telegram:@Farah_VPN🟣
