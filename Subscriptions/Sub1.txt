@@ -129,3 +129,4 @@ vless://b0a577db-0841-480c-9014-014197f92d28@194.182.79.7:19123?mode=gun&securit
 vless://d53b1702-56a6-461c-ef1c-1decc60d6cf4@167.82.70.50:443?type=ws&host=aklisusa.com&path=/@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn&security=tls&fp=firefox&sni=map.google.com&allowInsecure=true#🔥Join+Telegram:@Farah_VPN🟣
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🔥Join+Telegram:@Farah_VPN🟣
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.94:80?path=Telegram%3A%40Selinc%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://7979b82a-a615-4e4e-b4ce-34260f6e8bd6@104.17.147.22:80?mode=auto&path=%2F%3F&security=none&encryption=none&host=mother5280.dgclix.ir&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
