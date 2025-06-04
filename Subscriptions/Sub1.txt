@@ -109,3 +109,5 @@ vless://d4e672e0-bc04-45c1-b710-df097fa41d23@104.16.183.83:80?path=%2F%3Fed%3D25
 vless://6fa4a6e6-e575-42ec-aba1-4142b73bad06@ns.cloudflare.com:2086?path=%2FGoodLuck%3Fed%3D2560&security=none&encryption=none&host=rosiassn.digikala.com.snnapfood.ir.varzesh3.com.shobb.ir.kdvhgkri558978grfghfkvhfrvhnfjrdghriuygfkrdfjdfjiedhfgjung.sami0.ir.&type=httpupgrade#🔥Join+Telegram:@Farah_VPN🟣
 vless://6fa4a6e6-e575-42ec-aba1-4142b73bad06@cls.zibanamas.ir:8295?security=reality&encryption=none&pbk=jAMPNXKmyWrMP8Q5U3x1an17VmL3bwhWtcWgTZsPc1s&headerType=none&fp=chrome&type=tcp&sni=refersion.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://15afab6f-4ff9-4087-9ced-4b32ee19a0f3@157.230.17.102:37529?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
+vless://12b37532-89d5-42a3-b735-fb9931040e45@b.vahidvpn.com.tr:36105?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://387bec78-13f5-40b5-95a7-1287885b5ea0@b.vahidvpn.com.tr:18951?path=%2F&security=&encryption=none&host=zula.ir&type=ws#🔥Join+Telegram:@Farah_VPN🟣
