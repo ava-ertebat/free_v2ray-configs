@@ -68,3 +68,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.133:8880?mode=gun&securit
 trojan://Aimer@27.50.48.126:2083?path=%2F&security=tls&host=tyep.esslh.filegear-sg.me&fp=chrome&type=ws&sni=tyep.esslh.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.73:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
 vmess://eyJhZGQiOiAiNS4yNTMuNDEuMTQ3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI0YjE5OTJjYy04ZTdjLTQwMDMtYTQ1Zi1hMjhjM2U2ZjZmYTgiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjI3NzUwIiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://8c9a892c-e9d5-4fff-bfdb-8ef9c50272b1@162.251.82.187:80?security=none&type=ws&path=58834/mail-template&host=my-mail-management-pr0-git-land-manager.clients-github.com&packetEncoding=xudp&encryption=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.73:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://64bb8ea6-f39a-4f9a-bc0e-5a1313540aca@5.42.223.147:15319?security=none&type=tcp&packetEncoding=xudp&encryption=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://60bdbed7-228b-466b-bd8c-32e779a5aea9@ipe.alighan.ir:2083?security=tls&sni=germany.alighan.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=germany.alighan.ir&packetEncoding=xudp&encryption=none#🔥Join+Telegram:@Farah_VPN🟣
