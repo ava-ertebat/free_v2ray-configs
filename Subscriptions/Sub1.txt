@@ -118,3 +118,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.44:8880?mode=gun&security=&
 vless://1375d25a-f70e-4843-8dda-ef8d71add584@iranvpnplus.set7.site:12394?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=&encryption=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
 vless://1083b78d-6963-50a4-8976-06579ed912ea@zula.ir:443?path=%2Fvless&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=cdn37895346.erfantop.ir&fp=chrome&type=ws&sni=cdn37895346.erfantop.ir#🔥Join+Telegram:@Farah_VPN🟣
+vless://98a6bc60-f1e3-44c9-8cb6-c238b9e4dc02@WWW.SPEEDTEST.NET:2052?path=%2F%3Fed%3D2052&security=&encryption=none&host=turkey.mizbangostar.com&type=httpupgrade#🔥Join+Telegram:@Farah_VPN🟣
+vless://98a6bc60-f1e3-44c9-8cb6-c238b9e4dc02@f.tehranserver.site:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=random&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#🔥Join+Telegram:@Farah_VPN🟣
