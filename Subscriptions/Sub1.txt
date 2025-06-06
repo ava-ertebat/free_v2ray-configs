@@ -41,3 +41,4 @@ vless://b8a0fe1a-fbea-4572-a878-20b7f7c98636@104.24.254.125:80?path=%2FProxyIP%3
 vless://90d7db9b-972b-4073-8738-12cf42124260@104.16.114.221:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@15.236.13.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@15.236.13.62:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.116.16.35:48172#🔥Join+Telegram:@Farah_VPN🟣
