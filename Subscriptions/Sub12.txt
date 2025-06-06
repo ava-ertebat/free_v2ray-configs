@@ -94,7 +94,7 @@ trojan://Aimer@154.211.8.47:2096?allowInsecure=0&sni=epmd.ambercc.filegear-sg.me
 trojan://Aimer@67.226.221.199:80?allowInsecure=0&sni=epmd.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@220.86.131.135:50001?allowInsecure=0&sni=epmd.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://607d365e-7ea1-11ee-95e9-f23c913c8d2b@c5d812aa-sx4v40-sx7hbg-1mmbp.cu.plebai.net:15229?allowInsecure=0&sni=c5d812aa-sx4v40-sx7hbg-1mmbp.cu.plebai.net#🔥Join+Telegram:@Farah_VPN🟣
-trojan://cabaacb-abac-abca-badc-cacbccbabaab@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://cabbaca-baac-aacb-cbda-abccccbabbaa@127.0.0.1:2080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://aaabccb-caba-acba-dabc-bacababcbcca@127.0.0.1:3080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://Aimer@221.163.173.252:50000?sni=epms.ambercc.filegear-sg.me&allowInsecure=0#🔥Join+Telegram:@Farah_VPN🟣
+trojan://babcaca-aabc-bcaa-bcad-bbacbcbcacaa@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://baccbaa-baca-cbaa-cbad-cbaccbaaabcb@127.0.0.1:2080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://caabbca-aabc-bcaa-cabd-bbaccaaccabb@127.0.0.1:3080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://bpb-trojan@172.67.209.80:443?security=tls&sni=403b3611-99Bc-43b7-88D7-26ED5d0825a9-3.pAgeS.Dev&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
