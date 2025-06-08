@@ -182,3 +182,5 @@ vless://a10cf769-1141-4031-ab36-165345bbda9f@128.140.97.5:49462?type=tcp&path=%2
 trojan://telegram-id-privatevpns@3.73.204.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@3.73.204.125:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 vless://183d4a1f-6ce9-43e9-d62c-ffe4c0eded47@asanaf.ir:24572?encryption=none&security=tls&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://9835fbea-cfb1-402a-bdc6-16ca140c6788@78.159.131.160:443?encryption=none&security=reality&sni=www.samsung.com&fp=firefox&pbk=gWjVFJOoNc92yFN9zAKErrtFuA1UmS4PI6sLSYBI7VM&sid=e1f576c5&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&sni=chop-wrist-bud.stark-industries.solutions&allowInsecure=1&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
