@@ -184,3 +184,7 @@ trojan://telegram-id-directvpn@3.73.204.125:22223?security=tls&alpn=http/1.1&hea
 vless://183d4a1f-6ce9-43e9-d62c-ffe4c0eded47@asanaf.ir:24572?encryption=none&security=tls&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://9835fbea-cfb1-402a-bdc6-16ca140c6788@78.159.131.160:443?encryption=none&security=reality&sni=www.samsung.com&fp=firefox&pbk=gWjVFJOoNc92yFN9zAKErrtFuA1UmS4PI6sLSYBI7VM&sid=e1f576c5&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&sni=chop-wrist-bud.stark-industries.solutions&allowInsecure=1&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://87b0c54e-11ae-4308-b927-8a065ef68288@188.245.120.39:4928?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://7343f4bf-7a48-4f68-db27-6570cf21aeea@188.34.164.75:2053?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@63.178.47.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
