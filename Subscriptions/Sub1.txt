@@ -188,3 +188,7 @@ trojan://telegram-id-directvpn@13.36.9.255:22223?security=tls&alpn=http/1.1&head
 trojan://telegram-id-privatevpns@13.36.9.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.147:443?encryption=none&security=tls&sni=147135004002.sec20org.com&type=raw&headertype=none#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#🔥Join+Telegram:@Farah_VPN🟣
+vless://f8729660-82eb-47e0-9f45-2984113316ca@www.srvice.shop:1040?security=none&type=tcp&headerType=http&path=%2Fpath&host=Fast.com#🔥Join+Telegram:@Farah_VPN🟣
+vless://f8729660-82eb-47e0-9f45-2984113316ca@www.srvice.shop:1010?security=reality&type=tcp&headerType=none&path=&host=&sni=canva.com&fp=chrome&pbk=a0_d-hjj7ByzOdLnniZTHPcRIEnT9DtI1icnlrekuDM&sid=8a1fb5d015ab108c#🔥Join+Telegram:@Farah_VPN🟣
+vless://f8729660-82eb-47e0-9f45-2984113316ca@vx.srvice.shop:1020?security=none&type=tcp&headerType=none&path=&host=#🔥Join+Telegram:@Farah_VPN🟣
+vless://f8729660-82eb-47e0-9f45-2984113316ca@ping.srvice.shop:1030?security=none&type=grpc&headerType=&serviceName=&authority=&mode=gun#🔥Join+Telegram:@Farah_VPN🟣
