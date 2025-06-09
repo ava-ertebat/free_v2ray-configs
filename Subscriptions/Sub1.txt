@@ -192,3 +192,5 @@ trojan://fefba36d-5142-42f1-b14d-db5249511d93@172.67.152.170:443?allowInsecure=0
 trojan://f82fb954-06a1-4f0b-9180-17e07585b61f@104.21.23.162:443?allowInsecure=0&sni=6tghjk.131.pp.ua&ws=1&wspath=%2FYu29UN3Yz8hcnI3SlZor0#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YjI3OWY5Zi1jZjhjLTRkNzgtOGNmYy1hMDc4Zjc0OWNiZGU@free.2weradf.xyz:36721#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YjI3OWY5Zi1jZjhjLTRkNzgtOGNmYy1hMDc4Zjc0OWNiZGU@free.2weradf.xyz:36115#🔥Join+Telegram:@Farah_VPN🟣
+vless://19bca0ea-541b-4fdc-bd49-5f66e7602dcf@ns7.esfahansiman.com:2030?mode=gun&security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&fp=chrome&type=grpc&serviceName=CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config&sni=wordpress.org&sid=7fe29733#🔥Join+Telegram:@Farah_VPN🟣
+vless://d53b1702-56a6-461c-ef1c-1decc60d6cf4@167.82.71.43:443?type=ws&host=aklisusa.com&path=/@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn&security=tls&fp=firefox&sni=map.google.com&allowInsecure=true#🔥Join+Telegram:@Farah_VPN🟣
