@@ -164,3 +164,4 @@ trojan://telegram-id-directvpn@3.122.81.90:22223?security=tls&alpn=http/1.1&head
 trojan://telegram-id-privatevpns@3.122.81.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 vless://V2rayvpn_official@n1.cafedorehami.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.cafedorehami.shop#🔥Join+Telegram:@Farah_VPN🟣
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@162.19.249.240:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#🔥Join+Telegram:@Farah_VPN🟣
+vless://b8245016-e494-4eb8-834d-207995abd821@5.75.202.153:20003?security=reality&encryption=none&pbk=F7VsJyw_2U5Bmdvx1JWogG0CCZfoQGPOZL-gTybpIRE&headerType=none&fp=chrome&spx=%2FCopy-az-chahnnel-JOKERRVPN&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net.vip.ger.dbsll.ir&sid=23f44163#🔥Join+Telegram:@Farah_VPN🟣
