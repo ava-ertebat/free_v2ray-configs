@@ -102,3 +102,4 @@ vless://26979b4d-1ff8-4c8f-940e-5eb4c116c8f7@93.127.180.140:443?security=reality
 ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@47.129.171.73:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNjgxZmQ2MC04M2VjLTQyMDgtOGUxNi0xOTJkNDYyMTBkNTE@free.2apzhfa.xyz:31271#🔥Join+Telegram:@Farah_VPN🟣
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a10.taipeicitygovernment.kyiv.ua:3462?allowInsecure=0&sni=45.32.28.232#🔥Join+Telegram:@Farah_VPN🟣
+trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@183.232.235.2:8313?allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
