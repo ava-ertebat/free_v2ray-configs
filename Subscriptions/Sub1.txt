@@ -156,3 +156,12 @@ vless://fdc3553f-795c-4279-b9c9-4d6eb0c3d5c2@webhook-receiver.4b3a.com:8443?secu
 vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@104.24.13.124:2087?security=tls&sni=hi.univermap.site&type=ws&host=hi.univermap.site&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.107:443?encryption=none&security=tls&sni=147135001195.sec22org.com&alpn=h2%2Chttp%2F1.1&type=raw&headertype=none#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a1.samanehha.co:443#🔥Join+Telegram:@Farah_VPN🟣
+trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@15606cc9-sw3ts0-t1bnjq-1krtb.cu.plebai.net:15229?allowInsecure=0#🔥Join+Telegram:@Farah_VPN🟣
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.21.235.84:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.67.71.207:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@52.28.53.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:52013/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Futvbnrzejpmt%3Bhost%3Dhkkh11v1.xpmc.cc%3Btls#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@52.28.53.95:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZWRhMWQ4OS01NDllLTRjZjQtOTU4Yy0wMTM2ZTkzNWU3NzM@free.2weradf.xyz:36341#🔥Join+Telegram:@Farah_VPN🟣
+vless://9b7645aa-91f4-4f6d-98d9-c22f4ce8784f@151.101.1.91:80?type=ws&host=trickshow.silaber.net&path=%2F%3Fed%3D1024#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZGUxMjBmNy1lZWU4LTQ2NjUtODc5Ny1kYmRmNzg2Y2VmMzc@free.2apzhfa.xyz:31171#🔥Join+Telegram:@Farah_VPN🟣
