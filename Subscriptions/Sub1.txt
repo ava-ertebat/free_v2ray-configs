@@ -101,3 +101,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:54259#🔥
 vless://89780139-39db-4ae9-adc5-00d9da4bb8b3@104.24.237.26:2082?path=%2F%3Fed%3D2560&security=none&encryption=none&host=server123.amirjacksonpp.workers.dev&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 vless://89780139-39db-4ae9-adc5-00d9da4bb8b3@188.114.98.94:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=server123.amirjacksonpp.workers.dev&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 vless://89780139-39db-4ae9-adc5-00d9da4bb8b3@162.159.153.125:2095?path=%2F%3Fed%3D2560&security=none&encryption=none&host=server123.amirjacksonpp.workers.dev&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+trojan://RlzoEILU@36.151.251.61:7789?allowInsecure=0#🔥Join+Telegram:@Farah_VPN🟣
+vless://129ec9f4-56a9-497f-91fc-9a062faf5d72@151.101.193.124:80?security=none&type=xhttp&host=virus.global.ssl.fastly.net&path=%2F#🔥Join+Telegram:@Farah_VPN🟣
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.85.118.20:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=mypHOtoGRAPICpIctUre.iR&path=%2FfJBvsL0uR2MtzRig&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
+vless://0b7c8857-ff0e-4a4f-ac0f-949f4fc48251@server1.les88xz.ir:3070?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
