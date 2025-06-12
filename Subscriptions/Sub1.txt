@@ -126,3 +126,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?mode=gun&securi
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.19.173.248:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
 vless://9a9a8e07-2735-46cb-9a94-686d030ca654@104.21.44.35:443?security=tls&sni=hormozgan.losehismind.ir&type=ws&path=%2F#🔥Join+Telegram:@Farah_VPN🟣
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.179:8880?security=none&sni=pqh36v1.economy36top.shop&type=grpc&host=pqh36v1.economy36top.shop#🔥Join+Telegram:@Farah_VPN🟣
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo01a.kbservice.club:443?allowInsecure=0&sni=45.32.28.232#🔥Join+Telegram:@Farah_VPN🟣
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.4.161:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.67.154.177:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
+trojan://114ad614-fe6c-4422-b0af-be6161190d7a@104.21.61.154:443?allowInsecure=0&sni=DDrt.191266.Xyz&ws=1&wspath=%2FBy7cEmOrNRS58yeduy9AOG#🔥Join+Telegram:@Farah_VPN🟣
+vless://6965e558-73a4-4808-a778-67e8a82d15aa@162.159.153.28:2083?security=tls&sni=1.659118019.uk&type=ws&host=1.659118019.uk&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
+vless://ae20b743-9c67-4ba9-86f5-116a4a838b12@104.17.221.248:443?sni=aq.oldcloud.online&type=ws&host=aq.oldcloud.online#🔥Join+Telegram:@Farah_VPN🟣
