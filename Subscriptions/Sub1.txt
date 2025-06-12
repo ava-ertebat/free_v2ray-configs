@@ -143,3 +143,7 @@ vless://699af340-f881-4fb0-b5fa-6e9ce0eba0df@172.67.70.92:2053?sni=myvless-bt3.p
 vless://0a7bfa18-4a7a-44e4-ac6f-0e385b4e4902@173.245.59.132:8080?security=none&type=httpupgrade&host=mahdiserver.nanvrfood.ir.&path=%2F%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR%3Fed%3D2048#🔥Join+Telegram:@Farah_VPN🟣
 vless://dbbfc9a5-7bed-45fd-afae-a655f285788d@104.26.15.85:8880?security=none&type=ws&host=de-snapp.academigroup.ir.#🔥Join+Telegram:@Farah_VPN🟣
 vless://66f1504e-26ab-4219-c8d6-eab468906e46@167.82.72.20:443?type=ws&host=aklisusa.com&path=/@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn&security=tls&fp=firefox&sni=map.google.com&allowInsecure=true#🔥Join+Telegram:@Farah_VPN🟣
+vless://51d3d249-9095-4cbd-8fd2-3e6c1039cab4@172.67.180.238:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=falcunargo.c2259d7c10.workers.dev&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://41398380-2073-4d85-878a-24194a6f04a3@172.67.176.159:80?path=%2FSy0HOf5sZffep0QQ%3Fed%3D2560&security=none&encryption=none&host=3.azadteam.workers.dev&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.16.19.242:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://a3875c94-e968-404c-b62d-5a292d20e6d8@104.16.171.121:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=polished-limit-deb9-ppal03.latopi8673.workers.dev&type=ws#🔥Join+Telegram:@Farah_VPN🟣
