@@ -97,4 +97,4 @@ trojan://1b4c16925f934c57b954a9f0f23dea33@42.240.152.238:8842?allowInsecure=0&sn
 trojan://85f133142f04dbf6547da33895cfabb3@113.99.140.184:39001?allowInsecure=0&sni=www.yrtok.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://85f133142f04dbf6547da33895cfabb3@120.233.128.68:39001?allowInsecure=0&sni=120.233.128.68#🔥Join+Telegram:@Farah_VPN🟣
 trojan://85f133142f04dbf6547da33895cfabb3@203.156.253.11:39001?allowInsecure=0&sni=www.yrtok.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://aabbcca-aabc-abca-bacd-cbcbaaabccab@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://bcaabca-baca-caba-abcd-acabbacbaccb@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
