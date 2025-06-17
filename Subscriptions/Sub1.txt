@@ -27,3 +27,15 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.148.104.245:80?path=Telegram%3A
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@97.107.140.236:1234#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsa3dxbGE3QjdJMXpQMUJadDlIOUZC@78.157.48.148:443#🔥Join+Telegram:@Farah_VPN🟣
 vmess://eyJhZGQiOiAiMTM1LjEyNS4xODIuNzQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjgxODUyNzcxLTc2ZmItNGU5NC1lNGYxLTRlMzdhNjk4YTQ5YSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjgyMTMiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+trojan://telegram-id-directvpn@63.178.113.40:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NTNmOGQ2Zi02YjViLTQxNzctYmY2Mi1jZTZkYTdhNDVlZmE@free.2weradf.xyz:36371#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NTNmOGQ2Zi02YjViLTQxNzctYmY2Mi1jZTZkYTdhNDVlZmE@free.2weradf.xyz:36245#🔥Join+Telegram:@Farah_VPN🟣
+vless://affcee24-347d-4560-b6c4-a4b7de2c46e4@65.109.206.26:8443?security=reality&sni=yahoo.com&type=xhttp&path=%2F0dabc840&fp=chrome&pbk=t3prgYgoa1tqbHO4COp5n_oioHRdqWam7U4NILtdNWk&sid=fe#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@188.164.159.91:2083?allowInsecure=0&sni=epcco.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NTNmOGQ2Zi02YjViLTQxNzctYmY2Mi1jZTZkYTdhNDVlZmE@free.2weradf.xyz:36243#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@47.128.155.142:443#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@63.178.113.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://8c3d2a37-283f-4364-bfa9-ad40d6a47b1b@x6.sinapp3.com:48086?security=&encryption=none&host=gmail.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://5e597e5d-7593-4ecd-8cf1-593d0d1c1b3c@sr2.tsping.sbs:2082?security=&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://146d4f0a-c3dc-b0b2-4008-0ebdba26ca9c@c1.ersalb.top:8443?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJhZGQiOiAiOTQuMTgyLjEzMS4xOTUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiTm9uZSIsICJpZCI6ICIxOWFlMGNlZS03ODRkLTRiMTktYmYwYy1iOGY1NGY4Nzk3MDgiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyMDg4MyIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
