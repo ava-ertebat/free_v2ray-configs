@@ -89,3 +89,8 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@104.17.221.248:443?sni=xx.bgm2024.d
 trojan://telegram-id-privatevpns@13.43.154.4:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 vless://38c43ecd-23d4-4e20-9b14-fc624708f01d@104.16.157.108:8080?path=%2F%40MaSTeRSeRVeR1-%40-MaSTeRSeRVeR1%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1%3Fed%3D2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🔥Join+Telegram:@Farah_VPN🟣
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@77.91.122.176:2052?security=&fp=chrome&type=ws&path=/&host=zpixdadk1.kortiz.info&encryption=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://ca9074b2-2442-43b8-c7ab-5440cb7f3ef7@151.101.2.219:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#🔥Join+Telegram:@Farah_VPN🟣
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
+vless://c2f690dc-6187-48a8-aa8b-b75d43d11df4@104.17.147.22:2053?security=tls&sni=app15.appdatanew2025g.lat&type=ws&host=app15.appdatanew2025g.lat&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔥Join+Telegram:@Farah_VPN🟣
+vless://15298f41-e80b-463a-b85b-0c903258a1c8@104.16.41.28:443?security=tls&sni=d5.medicaltreatment.ir&type=ws&host=d5.medicaltreatment.ir&path=sinavm-sinavm%2F%3Fed%3D2560&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
+vless://ffff9fa0-a8b5-4230-8f08-c139f9d08ffc@172.67.187.18:2087?security=tls&sni=panel.proxystore11.news&type=ws&host=panel.proxystore11.news&path=%2Fprx11&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
