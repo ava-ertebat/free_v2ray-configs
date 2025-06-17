@@ -55,3 +55,6 @@ vless://5f566fbf-13bc-4312-ae37-ea173c4ef4bb@89.34.230.246:14116?security=none&e
 trojan://3828095943467868160@162.216.231.86:443?allowInsecure=1&sni=main-hound.dolphin109.quest#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMzRlNzQyMi01YjEzLTQyM2ItYjNjZi04NTJjYTAzNzIzYmQ@free.2weradf.xyz:36143#🔥Join+Telegram:@Farah_VPN🟣
 vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.17.85.22:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=aymng.bahareh.dpdns.org&fp=random&type=ws&sni=aymng.bahareh.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@108.165.152.113:443?allowInsecure=0&sni=epcca.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vless://b74e1b96-d8fd-4aac-b621-91990a6c3251@151.101.64.155:80?type=ws&host=aklisvip.com&path=/@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn&security=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://387d590b-38dd-48d7-a3a4-c791ecc642f7@arvan.aws-sub.com:5540?security=reality&encryption=none&pbk=LX9nuq50pPDqg48F1NU4Eo7tSyornI5wWmfQbCpqcWk&headerType=none&fp=firefox&type=tcp&sni=anten.ir&sid=89dd7fbc#🔥Join+Telegram:@Farah_VPN🟣
