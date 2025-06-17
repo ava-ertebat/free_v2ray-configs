@@ -159,3 +159,13 @@ vless://a7e0cb26-4d5e-454c-90f8-439c988b8aaa@104.17.148.22:8880?type=ws&host=joi
 trojan://Aimer@188.164.159.91:2083?allowInsecure=0&sni=epccd.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@147.79.20.239:443?allowInsecure=0&sni=epcca.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@ignacio.ns.cloudflare.com:443?allowInsecure=0&sni=epcca.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.113.10.230:443#🔥Join+Telegram:@Farah_VPN🟣
+vless://d96ddab8-306d-4a6b-86d9-d8e427316075@23.227.60.231:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔥Join+Telegram:@Farah_VPN🟣
+vless://542f0c58-1bec-41e3-8150-646872b33847@104.19.54.50:8080?security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net.&path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy%3Fed%3D2048#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@79.137.204.220:2053?allowInsecure=0&sni=epccd.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://3828095943467868160@85.234.83.28:443?allowInsecure=1&sni=workable-puma.dolphin109.quest#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@154.17.224.83:443?allowInsecure=0&sni=epccd.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vless://79670c78-bef9-4ec4-93dd-54f5a219048a@104.21.96.1:8080?security=none&type=httpupgrade&host=api.acveo.ir&path=%2FTelegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs%3Fed%3D2048#🔥Join+Telegram:@Farah_VPN🟣
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.84:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome&allowInsecure=0#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.207.191.66:443#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@124.156.202.172:443?allowInsecure=0&sni=epcca.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
