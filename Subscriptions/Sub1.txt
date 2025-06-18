@@ -159,3 +159,5 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.22.150.8:59483?security=auto&ty
 vless://944d8b74-7a64-4b07-a278-9f968e9ef99c@91.107.131.31:443?security=tls&sni=mw5.asalemaraghe.ir&type=ws&host=mw5.asalemaraghe.ir&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
 vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@3.148.103.139:80?security=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://51d3d249-9095-4cbd-8fd2-3e6c1039cab4@104.21.59.165:8880?type=ws&host=falcunargo.c2259d7c10.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMzVjZWVmMC1jOTQ5LTRlNGUtYmNhYS1hYWFhZmI5ZDA1NDk@free.2apzhfa.xyz:31511#🔥Join+Telegram:@Farah_VPN🟣
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.188:443?sni=vc.ylka.dpdns.org&type=ws&host=vc.ylka.dpdns.org&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
