@@ -185,3 +185,11 @@ vless://827b7a26-79a3-4484-a3f4-319882b2b22f@zone.a3.f2hub.ir:59095?encryption=n
 vless://8c3d2a37-283f-4364-bfa9-ad40d6a47b1b@94.182.147.167:48086?encryption=none&security=none&type=tcp&headerType=http&host=gmail.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://cd9a0af5-d317-409b-a711-811e1114b123@195.190.144.146:9890?encryption=none&security=none&alpn=http%2F1.1&type=tcp&headerType=http&path=/&host=skyroom.online,gharar.ir,igap.net#🔥Join+Telegram:@Farah_VPN🟣
 vless://fe7c44be-8c46-7c80-1e88-db2ab59c3058@math3.arvinmoradi.sbs:3060?security=none&type=tcp&headerType=http&path=%2F&host=fast.com#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk1MGYwYS1kODcyLTQ5MjgtODMyMC01MWNkOTBkZTA2MzU@free.2weradf.xyz:36171#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZGRjOTQ5NS1iNjVlLTQ2Y2YtOTE4NS0yZWJhMDc3MTcyMTQ@free.2apzhfa.xyz:31241#🔥Join+Telegram:@Farah_VPN🟣
+vless://542f694b-e8bd-4b9e-858c-ccb1c46a3316@104.17.147.22:80?path=%2FMosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2%3Fed%3D2560&security=none&encryption=none&host=pamchall.com.&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://31b77383-79f0-4cfa-9cfe-30e6a1d2c6f3@104.17.148.22:8880?type=httpupgrade&host=wedbaz.websitexp.ddns-ip.net.&path=%2FWedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel%3Fed%3D2048#🔥Join+Telegram:@Farah_VPN🟣
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@116.47.10.236:10912?sni=bn.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.151:443?encryption=none&security=tls&sni=simorgh.hpcode.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=simorgh.hpcode.ir&path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTEyOC1nY206T09TV0RZWFRTUldNVEFFSUo4WFVDRDI3UjJGMzg0T0RLVEhYRjQxWUxSVjQ%3D@vip-iran.interservervip.xyz:31792#🔥Join+Telegram:@Farah_VPN🟣
+vless://e677672c-3091-575b-10ea-99059009ff50@tr.crocodilserver.top:9007?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
