@@ -184,3 +184,4 @@ vless://827b7a26-79a3-4484-a3f4-319882b2b22f@zone.a3.f2hub.ir:47616?encryption=n
 vless://827b7a26-79a3-4484-a3f4-319882b2b22f@zone.a3.f2hub.ir:59095?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://8c3d2a37-283f-4364-bfa9-ad40d6a47b1b@94.182.147.167:48086?encryption=none&security=none&type=tcp&headerType=http&host=gmail.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://cd9a0af5-d317-409b-a711-811e1114b123@195.190.144.146:9890?encryption=none&security=none&alpn=http%2F1.1&type=tcp&headerType=http&path=/&host=skyroom.online,gharar.ir,igap.net#🔥Join+Telegram:@Farah_VPN🟣
+vless://fe7c44be-8c46-7c80-1e88-db2ab59c3058@math3.arvinmoradi.sbs:3060?security=none&type=tcp&headerType=http&path=%2F&host=fast.com#🔥Join+Telegram:@Farah_VPN🟣
