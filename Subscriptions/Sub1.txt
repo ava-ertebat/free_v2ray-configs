@@ -115,3 +115,8 @@ vmess://eyJhZGQiOiAiOTEuMjIzLjE4Ny40MyIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6
 vless://7317e6b6-c413-446b-8173-49150dbb4a9f@azarandooz.spacetechnology.net:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=refersion.com&fp=chrome&pbk=jc7aBQq0NcbCg0lJoGCQKLyXomtpmFyY6-7ZKK8Uax4&sid=90&spx=%2Flogin%2F%40AzarAndoozVPNbot&allowInsecure=1&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://b5edc3d7-701e-4a76-9790-96d825aa1476@87.236.208.80:8003?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vmess://eyJhZGQiOiAiZ3IyLnp0cGluZy5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjhkOTAxZDNhLTk2ZDYtNDJlYS1hYzFmLThjYzI0NWUyNmQ0NCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+trojan://Aimer@176.124.223.133:2096?allowInsecure=0&sni=epcco.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@66.235.200.213:8880?security=none&encryption=none&host=jp.laoyoutiao.link&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://0791e547-9191-4981-8b38-3d490c2b41d5@37.27.191.27:1521?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔥Join+Telegram:@Farah_VPN🟣
+vless://542094fe-c01c-4b7c-9688-d012d3fc7544@104.21.91.90:2096?security=tls&sni=team.infinitespd.com&type=ws&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjODQ0NWQwNS1mOGViLTQ3NTMtYTJkMi02N2ViYTcwNjE0ODA@free.2apzhfa.xyz:31441#🔥Join+Telegram:@Farah_VPN🟣
