@@ -156,3 +156,9 @@ trojan://Aimer@216.198.53.212:8443?allowInsecure=0&sni=epcct.ambercc.filegear-sg
 trojan://Aimer@121.163.248.127:50000?allowInsecure=0&sni=epcct.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.26.14.85:2096?type=ws&host=hagh.pages.dev&path=/?ed%3D2048&security=tls&fp=random&sni=hagh.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
 vless://600f3494-61e5-42a4-8ed3-2d8b87ceef4a@trx.fxhub.ir:250?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@64.181.227.69:443?allowInsecure=0&sni=epccy.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@kip.ns.cloudflare.com:443?allowInsecure=0&sni=epccy.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@18.167.37.206:443?allowInsecure=0&sni=epcct.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vless://c86c1b94-6a1f-4107-aefa-8d3dd9e124f6@213.142.133.48:3311?security=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveE1qTTA@54.255.247.220:1234#🔥Join+Telegram:@Farah_VPN🟣
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2TVRZd01XVXpZekk1WXpoa1lqRmhPRGc1TkRKalpqQmpZV1EzTXpGaVpqTQ@43.128.212.180:3306#🔥Join+Telegram:@Farah_VPN🟣
