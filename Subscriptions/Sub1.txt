@@ -7,3 +7,6 @@ vless://be88b352-bc2e-45bf-abeb-cc117cf6f884@104.21.10.34:443?security=tls&sni=c
 vless://25af5432-ccbf-4014-8a64-831485d61073@104.19.223.79:2096?security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s28.elitemizban.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s28.elitemizban.ir#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Ng35283528@104.16.83.176:443?allowInsecure=1&sni=c2.validbv3528.eu.org&ws=1&wspath=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
 vless://9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@138.197.172.76:23492?security=tls&sni=rel21.amosrelldow.ir&type=ws&path=%2Fwss&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@35.158.9.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@159.203.30.50:23492?security=tls&sni=dir21.amosrellyek.ir&type=ws&path=%2Fwss&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@35.158.9.185:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
