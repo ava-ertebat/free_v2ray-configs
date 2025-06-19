@@ -178,3 +178,6 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@128.140.124.194:59483?type=grpc#�
 vless://fabb183d-3684-49fd-e19b-e6acfbce474b@146.75.94.133:80?security=none&type=xhttp&host=Xpnteamfastingfree.ir#🔥Join+Telegram:@Farah_VPN🟣
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.21.15:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔥Join+Telegram:@Farah_VPN🟣
 trojan://2fec7227-9abe-46f2-af18-78302b836c45@104.21.22.133:443?allowInsecure=0&sni=3fg.20220420.pp.ua&ws=1&wspath=%2FXjTi1NYwi9A2bckpqdDoAgkondVWl#🔥Join+Telegram:@Farah_VPN🟣
+vless://7feb2b8f-70c7-4720-87dc-d2d8d18cb514@151.234.162.123:20000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&headerType=http#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDY2MDhjNC0xZTNmLTRhNTctYjRlOC05ODc5ZGQ1YzA5Y2Q@free.2weradf.xyz:36441#🔥Join+Telegram:@Farah_VPN🟣
+vless://77c51666-0c17-4c42-a23e-0c06a9e3be9e@speedvip.huntexteam2.pw:50280?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
