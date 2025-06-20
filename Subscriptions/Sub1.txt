@@ -7,3 +7,15 @@ trojan://Aimer@121.190.81.4:50000?allowInsecure=0&sni=agepm.ambercc.filegear-sg.
 vless://5bc979b1-4e58-450c-a215-71cef913fae3@v3.arta20.xyz:2083?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@51.44.90.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 vless://e82f766e-298a-44bb-bc4e-d47d8b4e642e@138.201.190.167:2095?security=reality&sni=yahoo.com&type=xhttp&path=%2F&fp=chrome&pbk=8uxl7EXDlJzA1pLYVJjQHLnQJyuyFkJ6Yr47boJbFCQ&sid=e91b3bd4ead0ccd3#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.185.253.219:443#🔥Join+Telegram:@Farah_VPN🟣
+vless://0ba31b14-3f01-43e4-a97a-8908de094d33@185.93.88.139:20467?security=none&type=tcp&host=skyroom.online&headerType=http#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@sage.ns.cloudflare.com:443?allowInsecure=0&sni=agepm.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@206.237.13.162:443?allowInsecure=0&sni=agepn.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmIyZjc2ZC05ZjY1LTQzZmEtYjYzNS0yMjcyYTc4ZGEzOWI@free.2weradf.xyz:36611#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@18.199.53.32:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://9e4291c7-9460-4fdd-a73b-47d1836a1f2f@104.31.16.95:2053?security=tls&sni=ir.p30download.name.ng&type=ws&host=ir.p30download.name.ng&path=%2f&fp=chrome&alpn=h2,http/1.1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@156.251.180.181:21698?allowInsecure=0&sni=agepm.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmIyZjc2ZC05ZjY1LTQzZmEtYjYzNS0yMjcyYTc4ZGEzOWI@free.2weradf.xyz:36371#🔥Join+Telegram:@Farah_VPN🟣
+vless://4fd70f2b-bdd9-402d-8032-dcdc07748cb2@de166.armoteam.cam:1579?security=none&encryption=none&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTEyOC1nY206Y2RhMGI2ZGMtZDE4OC00ODk2LTgzY2UtNmIwNTViNzk5Nzky@mdss-hk.04z3susick.download:12006#🔥Join+Telegram:@Farah_VPN🟣
+vless://a4210a46-0113-4a69-b656-29d48436e8fb@chrome.phpdeb.ir:8447?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
