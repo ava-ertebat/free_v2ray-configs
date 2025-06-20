@@ -75,6 +75,6 @@ trojan://84587c21-9938-42fc-a4b0-4f72dd72b7aa@it.mjt000.com:443?allowInsecure=0&
 trojan://85f133142f04dbf6547da33895cfabb3@120.233.128.68:39001?allowInsecure=0&sni=120.233.128.68#🔥Join+Telegram:@Farah_VPN🟣
 trojan://85f133142f04dbf6547da33895cfabb3@113.99.140.184:39001?allowInsecure=0&sni=www.yrtok.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://85f133142f04dbf6547da33895cfabb3@203.156.253.12:39001?allowInsecure=0&sni=www.yrtok.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://aabccab-aabc-abca-cdba-cccbbababcaa@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://abbaacc-acba-bcaa-cdba-acbabcabacbc@127.0.0.1:2080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://ccaaabb-aabc-caba-bdca-abaccbccaabb@127.0.0.1:3080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://aaccbab-cbaa-aabc-abdc-cababcbbacca@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://abbcaca-caba-baac-cdab-bababccaaccb@127.0.0.1:2080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://aacacbb-baca-cbaa-dabc-cbcbcbabaaac@127.0.0.1:3080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
