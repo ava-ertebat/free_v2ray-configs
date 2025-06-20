@@ -15,3 +15,12 @@ vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.162:80?security=none&type=
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.217:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@173.245.58.100:443?security=tls&sni=cr7.medicaldream.ir&type=ws&host=cr7.medicaldream.ir&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
 vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@188.114.96.160:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYkV2SkNXQUpRR0ZQcmFKWXgwRWVB@45.138.135.155:42651#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJhZGQiOiAiaXJkZS1wMS56ZWVzaG9wLmNsaWNrIiwgImFpZCI6ICIwIiwgImhvc3QiOiAid3d3LnNwZWVkdGVzdC5uZXQiLCAiaWQiOiAiNzJkOTNmZTQtMmI0YS00OTdlLWFhNmMtZjExMjNhOGUyYWYyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9
+vless://7ac105b2-015e-466d-aeaa-fa049954c8fb@irsupgn1.gamewealth.ir:8443?security=&encryption=none&host=rubika.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://80ebecda-dc08-4a75-b2b0-b31868ebc6bb@216.239.38.21:443?security=tls&sni=gcdn.freenet-rd.xyz&type=ws&host=gcdn.freenet-rd.xyz&path=%2Fms138%2F#🔥Join+Telegram:@Farah_VPN🟣
+vless://28886c09-721a-447d-a82e-72c5500858f3@104.21.71.8:2096?security=tls&sni=tASniM.Itn24.iR&type=ws&host=tasnim.itn24.ir&path=%2FMaQIF0W0gcLzI5m8ZghCC5&fp=chrome&alpn=http%2F1.1#🔥Join+Telegram:@Farah_VPN🟣
+vless://e1d98310-db5a-4279-bbf7-760902b4af0b@104.22.59.100:443?security=tls&sni=2576.papala.filegear-sg.me&type=ws&host=2576.papala.filegear-sg.me&path=%2F%3Fed%3D2560&fp=randomized#🔥Join+Telegram:@Farah_VPN🟣
+vless://0c20237c-0f96-4e84-bcbc-ead7b8364d1c@91.107.173.93:22344?security=none&type=tcp&host=TABRIZ.NET&headerType=http#🔥Join+Telegram:@Farah_VPN🟣
+vless://95227536-5947-4a6c-bc7a-bb1d2afeefe7@185.79.158.142:8051?security=none&type=tcp&headerType=http#🔥Join+Telegram:@Farah_VPN🟣
+vless://d2638b15-7c54-4a83-b217-de0928070e2d@172.67.175.40:2083?security=tls&sni=tabnaK.FARSONlinE24.IR&type=ws&host=tabnak.farsonline24.ir&path=%2F7uihmWjuk28mo7U3sS&fp=chrome&alpn=h2#🔥Join+Telegram:@Farah_VPN🟣
