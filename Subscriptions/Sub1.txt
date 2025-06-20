@@ -117,3 +117,8 @@ trojan://Aimer@77.232.140.7:443?allowInsecure=0&sni=epcce.ambercc.filegear-sg.me
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.155:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206RDlFT1RCMkpIRlVDQVJSQQ@150.116.11.9:21005#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@154.197.64.67:443?allowInsecure=0&sni=epcce.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vless://4dc82b75-e160-4cf8-9c3a-0ef5b1475e4d@185.143.233.5:443?path=%2F&security=tls&encryption=none&host=test2-b364274894-por.apps.ir-central1.arvancaas.ir&type=ws&sni=test2-b364274894-por.apps.ir-central1.arvancaas.ir#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@121.156.155.161:12314?allowInsecure=0&sni=epcce.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vless://62b0311a-88f5-448c-c1c2-2f30c565c26b@v1.mailiran.net:13210?encryption=none&security=none&type=ws&path=%2F#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@52.47.109.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@52.47.109.58:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
