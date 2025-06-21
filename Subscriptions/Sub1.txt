@@ -21,3 +21,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MmFhOTZkNC1mYjgzLTRmZjItOWFiYS03ZGY1NWI0Yzg
 vless://ee62d09e-caff-4a4a-9d87-9cc72d8e7a9c@server-farna1.anush.top:2087?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://f456a478-b619-4f8c-8e43-2b3b2844d4bc@alternative.anabelrz.xyz:443?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://78371cad-d1f1-4b4c-d3c8-a6fb2cea67a4@mainserver2.tarighi.info:16520?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://413775c3-ec6e-4d65-a969-336205799f44@vgzmw8toua.the-scary-deep-forest-of-my-mind.top:5112?encryption=none&security=none&type=tcp&headerType=http#🔥Join+Telegram:@Farah_VPN🟣
+vless://fa8fe712-142c-46d7-9a4b-77032d34bd30@f1.arshiashop.org:2086?type=ws&path=/?ed%3D2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://48e052e8-c6cc-3a47-8b87-af86cad8d545@81.29.255.187:610?path=%2Fws&security=&encryption=none&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.24.7.221:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔥Join+Telegram:@Farah_VPN🟣
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.234:2053?security=tls&sni=official.tokyometropolis.kharkov.ua&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+vless://129146bf-83ca-41c7-a819-e562c06e8699@cdn.goferi.top:443?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
