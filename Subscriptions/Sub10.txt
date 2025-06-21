@@ -69,8 +69,8 @@ trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21179?allowInsecure
 trojan://03e92910-34b1-4245-ac63-04a865f43cd5@104.21.84.242:443?allowInsecure=0&sni=3ERt.4444916.XyZ#🔥Join+Telegram:@Farah_VPN🟣
 trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21179?allowInsecure=0&sni=k30.tudou211.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://VdWBGFmg@36.151.251.62:23770?allowInsecure=0&sni=TG.WangCai2#🔥Join+Telegram:@Farah_VPN🟣
-trojan://cabcbaa-acab-aacb-bdac-bbcbaacbcaca@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://cacbbaa-caba-baca-acdb-abbccaacbcab@127.0.0.1:2080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://baccbaa-baac-acab-bdac-cacabbcbcaab@127.0.0.1:3080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://Aimer@104.18.69.242:443?sni=epccf.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.58:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D212.183.88.58%3A443#🔥Join+Telegram:@Farah_VPN🟣
+trojan://aabcbca-caba-baac-dcba-abcabbcacbca@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://aaabccb-acba-acab-cabd-babcacbcbcaa@127.0.0.1:2080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://baacacb-abac-abac-cbda-cabcacacbbba@127.0.0.1:3080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@104.16.34.159:443?sni=epccv.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@104.19.38.166:443?sni=epccf.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
