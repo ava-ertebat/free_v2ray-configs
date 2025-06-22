@@ -124,3 +124,5 @@ vless://f75dedd2-3088-32c7-2d25-fd1f7f3053d2@l75.magicnetwork.info:443?security=
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.54:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
 vless://6e30bc3d-0e3a-4399-9a02-c2d943e8d108@tfir.tehranify.shop:2344?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://b5991ab6-76c0-45c5-ab96-886e5430b90a@151.234.162.254:1022?path=%2F%3Fed%3D2048&security=tls&encryption=none&fp=firefox&type=ws&sni=reverse-tunnel.maketunnelim.lat#🔥Join+Telegram:@Farah_VPN🟣
+vless://a0c2611d-798a-4502-ec15-6432d554a4cd@stjadgal.golden-ping.ir:52127?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://cce12a8b-abc8-4f2c-9cd8-62e4e96e863a@5.144.132.230:6067?encryption=none&security=none&type=grpc&authority=&serviceName=2055vless&mode=gun#🔥Join+Telegram:@Farah_VPN🟣
