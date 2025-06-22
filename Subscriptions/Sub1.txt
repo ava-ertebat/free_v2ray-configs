@@ -4,3 +4,11 @@ vless://5eb7f372-49e3-4d6d-a9db-c6dc80a5abf8@tuni.sdcards.ir:4009?security=none&
 vmess://eyJhZGQiOiAibS5nZTMuZGFpbHlkb3Nlb2ZtZW1lLnVubyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ3d3cudmFyemVzaDMuY29tIiwgImlkIjogImFhN2RkOTZiMGE3ZDgxZGIyZTcxNTUzYWJlMTkyNjIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMTc1NjQiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
 trojan://biS%28YrwB%2C3L%24@185.143.235.5:443?sni=mydigipay.com&fp=randomized&host=login.panel.link-kon.ir&alpn=http%2F1.1&type=ws&security=tls&path=%2FtrjEUVvM7dgjVVlrrX%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
 vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@turkey.jewelll.ir:3311?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@18.135.34.118:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@51.21.166.9:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
+vless://1ef2da65-b1fd-63a6-aadb-9d2205ad45e5@94.23.172.191:443?security=reality&sni=api.licensesara.com&type=grpc&serviceName=xyz&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔥Join+Telegram:@Farah_VPN🟣
+vless://a953e567-ce00-4c95-a96f-6e9fd55d4378@vip.filterchi.shop:2089?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:8443?security=tls&sni=Be9AqSoYcF.mYsPdMmEtI.cOm&type=ws&host=Be9AqSoYcF.mYsPdMmEtI.cOm&path=/&alpn=h3h2#🔥Join+Telegram:@Farah_VPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.246.70.243:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://c9bb2e49-bfb7-4284-a423-71c0df98d4eb@103.253.43.210:443?security=tls&flow=xtls-rprx-vision&sni=hon5.vpntype.dev&type=tcp&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://3gSFTSaSFB29S37DD3D6ne6q93nOCZz4FxYYpRacjp0ITRyRSc24AZypZCll88DXuaCDl@13.229.71.112:28332?sni=morlin.protocolbuffer.com#🔥Join+Telegram:@Farah_VPN🟣
