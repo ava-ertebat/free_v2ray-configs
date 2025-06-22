@@ -131,3 +131,13 @@ vless://635b2234-f3ca-45d5-b3ec-16db1eb509f9@151.101.0.155:80?path=%2Ftelegram-%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.86.199:443#🔥Join+Telegram:@Farah_VPN🟣
 vless://cb6b2a66-cfbf-4ce7-a971-0ab8d95f1867@151.101.2.216:80?security=none&type=ws&host=FastShoVpn.TelegramChannel.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.251.32.145:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@13.38.180.105:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.217.115.239:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206ZTRkOTg0NTMtZDE2Yi1jZjRlLTg3ODEtM2I3NWNlYzNkMWUw@38557654738726634736956357123082.international-ixp.com:11309#🔥Join+Telegram:@Farah_VPN🟣
+vless://42b6ddbc-dde5-4ca5-b346-93e8d24e3e53@151.101.2.133:80?path=%2F%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps%3Fed%3D2048&security=none&encryption=none&host=jookermovie.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVlUyN0xxdUFNT2VYbVllU3RJODk3@188.126.83.62:32448#🔥Join+Telegram:@Farah_VPN🟣
+vless://187c9963-790b-441d-b887-700a46a4665c@gs1.teymoor.top:2500?type=ws&path=%2F&host=&security=none#🔥Join+Telegram:@Farah_VPN🟣
+trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@54.254.189.222:443?security=tls&sni=uk.liangyuandian.top&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+vless://8be28611-eea4-458b-9061-1d163afff790@151.101.64.155:80?path=%2Fde%3Fed%3D1048&security=&encryption=none&host=Shuposipet.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://1f048898-02fa-4b10-8081-a6b65184a80d@151.101.0.155:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=&encryption=none&host=joinZEDMODEONyour-name.global.ssl.fastly.net&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://5a81db08-7af3-49a4-b089-b7a5b2c24c38@54.250.148.226:20230?security=tls&sni=jp007.421421.xyz&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
