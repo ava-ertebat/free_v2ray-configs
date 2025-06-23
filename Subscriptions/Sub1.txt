@@ -68,3 +68,9 @@ trojan://Vad3.123a%29asd1234-asdasd.asdazzS.123@43.154.83.213:443?security=tls&s
 vless://631cea31-f6e9-4b92-b5b5-59092455daa6@65.109.209.201:7642?security=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.10.214.213:8880?security=none&encryption=none&host=jp.laoyoutiao.link&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://3618c3e4-b322-4553-b776-61556bea3757@104.21.16.1:2096?security=tls&sni=MAHdIServEr-3Xv.paGeS.DEv&type=ws&host=mahdiserver-3xv.pages.dev&path=%2FHOEtfSgg9GnPDz38%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔥Join+Telegram:@Farah_VPN🟣
+vless://22b012e1-3087-40be-b16a-a5da34056c8e@rayo14.ultramat.co:46414?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://7ee633a0-0490-4607-9a88-4b7299dabecb@109.230.91.202:443?mode=gun&security=tls&authority=&type=grpc&serviceName=gr1.grtj.sulindac.top&sni=gr1.grtj.sulindac.top#🔥Join+Telegram:@Farah_VPN🟣
+vless://ad35c88b-8e6c-4dac-d29b-f04b42210d33@151.101.66.228:443?security=tls&sni=zmaoz.faculty.ucdavis.edu.&type=ws&host=fonmelo.com&path=%2Folem%2Fws%3Fed%3D4096&fp=chrome&alpn=h2%2Chttp%2F1.1#🔥Join+Telegram:@Farah_VPN🟣
+vless://ad35c88b-8e6c-4dac-d29b-f04b42210d33@151.101.194.228:443?security=tls&sni=zmaoz.faculty.ucdavis.edu.&type=ws&host=fonmelo.com&path=%2Folem%2Fws%3Fed%3D4096&fp=chrome&alpn=h2%2Chttp%2F1.1#🔥Join+Telegram:@Farah_VPN🟣
+vless://1465a37a-348d-c75d-2a89-eae2665c2862@85.133.250.18:443?encryption=none&security=none&type=tcp&headerType=http&host=divarcdn.com#🔥Join+Telegram:@Farah_VPN🟣
