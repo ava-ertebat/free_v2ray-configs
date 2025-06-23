@@ -122,3 +122,14 @@ vless://c93fa5bd-88f6-45e5-b068-bf3d261686b8@ir.tunneled.site:5050?security=none
 ss://YWVzLTI1Ni1nY206NWZjYmU3NmRmNDJl@jplistv1-2.dsjsapi.com:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bmux%3D4%3Bhost%3Djplistv1-2.dsjsapi.com%3Bpath%3D%2Fogwsdhnxjs%3Bmux%3Dmux%3D4%3B%3B#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206MWFhMjNlY2VmZWJhNjY2OQ@194.87.196.7:50120#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206ZDdhMTVmN2E0YzgwNmEzMw@195.133.5.176:50210#🔥Join+Telegram:@Farah_VPN🟣
+trojan://bcf96c9b-30bf-4ab0-bc28-6076218f2a14@103.224.182.249:443?security=tls&sni=z9.gozargah.one#🔥Join+Telegram:@Farah_VPN🟣
+vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2FRklUHeautH5uvnSB%2FNTQuMTY5LjIyOS4xODg&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hOZori.iR#🔥Join+Telegram:@Farah_VPN🟣
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@37.48.65.155:443?security=tls&sni=trus.moonfree.top&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+vless://20207f5d-c3b2-4341-83ae-43cd9c82c356@1.iran2.axenet.company:1112?security=tls&encryption=none&host=cdn.jsdelivr.net&headerType=http&type=tcp&sni=1.main.axenet.company#🔥Join+Telegram:@Farah_VPN🟣
+vless://57349012-601d-4425-b5d2-3a94db2f4b1b@i.last021.top:2087?security=none&encryption=none&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://c93fa5bd-88f6-45e5-b068-bf3d261686b8@ir2.alirez-music.ir:5050?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://5a04dda8-7759-419d-8b74-9521371e86fd@mza2tu.lizardshop.org:8085?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.0.155:80?type=ws&host=join-bede-----mosiv2.ir&path=%2FMOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🔥Join+Telegram:@Farah_VPN🟣
+vless://57349012-601d-4425-b5d2-3a94db2f4b1b@mtn.ivy-net.ir:8080?security=none&encryption=none&host=PiLe.X-Zula.iR.&type=httpupgrade#🔥Join+Telegram:@Farah_VPN🟣
+vless://20207f5d-c3b2-4341-83ae-43cd9c82c356@1.iran2.axenet.company:1156?security=tls&encryption=none&host=cdn.jsdelivr.net&headerType=http&type=tcp&sni=1.main.axenet.company#🔥Join+Telegram:@Farah_VPN🟣
