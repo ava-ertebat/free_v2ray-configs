@@ -195,3 +195,6 @@ vless://3618c3e4-b322-4553-b776-61556bea3757@104.21.96.1:2096?security=tls&sni=M
 vless://d5455ee6-6f9b-41d0-9043-ce160bff5e13@151.101.3.8:80?security=none&type=ws&headerType=&path=%2Fdownload&host=haledada.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://d80186bd-2fa4-4908-95a0-95d56516f038@warden.microsof.click:33508?path=%2F&security=none&encryption=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 vless://8c4df824-560c-45b7-9a71-4595bc9ea543@hi.forgesis.ir:51501?security=tls&encryption=none&alpn=h3,h2,http/1.1&headerType=none&fp=chrome&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://559a623c-398e-48ba-b9e3-f7b1a8a3be7b@185.49.105.236:26548?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://4e0b9bb7-1df7-40c0-af4a-fccb0ef17249@151.101.0.155:80?mode=packet-up&path=%2Fcategory%2Ftraining%2F%3Fed%3D8080&security=&alpn=h2&encryption=none&host=bama.ir&fp=chrome&type=xhttp&sni=python.org#🔥Join+Telegram:@Farah_VPN🟣
+vless://ae9539b5-70dd-41b5-9666-11a29559a840@ver2.tcod008.info:59761?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
