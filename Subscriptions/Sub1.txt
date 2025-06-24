@@ -144,3 +144,15 @@ vless://d72af968-5f69-4542-8cb7-241ba2a4f387@joondel.fastsoft98.ir:80?type=xhttp
 vless://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza5.lalash.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=reza-aliyari722.global.ssl.fastly.net&type#🔥Join+Telegram:@Farah_VPN🟣
 vless://bbff4bb6-f503-4082-ab7c-c44f4190d602@Speedtest.net:80?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=Phvrayyour-name.global.ssl.fastly.net&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@172.64.34.52:2096?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@154.21.87.99:443?sni=ngepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@44.224.24.91:443?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31571#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@156.251.180.181:21698?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://amclubs2024@198.62.62.4:443?security=tls&type=ws&sni=tr.amclub.us.kg&host=tr.amclub.us.kg#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.91.107.66:5001#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206WU9JTDA1RktaSVVCOFRVNA%3D%3D@31.40.212.221:20006#🔥Join+Telegram:@Farah_VPN🟣
+vless://7e882c9e-bd43-4a66-b5e4-8c2e5a996292@91.99.71.91:36617?mode=gun&security=reality&encryption=none&pbk=uJehQIimFAu7bJsl2eFfv4qPA8cx2fSHRZGvnjBJBxo&fp=random&type=grpc&sni=tgju.org&sid=005ea5#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@162.159.38.105:2083?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vless://55a1f6f1-2272-4830-80dd-4558920fb1f8@87.236.208.192:49685?encryption=none&security=none&type=ws&path=%2F#🔥Join+Telegram:@Farah_VPN🟣
+vless://f49c6bd8-bf6e-4a8d-80bd-55ce700381c2@arx.fast.hosting-ip.com:80?encryption=none&security=none&type=xhttp&host=Aryour-name.global.ssl.fastly.net&path=%2Fed%3F%3D2048&mode=auto#🔥Join+Telegram:@Farah_VPN🟣
+trojan://TUFfeTYV56@172.67.141.68:2096?security=tls&type=httpupgrade&sni=mizban.ITN24.IR&path=/?ed=2048&host=mizban.ITN24.IR#🔥Join+Telegram:@Farah_VPN🟣
