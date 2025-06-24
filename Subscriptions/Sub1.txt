@@ -126,3 +126,12 @@ vmess://eyJhZGQiOiAiNTcuMTI5LjY0LjIzOCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6
 vless://0c63756c-7e06-403b-8093-ac6a26ac1fb8@151.101.3.8:80?encryption=none&security=none&type=ws&host=Aeza.net&path=%2F%40SvnProBot%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
 vless://e9b14780-abea-464a-b271-d8482a217ecd@151.101.3.8:80?encryption=none&security=none&type=ws&host=speedfastly.net&path=%2F%40SvnProBot%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@118.45.241.209:50000?sni=agepq.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@104.25.254.197:2096?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://98f0c223-cb75-4faa-859e-47110b1f052b@172.67.204.84:2096?security=tls&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&host=internet4everieone7.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
+vless://0c63756c-7e06-403b-8093-ac6a26ac1fb8@151.101.3.8:80?path=%2F%40SvnProBot%3Fed%3D2560&security=&encryption=none&host=Aeza.net&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://beeebddb-ae8e-4dcb-c4b9-5c2011f2f590@srv.1.larosnetwork.shop:443?security=none&encryption=none&host=hub.docker.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://e78e5ff3-f55a-4592-8aef-1428fe822c3a@speedy.mooo.info:80?mode=auto&path=%2F&security=none&encryption=none&host=holnod.global.ssl.fastly.net&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
+vless://e9b14780-abea-464a-b271-d8482a217ecd@151.101.3.8:80?path=%2F%40SvnProBot%3Fed%3D2560&security=&encryption=none&host=speedfastly.net&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://d2b1da5b-7f0d-4004-923f-7eadc7a69b74@iza3.lalash.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=reza-aliyari72-amd.global.ssl.fastly.net&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.196.109:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://2c641da3-6038-42d9-a1f6-5bd6d3e317fc@151.101.3.8:80?type=ws&host=befreewithus.com&path=/&security=none#🔥Join+Telegram:@Farah_VPN🟣
