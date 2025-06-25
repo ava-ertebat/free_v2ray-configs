@@ -23,3 +23,14 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@142.202.49.122:9101#🔥Join+Telegram:
 trojan://Aimer@162.159.44.233:8443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://NISHIKUITAN111@104.20.151.19:443?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@104.19.107.190:2096?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vless://a804bb53-7504-4f06-96d8-ff56fb71539d@speedserver.panelsultraserver.com:32990?security=&encryption=none&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://c92794ee-7c70-4faa-8f07-e7cec2cb14c9@5.160.109.9:24989?security=none&encryption=none&type=tcp&host=exo.ir&path=/&headerType=http#🔥Join+Telegram:@Farah_VPN🟣
+vless://fea99d38-e028-4178-ad4a-ef5540e5c8ba@www.speedtest.net:2053?path=%2FTzwMLdirWgva65Ev%2FdHMuaHBjLnR3%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=mywebpan.114514660.xyz&fp=randomized&type=ws&sni=MYWEBPaN.114514660.XYZ#🔥Join+Telegram:@Farah_VPN🟣
+vless://3aade664-2a89-4cda-9476-d42f8f1d9ef3@151.101.66.133:80?type=ws&host=JoinChannel--ELiV2--ELiV2.iR#🔥Join+Telegram:@Farah_VPN🟣
+vless://9530a590-49bc-41dd-9499-88c33614ef28@151.101.128.155:80?security=none&type=ws&host=ramzarz.news&path=%2Fshark%2Fu%2F0%2Finbox#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@15.237.148.200:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
+vless://1c594db5-fc53-4426-b1f2-0ff58809ba96@alIi.soBaTnEt.iR:80?mode=auto&path=%2Fsvfzdxbgchvn&security=&encryption=none&host=amirzadekjsd.global.ssl.fastly.net&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.194.175:8880?security=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@129.146.226.222:587?sni=ngepz.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.191.12:8880?type=grpc#🔥Join+Telegram:@Farah_VPN🟣
+trojan://bpb-trojan@23.227.60.8:443?security=tls&type=tcp&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev#🔥Join+Telegram:@Farah_VPN🟣
