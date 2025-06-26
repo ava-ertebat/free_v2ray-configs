@@ -130,3 +130,14 @@ vless://57d127e9-38da-494b-afeb-494de5ff1a91@gb.france-learns.ir:42536?security=
 vless://2e2c7764-8f74-c142-b63b-8c0b93154d0d@88.218.16.228:1231?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@104.17.148.22:443?security=tls&sni=Tp912MvNe3.NeWrEtR432aS.iNfO&type=grpc&fp=firefox#🔥Join+Telegram:@Farah_VPN🟣
 vmess://eyJhZGQiOiAiMTM1LjEyNS4xODIuNzQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjgxODUyNzcxLTc2ZmItNGU5NC1lNGYxLTRlMzdhNjk4YTQ5YSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjgyMTMiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+ss://YWVzLTI1Ni1nY206NTNSSVVRRFpSM0IyM1RBMw==@156.231.104.18:18008#🔥Join+Telegram:@Farah_VPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2F%3Fed%3D%23%2FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+trojan://5a5d1112-4ae7-431f-bdde-0d008fb473dd@172.67.207.27:443?security=tls&sni=90.tAIpEI108.dpDnS.orG&alpn=http%2F1.1&fp=chrome&type=ws&host=90.taipei108.dpdns.org&path=%2F685uFbiRrgAsHzTP8d#🔥Join+Telegram:@Farah_VPN🟣
+trojan://blue2024@104.17.165.253:443?security=tls&type=ws&sni=ta.promote.icu&host=ta.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@156.244.9.92:990#🔥Join+Telegram:@Farah_VPN🟣
+vless://d99749f3-2e63-40f8-b461-5ca4d2ad952a@141.98.169.42:443?security=tls&sni=blog.demo98.ir&type=ws&host=blog.demo98.ir&path=%2Fwp-admin%3Fed%3D1024&fp=chrome&alpn=h2%2Chttp%2F1.1#🔥Join+Telegram:@Farah_VPN🟣
+vless://7595f665-435a-4b2f-909f-c56c4ed3aba1@151.101.3.8:80?path=%2F%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn&security=none&encryption=none&host=aklisturkey.org&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?type=ws&host=redw.pooriam.ir&path=%2F#🔥Join+Telegram:@Farah_VPN🟣
+vless://81ba22e4-ef1d-4944-8cde-3adaee509bd0@test.jeanland.shop:46443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://blue2024@198.41.200.142:443?sni=ta.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.77.246.83:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#🔥Join+Telegram:@Farah_VPN🟣
