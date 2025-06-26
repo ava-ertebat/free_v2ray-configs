@@ -8,3 +8,14 @@ trojan://telegram-id-directvpn@15.237.168.160:22222?allowInsecure=0&sni=trojan.b
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@160.187.111.61:40011#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@175.215.175.175:50003?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.97:6697#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@duke.ns.cloudflare.com:443?allowInsecure=1&sni=agepy.aimercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://s42%26umY%28K5n*csP4@104.21.64.1:8443?security=tls&type=ws&sni=JOInMAHDiseRVer-EEu.pAGEs.dEv&path=/trOagy9SuM2cDpqUqO?ed=2560&host=joinmahdiserver-eeu.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45635#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@108.165.152.76:2096?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@43.156.116.194:443?security=tls&sni=agedy.ambercc.filegear-sg.me&type=ws&path=/?ed#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SjQ0RHA1TnV4TDJzUEpuN25pZkJW@51.158.252.130:443#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzRiZThiYy00YTRkLTQ1OTktYWViOC03ZDYzNTFmM2FkODk@free.2apzhfa.xyz:31341#🔥Join+Telegram:@Farah_VPN🟣
+trojan://bpb-trojan@104.17.102.149:2053?security=tls&type=ws&sni=bpb-WorkEr-panel-bcr.PagEs.DEv&host=bpb-worker-panel-bcr.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@176.124.223.50:8443?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://naEX%5Dg*qw%40MT%26lFz@104.21.48.1:2087?security=tls&type=ws&sni=jOinMAhdIsErvEr-53k.pAGeS.Dev&path=/trb6oyXIzrlytDBNlm?ed=2560&host=joinmahdiserver-53k.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
