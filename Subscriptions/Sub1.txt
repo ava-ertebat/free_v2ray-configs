@@ -163,3 +163,9 @@ vless://e6f6da7e-b048-4f0d-8098-b8f224f5965a@151.101.3.8:80?mode=auto&path=%2Fte
 vless://Parsashonam-265@151.101.130.219:80?type=xhttp&path=/-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam&host=ParsashonamTelegramChannel1.ir&mode=auto&security=none#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.255.123.92:990#🔥Join+Telegram:@Farah_VPN🟣
 vless://2fa47d69-91d7-4f61-bb57-9e535f23126e@91.107.246.235:443?security=&encryption=none&host=google.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.20.69:2095?security=none&type=ws&host=fuckingcloudflare.20241225.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@162.159.44.232:2096?sni=ngepy.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@206.238.237.146:2083?sni=agept.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://0000000@18.238.109.28:443?security=tls&type=tcp&sni=www.lovelive-anime.jp#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#🔥Join+Telegram:@Farah_VPN🟣
+trojan://bpb-trojan@198.41.202.175:443?type=ws&sni=bpb.my79801.com&path=/tr&host=bpb.my79801.com#🔥Join+Telegram:@Farah_VPN🟣
