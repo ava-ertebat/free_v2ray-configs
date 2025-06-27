@@ -147,3 +147,11 @@ vless://e65f0a57-96f4-4c60-b550-d5bd0c20c557@99823232.webnama.com.tr:3184?securi
 vless://e65f0a57-96f4-4c60-b550-d5bd0c20c557@1.1.1.1:9828?security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#🔥Join+Telegram:@Farah_VPN🟣
 vless://e65f0a57-96f4-4c60-b550-d5bd0c20c557@892389823.webnama.com.tr:1517?security=none&type=tcp&headerType=http&path=%2F&host=testspeed-foreign.tci.ir#🔥Join+Telegram:@Farah_VPN🟣
 vless://e65f0a57-96f4-4c60-b550-d5bd0c20c557@all32-vip.f-sub.com:2434?security=reality&type=tcp&headerType=none&path=&host=&sni=www.chess.com&fp=chrome&pbk=yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA&sid=#🔥Join+Telegram:@Farah_VPN🟣
+vless://OwjVpn-OwjVpn-OwjVpn-OwjVpn@cvvmtfin.fekoli.com:2095?type=tcp&security=reality&pbk=277HDYaNIvLYS9CMSr1CbkcTaahPEUCymW_0Ad17p2M&fp=chrome&sni=yahoo.com&sid=f2&spx=%2F#🔥Join+Telegram:@Farah_VPN🟣
+trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@104.26.15.85:443?security=tls&type=ws&sni=md1.safecdn.site&path=/Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2&host=md1.safecdn.site#🔥Join+Telegram:@Farah_VPN🟣
+vless://2706427a-bf92-43b5-a001-37e31e4c4d56@209.38.114.204:17416?security=reality&encryption=none&type=grpc&sni=sourceforge.net&sid=b3&fp=chrome&pbk=X5W26tu1FjZOfBtofWeSH6QmkQddPR2wbM7atObEWik&spx=/#🔥Join+Telegram:@Farah_VPN🟣
+vless://585c1454-1453-4813-aafd-8771574f251b@grizzly.grizzlyshoppp.shop:6235?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://704198c4-37b9-473d-a5de-0333276f2f6c@104.17.148.22:2053?path=%2FTelegram%40Filter_breaker&security=tls&alpn=http%2F1.1&encryption=none&host=mahsa2.cfform.site&fp=randomized&type=ws&sni=maHsA2.cFFoRM.sIte#🔥Join+Telegram:@Farah_VPN🟣
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@209.46.30.213:8880?path=%2F&security=none&encryption=none&host=jp.laoyoutiao.link&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://76ad8213-4617-47eb-92cc-5392b39b45ce@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=eLOQuENt-caSE.ZUlaIR.orG.&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://b877ca5f-df9e-456a-897c-39ffac897fb6@91.193.59.41:2096?encryption=none&security=tls&sni=slvmjyjPEDzfzsfdozna.parsipoO.ir&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=slvmjyjpedZFZsfdozna.parsiPoo.ir&path=%2Fger-twix%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
