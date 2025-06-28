@@ -15,3 +15,13 @@ vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@104.17.147.22:443?path=%2FInTnUH0wT
 trojan://blue2024@104.16.97.152:443?security=tls&type=ws&sni=ta.promote.icu&host=ta.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3747000103274291200@95.85.93.45:443?security=tls&type=tcp&sni=simple-coyote.adder289.quest#🔥Join+Telegram:@Farah_VPN🟣
 trojan://blue2024@104.18.79.171:443?security=tls&type=ws&sni=ta.promote.icu&host=ta.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
+trojan://trojan@104.18.5.250:2053?security=tls&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.60:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@108.165.152.252:2096?sni=agept.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.75.172:80?security=none&type=ws&host=redw.pooriam.ir&path=%2F#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206TURBNE1qRmxNakF6T1RkaE16VmlPV0kxTVRGaE5HWTNZV1JqWW1WbA==@38.54.27.37:995#🔥Join+Telegram:@Farah_VPN🟣
+vless://c69d6834-e4a8-4ff0-97e5-ca13746c65d1@188.213.129.63:8883?security=reality&sni=wwww.refersion.com&type=tcp&fp=chrome&pbk=hVFQpNhSU6uRXpnAIES-MIuye5PsS-jmiWMlgwTC4yA&sid=93ddf2d2c5d8c56b#🔥Join+Telegram:@Farah_VPN🟣
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.223:8880?type=ws&host=sk.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@59.1.59.225:50000?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vless://291c2abe-716a-4691-acd0-3b13dc2f7b12@172.67.69.227:443?security=tls&sni=wORKER-fRosTY-buTtErfLy-B0e9.4158fb3524.wORKeRs.DeV&type=ws&host=wORKER-fRosTY-buTtErfLy-B0e9.4158fb3524.wORKeRs.DeV&path=%2Fvk_l-izyy3q_-noq%3Fed%3D2048%40sinabigo#🔥Join+Telegram:@Farah_VPN🟣
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.80.183:51615?security=&encryption=none&host=Zula.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
