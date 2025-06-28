@@ -175,3 +175,5 @@ trojan://blue2024@104.18.123.217:443?security=tls&type=ws&sni=ta.promote.icu&hos
 trojan://3747000103274291200@43.202.142.243:443?security=tls&sni=humble-rodent.treefrog761.one&type=tcp&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxeDhXdklqcEJxTTNDR2tnOFlIYWxr@37.235.53.254:443#🔥Join+Telegram:@Farah_VPN🟣
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=%2FYW3lDQQ7nIbnn2KV%2FNTQuMTY5LjIyOS4xODg&security=tls&alpn=http%2F1.1&encryption=none&host=titantablomanahamrah.ir&fp=randomized&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#🔥Join+Telegram:@Farah_VPN🟣
+vless://12cfdd3e-9745-52d9-922e-98fbfdbdacc1@104.17.147.22:2052?security=none&type=ws&host=sPeedtest2.sbs.no1.vless.sitespeedtest.net&path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206MEE4NzZYWlVaWDkzTjM3MQ@156.231.104.20:18010#🔥Join+Telegram:@Farah_VPN🟣
