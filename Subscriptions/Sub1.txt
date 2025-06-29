@@ -52,3 +52,7 @@ vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@104.18.12.51:2087?security=tls&sni=
 trojan://TUFfeTYV56@104.21.48.1:2096?security=tls&sni=esna.twn24.ir&type=httpupgrade&host=esna.twn24.ir&path=/?ed%3D2048&fp=chrome&alpn=h3,h2,http/1.1#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🔥Join+Telegram:@Farah_VPN🟣
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443/?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDNm04a2hWc3U0MVZjdWlVdGEwYkxG@77.83.246.74:443#🔥Join+Telegram:@Farah_VPN🟣
+vless://9a243490-11c6-4a9f-8bdf-c5e3e2fe0c70@162.159.38.232:443?security=tls&sni=teopzh.iranlosangles.com&type=ws&host=teopzh.iranlosangles.com&path=/wss&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
+vless://5780b892-81e7-4149-b1e8-6e635ee80a3a@162.159.44.250:443?security=tls&sni=xhwcz2.alligator27.com&type=ws&host=xhwcz2.alligator27.com&path=%2Fwss&alpn=http%2F1.1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@52.192.207.194:443?security=tls&sni=in01.trojanyyds.xyz&type=tcp&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
