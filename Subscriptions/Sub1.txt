@@ -19,3 +19,11 @@ trojan://naEX%5Dg*qw%40MT%26lFz@104.21.112.1:2087?security=tls&sni=jOinMAhdIsErv
 vless://d8cfec2e-f5d7-4f62-8754-711a8f9992f5@185.234.67.214:44030?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=ixAsWPXEc5_H2D6xhQSlkiy6WktAatjn98h49Fuzrl8&sid=0bd674#🔥Join+Telegram:@Farah_VPN🟣
 vless://aacbd7be-3fc7-41af-94ec-ce3f11adb204@188.245.219.248:3000?security=reality&sni=www.stackoverflow.com&type=grpc&serviceName=/@NoFilterIRN-@NoFilterIRN-@NoFilterIRN&fp=chrome&pbk=xWTkdCVBi9Dl6rk2NMPK5Ba40PjBO57xh09T_TBJb3M&sid=cc1a4c#🔥Join+Telegram:@Farah_VPN🟣
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.67.204.84:443?security=tls&sni=Tp773WeWsV.aLtAbAnIc.Ir&type=grpc&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://aacbd7be-3fc7-41af-94ec-ce3f11adb204@188.245.219.248:3000?security=reality&sni=www.stackoverflow.com&type=grpc&serviceName=t.me/entryNET&fp=chrome&pbk=xWTkdCVBi9Dl6rk2NMPK5Ba40PjBO57xh09T_TBJb3M&sid=cc1a4c#🔥Join+Telegram:@Farah_VPN🟣
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443/?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Uy1%2CSF%23%5Dszr%25y.%3Cs@172.66.45.36:2083?security=tls&sni=jOinMaHdIsErVer-6Qj.PAgES.DEv&type=ws&host=joinmahdiserver-6qj.pages.dev&path=%2FtrLhvs4PDHp1EVcZxf%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔥Join+Telegram:@Farah_VPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@44.205.137.199:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.96.1:443?security=tls&sni=bypassfilter.cmyyvat.workers.dev&type=ws&host=bypassfilter.cmyyvat.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
+vless://704198c4-37b9-473d-a5de-0333276f2f6c@104.17.147.22:2053/?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=mahsa2.cfform.site&fp=randomized&type=ws&sni=maHsA2.cFFoRM.sIte#🔥Join+Telegram:@Farah_VPN🟣
