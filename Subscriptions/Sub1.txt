@@ -7,3 +7,7 @@ vless://e65f0a57-96f4-4c60-b550-d5bd0c20c557@233923233.webnama.com.tr:4928?secur
 vless://e65f0a57-96f4-4c60-b550-d5bd0c20c557@3900230223.torob.com.tr:3799?security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#🔥Join+Telegram:@Farah_VPN🟣
 vless://e65f0a57-96f4-4c60-b550-d5bd0c20c557@78234873823.webnama.com.tr:3789?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://e65f0a57-96f4-4c60-b550-d5bd0c20c557@1.1.1.1:9828?security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#🔥Join+Telegram:@Farah_VPN🟣
+vless://1d145479-5222-4831-b9e0-cf28206ae0f0@SvnTeam.fast.hosting-ip.com:80?path=%2F%40SvnProBot%3Fed%3D2560&security=none&encryption=none&host=Aeza.net&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+trojan://auto@172.67.203.182:443?security=tls&type=ws&sni=esetsecuritylicense.bwnsmv.workers.dev&path=/?ed=2560&host=esetsecuritylicense.bwnsmv.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
+vless://56c9cdec-17f3-4aa4-949d-efb5039a6c8d@pnl.prooatat.xyz:1174?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=qYcgLgbTScg_0pJxjHUcL2QKOz77S4G_qTqOoJ5zCgI&sid=6df88e33e67da1c3#🔥Join+Telegram:@Farah_VPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
