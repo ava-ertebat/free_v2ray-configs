@@ -29,3 +29,15 @@ trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.149.225:443?security=tls&ty
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5000#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Bw5Mz7QkVp@64.176.37.227:443?security=tls&type=tcp&sni=z-v2-082533.kailib.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&type=tcp&host=zula.ir&headerType=http#🔥Join+Telegram:@Farah_VPN🟣
+vless://bf90756f-e955-4a71-8235-1071dbfc39a7@maybeallnet.drshoayb.top:80?path=ws%2F%3Fed%3D2048&security=none&encryption=none&host=fozolnabash.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206WjdaU1FSM09JOUpWUkE2Tg@23.185.248.11:17001#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@51.44.53.233:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Bw5Mz7QkVp@198.13.60.113:443?security=tls&type=tcp&sni=z-v2-082569.kailib.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://WOeXShhJpL@104.18.183.139:443?security=tls&type=ws&sni=08jzus.zdzdzd.xyz&path=/juzigongyi&host=08jzus.zdzdzd.xyz#🔥Join+Telegram:@Farah_VPN🟣
+vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80/?path=%2F%3Fed%3D2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?security=none&type=tcp&host=zula.ir&headerType=http#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Bw5Mz7QkVp@45.76.241.66:443?security=tls&type=tcp&sni=z-v2-077886.kailib.com#🔥Join+Telegram:@Farah_VPN🟣
+vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://1e8daef2-2bbf-438b-a238-d8505605f8a4@104.16.53.11:80?path=%2FTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjey&security=none&encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?security=&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://9cc92987-11db-4979-a741-a1e42bef0fd9@Svir1.craftedsmp.ir:443?security=none&encryption=none&host=anten.ir&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
