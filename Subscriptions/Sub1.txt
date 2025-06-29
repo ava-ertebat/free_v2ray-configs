@@ -113,3 +113,14 @@ ss://YWVzLTI1Ni1nY206OGQ2OWU5OWYtNzcwOC1kMWY3LTA0NmItZmE2M2EyMDY2YTg5@185.97.119
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZXVsaUpDNjVmd3BkU0U1a2h2RnRD@78.129.140.11:443#🔥Join+Telegram:@Farah_VPN🟣
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@dnschecker.org:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=tx.vs2024.dpdns.org&fp=random&type=ws&sni=tx.vs2024.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@211.228.181.102:50000?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vless://8e7ac060-8523-4d06-a9d7-d7fa878b2ff6@195.182.38.125:31982?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@156.244.9.92:990#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@108.162.193.201:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206ZDEzODgzZDktMjY4NS02ZTc2LWRhZTUtODI3MzFhODc1OTJj@185.97.119.204:11309#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206N0g2RzZHRjM4VlQ3TElTMg==@qh62onjn.slashdevslashnetslashtun.net:21002#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443?type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@45.59.187.105:26443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vless://aa188240-cf10-4df6-9543-5223800891be@nwarne.fast.hosting-ip.com:80?path=%2Fde%3Fed%3D1048&security=none&encryption=none&host=Shuposipet.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://aa188240-cf10-4df6-9543-5223800891be@srv8.amazon-osishop.ir:8880?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
