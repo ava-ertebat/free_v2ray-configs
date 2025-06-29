@@ -43,3 +43,12 @@ vless://fdccf9e1-6dda-4190-8e84-62d0c6ae45dd@151.101.3.8:80?security=none&type=w
 vless://fdccf9e1-6dda-4190-8e84-62d0c6ae45dd@146.75.55.82:80?security=none&type=ws&headerType=&path=%2Fdownload%3Fed%3D2560&host=ana.ir#🔥Join+Telegram:@Farah_VPN🟣
 vless://fdccf9e1-6dda-4190-8e84-62d0c6ae45dd@pishgam.sdcards.ir:8880?security=none&type=ws&headerType=&path=%2F%3Fed%3D2087&host=mail.tehrantolidi.ir#🔥Join+Telegram:@Farah_VPN🟣
 vless://fdccf9e1-6dda-4190-8e84-62d0c6ae45dd@151.101.3.8:80?security=none&type=ws&headerType=&path=%2Fdownload%3Fed%3D2560&host=urldl.ir#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#🔥Join+Telegram:@Farah_VPN🟣
+vless://8768bda1-8ad0-4c2c-bc2b-c61bc12518f4@5.75.197.204:35487?security=reality&encryption=none&pbk=GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=0b886008af8942c3#🔥Join+Telegram:@Farah_VPN🟣
+vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v02.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#🔥Join+Telegram:@Farah_VPN🟣
+vless://f9a296d9-01c6-440b-aac2-4d92df085653@78.111.85.37:8443?security=reality&sni=www.speedtest.net&type=grpc&serviceName=JoinBadeChannel%40antimeli&fp=chrome&pbk=Yfsv32R_HAXEi1l8Tc-sEHiMiNEuqAEL_7dFSFWwtzQ&sid=3ea6#🔥Join+Telegram:@Farah_VPN🟣
+vless://6fcb287e-1b92-4c03-b5ca-aa668dad2f51@S1.LoadBalance.LAT:9090?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=firefox&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#🔥Join+Telegram:@Farah_VPN🟣
+vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@104.18.12.51:2087?security=tls&sni=a.xiazitong.zone.id&type=ws&host=a.xiazitong.zone.id&path=%2F%3Fed%3D2560&fp=randomized#🔥Join+Telegram:@Farah_VPN🟣
+trojan://TUFfeTYV56@104.21.48.1:2096?security=tls&sni=esna.twn24.ir&type=httpupgrade&host=esna.twn24.ir&path=/?ed%3D2048&fp=chrome&alpn=h3,h2,http/1.1#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🔥Join+Telegram:@Farah_VPN🟣
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443/?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
