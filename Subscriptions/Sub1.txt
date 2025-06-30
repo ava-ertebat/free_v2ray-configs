@@ -31,3 +31,9 @@ vless://52d90741-49f1-42eb-be23-214eb1e88085@151.101.3.8:80?security=none&type=w
 vless://e96e8d9f-cc86-4f98-97b1-c60f2e558a91@146.75.55.82:80?security=none&type=ws&headerType=&path=%2Fdownload%3Fed%3D2560&host=ana.ir#🔥Join+Telegram:@Farah_VPN🟣
 vless://52d90741-49f1-42eb-be23-214eb1e88085@151.101.3.8:80?security=none&type=ws&headerType=&path=%2Fdownload%3Fed%3D2560&host=parsabr.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://52d90741-49f1-42eb-be23-214eb1e88085@146.75.55.82:80?security=none&type=ws&headerType=&path=%2Fdownload%3Fed%3D2560&host=parsabr.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@125.132.46.2:10022?sni=agepq.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vless://1051fff6-131a-4d59-b148-48c1ab567907@tnasia.exvocal542.store:6061?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://5d8b8f8c-2b06-49cd-b4ea-08dee087a967@91.240.95.48:5060?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOakJsWkRsaw==@is3.opensocks.site:8388#🔥Join+Telegram:@Farah_VPN🟣
+vless://902fac1b-24c6-4557-8143-8fc72e552554@62.60.206.100:8080?security=none&encryption=none&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://62a49d41-e231-4a6b-af26-cec86ef64001@172.67.205.138:443?security=tls&sni=1403.stopt7307.workers.dev&type=ws&host=1403.stopt7307.workers.dev&path=/#🔥Join+Telegram:@Farah_VPN🟣
