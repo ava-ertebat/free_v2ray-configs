@@ -152,3 +152,8 @@ trojan://6557bf4a-852b-4a69-ad35-d53293386a13@54.179.28.159:443?sni=vn.mjt000.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPZzRBNms1WHZmNUdRYlJjM0FSZmds@194.87.45.189:443#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@13.50.129.13:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@23.94.211.148:443?sni=ngepz.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vless://7c9e3c1d-a377-4749-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&security=none&encryption=none&host=my.ski1plag.ir&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://417c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Bw5Mz7QkVp@216.128.144.247:443?security=tls&sni=z-v2-077981.kailib.com&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWFiZGIxYy0xY2RmLTQ2MzAtYTMyYi04YWU1NjZiNDhjMDA@us.fastsoonlink.com:40001#🔥Join+Telegram:@Farah_VPN🟣
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.186.250:443?security=tls&sni=147135011033.sec21org.com&type=tcp&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
