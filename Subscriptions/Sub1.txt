@@ -78,3 +78,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@156.244.9.92:990#🔥J
 trojan://123456@104.25.165.83:8443?encryption=none&security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev&path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwZEhxZ0taUWQyY3hXelBIRmxMb3Y3@64.227.144.190:50690#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Bw5Mz7QkVp@144.202.25.21:443?security=tls&type=tcp&sni=z-v2-077020.kailib.com#🔥Join+Telegram:@Farah_VPN🟣
+vless://994ab04f-1c98-4d1d-9a91-356570dbfbfb@tgju.org:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=6o.ZO2V0jDjwI.ZUlAIR.ORG.&type=ws#🔥Join+Telegram:@Farah_VPN🟣
