@@ -108,3 +108,4 @@ trojan://Aimer@172.64.33.110:443?security=tls&type=ws&sni=ngepo.ambercc.filegear
 vless://ef487a93-d7d4-422a-81c1-764237b52bed@216.9.224.211:4003?security=reality&flow=xtls-rprx-vision&sni=soft98.4en1.net&type=tcp&fp=chrome&pbk=swSLisRT-EwqAPNLfzKxnki30_VwpXGZ4pXowY7KBRs&sid=e6da440fec1529ea#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-v2rayvpnchannel@13.39.188.233:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3R0w2MTBRSEVOb0s4dDI2eHQ3MVox@5.180.45.142:18429#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.238:2376#🔥Join+Telegram:@Farah_VPN🟣
