@@ -135,3 +135,14 @@ vless://4d5903dd-5d8a-4879-9e0d-cf12b8404b8e@47.76.81.217:40830?security=none&en
 vless://72dc074b-91ed-4564-9424-cd14652c1743@tak.blushop1403.info:33326?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.44.118:443?path=%2FVrChX4o5oasIm4In%3Fed%3D2560&security=tls&encryption=none&host=configmr.pages.dev&fp=chrome&type=ws&sni=ConFIgmr.PaGeS.dEV#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYQXplclByb3h5MjA3OA==@156.146.38.173:443#🔥Join+Telegram:@Farah_VPN🟣
+vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2Frkluheauth5uvnsb%2Fntqumty5ljiyos4xodg%3D%3Fed%3D2560&security=tls&encryption=none&host=hOZori.iR&type=ws&sni=hOZori.iR#🔥Join+Telegram:@Farah_VPN🟣
+trojan://blue2024@198.41.200.142:443?sni=ta.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.47:3389#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@108.165.152.239:8443?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online#🔥Join+Telegram:@Farah_VPN🟣
+vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@176.124.223.50:8443?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://yaml777@104.21.61.73:443?security=tls&type=ws&sni=yaml7.ggff.net&path=/&host=yaml7.ggff.net#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@59.14.159.113:50000?sni=ngepz.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJhZGQiOiAicHJvMi5wcmdhbWUueHl6IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwMzU0N2ZmNS1jMTZmLTRiNWYtYjc1Yy00OGU5ZTA2ODU3MTYiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjU5NDQyIiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
