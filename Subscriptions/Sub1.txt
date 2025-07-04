@@ -100,3 +100,6 @@ ss://YWVzLTI1Ni1nY206MjNkMDNhYTcwNGM3@156.251.179.181:636/?plugin=v2ray-plugin%3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppQWtWV2RVVm56VUZZUTBEVUsxa205@5.35.44.11:21226#🔥Join+Telegram:@Farah_VPN🟣
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-8k6EJ6kiGd.download.microsoft.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://bpb-trojan@104.21.75.193:443?security=tls&sni=qq.vvii.us.kg&type=ws&host=qq.vvii.us.kg#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@178.250.159.120:2053?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.79.8.53:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔥Join+Telegram:@Farah_VPN🟣
+trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50043?#🔥Join+Telegram:@Farah_VPN🟣
