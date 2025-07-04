@@ -84,3 +84,8 @@ vless://a8ee4d96-05f9-4012-807c-21b9d8f5fc67@151.101.66.133:80?security=none&typ
 vless://2e671ca5-32a0-40e4-94a0-c2655f263a88@5.255.120.217:80?type=xhttp&path=%2Fpwp&host=bleep.global.ssl.fastly.net&mode=auto&security=reality&pbk=C4LNbOB3Ar0cntu528Jtn5ivsMZhyk9tkuAlU-jeCio&fp=chrome&sni=journalofbigdata.springeropen.com&sid=8c&spx=%2F#🔥Join+Telegram:@Farah_VPN🟣
 vless://215d71a9-0047-4600-9240-7c3b86b62313@46.31.76.3:80?type=xhttp&path=%2Fpwpw&host=bleep.global.ssl.fastly.net&mode=auto&security=reality&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&fp=chrome&sni=journalofbigdata.springeropen.com&sid=5942e2&spx=%2F#🔥Join+Telegram:@Farah_VPN🟣
 vless://eb36cb51-7cc8-45d4-aa83-3eb14a2ef6ba@mtn.zoverv.com:80?path=%2Fhajmi%3Fed%3D2050&security=&encryption=none&host=dbe661d5a761ff6c.s-5HU09JDF-97SHS.WWWrubika.irto.xn--ls8haaaaaaaaaaaaaaaaaa.la.which.xn--ls8haaaaaaaaaaaaaaaaaa.xn-ls8faaaaaaaaaa.speedtest.net.google.com.eu.ir.nl.aparat.com.komak.IR.Nb-En.85858599.xYz.&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://41956a47-8432-4a3f-b70d-a54fc7efd6b8@104.18.14.19:8080?encryption=none&security=none&type=ws&host=0223.jq2ter91.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@3.78.65.240:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@3.125.23.39:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@13.36.214.244:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://cd45501e-52ec-4584-affe-f12f9a5a3aeb@104.22.15.116:443?security=tls&sni=lucky.cepu.us.kg&type=ws&host=lucky.cepu.us.kg#🔥Join+Telegram:@Farah_VPN🟣
