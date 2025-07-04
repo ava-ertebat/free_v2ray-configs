@@ -89,3 +89,14 @@ trojan://telegram-id-privatevpns@3.78.65.240:22222?allowInsecure=0&sni=trojan.bu
 trojan://telegram-id-privatevpns@3.125.23.39:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@13.36.214.244:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 vless://cd45501e-52ec-4584-affe-f12f9a5a3aeb@104.22.15.116:443?security=tls&sni=lucky.cepu.us.kg&type=ws&host=lucky.cepu.us.kg#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjA6ZDNiYUs2TlcySEVj@14.18.253.178:8349#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NWNkZDc4NS0xM2JlLTQwY2QtYWEwZS00NTk5MWI2MzE2Mjk@southvip1.pkyun.xyz:34104#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NWNkZDc4NS0xM2JlLTQwY2QtYWEwZS00NTk5MWI2MzE2Mjk@southvip1.pkyun.xyz:34402#🔥Join+Telegram:@Farah_VPN🟣
+vless://dd2d397b-b1b8-4995-aab9-7131b5d08e41@151.101.130.133:443?security=tls&sni=live.theworldwidewolf.com&type=ws&host=vistapardisgmae.ir&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&fp=chrome&alpn=h2%2Chttp%2F1.1#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.175.111.157:443#🔥Join+Telegram:@Farah_VPN🟣
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.69.44:8443?security=tls&sni=hastI.frEEaIrlAiNes.Com&type=ws&host=HAsti.FrEeAiRLAIneS.com&path=%2FcVwhB4RnkmUyTlvX%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206NzBhMGI4MTAzMzU2@137.220.142.139:636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bmux%3D4%3Bhost%3Djp5v1.lingjfjkm002.com%3Bpath%3D%2Fbezradrqccl%3Bmux%3Dmux%3D4%3B%3B#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206MjNkMDNhYTcwNGM3@156.251.179.181:636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bmux%3D4%3Bhost%3Dcmihk3v1.dsjsapp.com%3Bpath%3D%2Fgrqhyifio%3Bmux%3Dmux%3D4%3B%3B#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppQWtWV2RVVm56VUZZUTBEVUsxa205@5.35.44.11:21226#🔥Join+Telegram:@Farah_VPN🟣
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-8k6EJ6kiGd.download.microsoft.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://bpb-trojan@104.21.75.193:443?security=tls&sni=qq.vvii.us.kg&type=ws&host=qq.vvii.us.kg#🔥Join+Telegram:@Farah_VPN🟣
