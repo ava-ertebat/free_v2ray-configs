@@ -161,3 +161,11 @@ vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?security=none&enc
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?encryption=none&security=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
 vless://57516354-6eaf-43ec-d725-de5b530c17ff@93.126.18.29:43388?encryption=none&security=none&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://743ef7fc-576a-4a74-857f-ba4a841e6836@104.16.143.237:443?security=tls&sni=App.einetwork.news&type=ws&host=App.einetwork.news&path=Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@35.167.93.200:443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@154.197.64.233:443?sni=ngepx.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@162.159.44.232:2096?sni=ngepy.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vless://0416d09f-a24f-46a2-a913-b0f2be57c009@151.101.33.212:443?security=tls&sni=map.google.com&type=ws&host=aklisvpn.com&path=%2F%40aklisvpn%40aklisvpn%40aklisvpn&fp=firefox#🔥Join+Telegram:@Farah_VPN🟣
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@104.21.69.44:2087?security=tls&sni=Tp813OlAkC.aNa-SoFt.Ir&type=ws&host=Tp813OlAkC.aNa-SoFt.Ir&path=/&fp=chrome&alpn=h2,http/1.1#🔥Join+Telegram:@Farah_VPN🟣
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?security=none&type=ws&host=pormang.webhost99.workers.dev&path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@2.58.87.221:16899#🔥Join+Telegram:@Farah_VPN🟣
