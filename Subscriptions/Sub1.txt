@@ -48,3 +48,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWZlYTlmYS02N2UwLTRmZjEtOGFhNS03MTI2MDFmMjk
 vless://eeab2e9e-bdf6-4490-b941-2235ee077aab@104.16.53.11:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=CerebrAL-fish.ONeEaT.Co.&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.110.1.35:9102#🔥Join+Telegram:@Farah_VPN🟣
 vless://4bf96dd2-f451-4938-8fa4-1a2251290920@64.176.178.147:443?type=xhttp&path=%2F7uj65&host=&mode=stream-one&security=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://d26f473f-db91-45b2-8c7e-8f38d294b6b5@172.67.73.163:8080?encryption=none&security=none&type=ws&host=e2.Ion7FPGEJ8.zuLAIR.org.&path=%2F%3Fed%3D2048#🔥Join+Telegram:@Farah_VPN🟣
+vless://60b79d46-9b53-4ebb-a28e-93c2f6731750@172.64.33.81:443?security=tls&sni=a5kns6.bestvpninuae.com&type=ws&host=a5kns6.bestvpninuae.com&path=/wss&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.225:9101#🔥Join+Telegram:@Farah_VPN🟣
+vless://9591b73a-38d0-48e5-90f3-32bec9489b0a@172.64.32.85:443?security=tls&sni=fgxtmf.fivegravity.com&type=ws&host=fgxtmf.fivegravity.com&path=/wss&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://bpb-trojan@104.19.35.14:443?security=tls&sni=BPB-wOrkeR-pANel1-E4P.pageS.DeV&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@175.208.140.189:50000?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.4:19151?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@118.35.88.114:50000?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@5.10.214.254:8880?type=ws&host=yg.bantony199.top&path=%2F#🔥Join+Telegram:@Farah_VPN🟣
+trojan://65086520307764900@18.139.61.105:443?security=tls&sni=dynamic-shrew.shiner427.skin&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.12:19151?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@172.64.35.82:443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
