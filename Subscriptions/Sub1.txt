@@ -187,3 +187,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141
 vless://2b4bed25-a5ef-439d-93b1-395b7bcec58b@45.131.6.179:80?sni=workerr.dimon22287.workers.dev&type=ws&host=workerr.dimon22287.workers.dev&path=Telegram%40WangCai2#🔥Join+Telegram:@Farah_VPN🟣
 trojan://SSorg@172.67.156.115:2087?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjA6RHZQZkthOHZzVjlL@14.18.253.178:8334#🔥Join+Telegram:@Farah_VPN🟣
+vless://79c6905b-9d9f-4a6d-bfff-e280692ad116@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://d0f1632f-4057-4951-99e9-0f91a1a3171e@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://0c5d51cd-14af-da89-975d-99bd7a60d762@shop.fox-11-fox.com:2052?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://d38498d1-fcff-48e1-ab52-a1e28dd83eba@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
