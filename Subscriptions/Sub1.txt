@@ -21,3 +21,6 @@ trojan://Aimer@45.12.88.150:443?allowInsecure=1&sni=ngepz.ambercc.filegear-sg.me
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.17.68.85:443?path=%2F%3Fed%3D2560%26prot_type%3Dvless&security=tls&encryption=none&host=xk.ylka.dpdns.org&type=ws&sni=xk.ylka.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2RzBPRGZOd0NVR1IwS0VmM1ZQUUxo@77.238.229.244:12369#🔥Join+Telegram:@Farah_VPN🟣
 vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@172.67.67.92:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=delam.ahaysiahzangi.dpdns.org&fp=random&type=ws&sni=delam.ahaysiahzangi.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@91.217.139.169:587?allowInsecure=1&sni=ngepz.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://65086520307764900@3.39.67.154:443?sni=hopeful-seagull.shiner427.skin#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@154.31.113.72:443?allowInsecure=1&sni=ngepz.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
