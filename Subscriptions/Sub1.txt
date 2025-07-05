@@ -167,3 +167,8 @@ vless://15cae74e-0103-499a-9ce5-6ecd63e846c3@xpanel-ir.panelfreedom.com:2092?sec
 trojan://NISHIKUITAN222@173.245.49.110:443?security=tls&type=ws&sni=im.ylks.xyz&path=/&host=im.ylks.xyz#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZTE5N2NlMi0yYjFjLTQ2NmQtYjg5ZS1hM2NkOTg2NzEyYWM=@free.2weradf.xyz:36175#🔥Join+Telegram:@Farah_VPN🟣
 trojan://blue2024@104.16.209.98:443?security=tls&type=ws&sni=td.promote.icu&host=td.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@23.94.136.126:8080?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.230.198.32:3229?security=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://Anty_Vpn-Anty_Vpn-Anty_Vpn@gsoowjowj.toppho.ir:8443?type=tcp&path=%2F@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn&host=speedtest.net&headerType=http&security=none#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2VkxRenB0a3JvOW14clBCX194OUdubkFaZ2VSNUUtOQ%3D%3D@185.215.186.65:8388#🔥Join+Telegram:@Farah_VPN🟣
+vless://a0550a3e-1dcc-44bc-aa03-885c001c2ba1@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
