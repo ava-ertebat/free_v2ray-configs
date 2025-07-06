@@ -98,11 +98,11 @@ trojan://Xa4%5El%28%3B.%3BB%23a@104.18.26.90:443?path=%2FtrUXByA1rnbs4YQ1Xw%3Fed
 trojan://TurbooServer@turbooserver.aftabz.com:8080?security=reality&pbk=MlCxfES5k6SVZz4qfrnfF516r60hVZ7izp5MvPbfYk4&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=d5e7#🔥Join+Telegram:@Farah_VPN🟣
 trojan://NISHIKUITAN111@104.24.184.159:443?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@35.83.185.225:443?sni=ngepx.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
-trojan://Aimer@108.165.152.55:2096?path=%2F&security=tls&host=epml.ambercc.filegear-sg.me&type=ws&sni=epml.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
-trojan://Aimer@104.25.252.184:8443?allowInsecure=0&sni=ngepz.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@199.34.228.190:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://4174b95d-115e-4d39-add6-1f8db95bb860@172.67.153.179:443?path=%2FuzJNzgkkYWRWGxgFnoFPw1&security=tls&alpn=http%2F1.1&host=qqqqqqqqqqa.www890604.dpdns.org&fp=chrome&type=ws&sni=qqqqqqqqqqa.www890604.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3723507166611775488@35.155.4.93:443?security=tls&headerType=none&type=tcp&sni=usable-toad.treefrog761.one#🔥Join+Telegram:@Farah_VPN🟣
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#🔥Join+Telegram:@Farah_VPN🟣
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🔥Join+Telegram:@Farah_VPN🟣
+trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#🔥Join+Telegram:@Farah_VPN🟣
