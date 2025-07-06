@@ -82,7 +82,6 @@ ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@102.165.47.134:47121#🔥J
 ss://YWVzLTI1Ni1nY206Q01kdWFGWGRkY1Fid05BQXM3eEZEbmM4@45.43.19.82:33148#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206Q01kdWFGWGRkY1Fid05BQXM3eEZEbmM4@199.58.187.67:33148#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@84.17.55.133:33992#🔥Join+Telegram:@Farah_VPN🟣
-trojan://a7b8c9d0-e1f2-3456-f012-6789012345bc@hamedp-71.ir:444?security=tls&sni=www.speedtest.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://a94fafdb-10d6-46c2-be8a-5c2e8358fbb0@172.67.187.28:443?path=/xa846InEcmjyiKVby2Lp&security=tls&alpn=http/1.1&host=dddddddddffff.iran2035.dpdns.org&fp=chrome&type=ws&sni=dddDdDdDDFfFf.iran2035.dPdNS.ORG#🔥Join+Telegram:@Farah_VPN🟣
 trojan://amclubs@103.160.204.1:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&host=tran.amclubstest.nyc.mn&type=ws&sni=tran.amclubstest.nyc.mn#🔥Join+Telegram:@Farah_VPN🟣
 trojan://auto@104.20.19.168:2083?path=/&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
@@ -110,3 +109,4 @@ trojan://f609abb4-ed17-11ee-9fa2-f23c9164ca5d@27ac4b07-sz1ds0-tei4of-1qxa1.cu2.p
 trojan://f6f037b8-d6f5-4892-9bb5-0f915cac5b3b@107.149.254.26:158?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://f7a8b9c0-1234-4def-9abc-34567890defa@172.67.190.45:443?type=ws&host=trojan.cf&sni=trojan.cf&path=/trojan#🔥Join+Telegram:@Farah_VPN🟣
 trojan://g8h9i0j1-2345-5bcd-abc1-4567890abcde@104.21.25.67:443?type=ws&host=trojan.workers.dev&sni=trojan.workers.dev&path=/trojan#🔥Join+Telegram:@Farah_VPN🟣
+trojan://h0i1j2k3-4567-8bcd-9abc-0123abcdef45@104.21.25.80:443?type=ws&host=trojan.workers.dev&sni=trojan.workers.dev&path=/trojan#🔥Join+Telegram:@Farah_VPN🟣
