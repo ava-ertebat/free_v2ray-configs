@@ -104,5 +104,5 @@ trojan://1a8EBLaDBL@ru2.asc-sam.ir:443?type=xhttp&path=/@NoForcedHeaven@NoForced
 trojan://20a84ebf-9341-4f5f-8245-3975e2fdeee5@219.135.231.205:21019?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://254aa898-bc2a-4ec8-87d1-9f5d37658f6c@91.195.240.12:443?security=tls&sni=spkr.1234567890spcloud.com&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://254aa898-bc2a-4ec8-87d1-9f5d37658f6c@spkr.1234567890spcloud.com:443?security=tls&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
-trojan://2a2b4931-07c8-3ba2-b3fe-b7def4ab2f1a@gy.58n.net:20300?allowInsecure=1&sni=z300.hongkongnode.top#🔥Join+Telegram:@Farah_VPN🟣
 trojan://344ObcMIAb@ru2.asc-sam.ir:443?type=xhttp&path=/@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven&host=&mode=auto&security=tls&fp=chrome&alpn=h3,h2,http/1.1&sni=ru2.asc-sam.ir#🔥Join+Telegram:@Farah_VPN🟣
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#🔥Join+Telegram:@Farah_VPN🟣
