@@ -76,6 +76,9 @@ ss://YWVzLTI1Ni1nY206UHZ2YXc0ODY4NjdEMnc0eWN0TDJVTFRRQDE4NS4xMDguMTA2LjI0OjQwMjg
 ss://YWVzLTI1Ni1nY206UHZ2YXc0ODY4NjdEMnc0eWN0TDJVTFRR@91.219.215.67:40282#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206UHZ2YXc0ODY4NjdEMnc0eWN0TDJVTFRR@87.239.255.109:40282#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206UHZ2YXc0ODY4NjdEMnc0eWN0TDJVTFRR@193.29.107.179:40282#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@63.177.25.243:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@63.177.35.173:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@63.178.136.212:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@63.178.31.204:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@13.37.28.41:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@15.188.124.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
@@ -99,6 +102,3 @@ trojan://vip@www.udemy.com:443?encryption=none&security=tls&sni=heihu880.pages.d
 trojan://vmRtExJrt6@51.195.255.103:8443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=uk-03.allhubb.info#🔥Join+Telegram:@Farah_VPN🟣
 trojan://vpn@46.29.234.154:2025?security=tls&type=ws&host=dns.google.com&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://wPslQ6KBJN@wivip.dtsazino.com:443?security=tls&headerType=none&type=tcp&sni=wivip.dtsazino.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://xjN4xcuPGg@f.522226.xyz:45601?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://y3w0piQ7ZF@193.151.136.6:2086?security=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
-trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=tpmwh.phooeyunfold.com#🔥Join+Telegram:@Farah_VPN🟣
