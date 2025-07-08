@@ -179,3 +179,5 @@ vless://d7c77b5b-c0da-43dc-a959-c06da6ccabd5@sr57.toast.sbs:2095?security=&encry
 trojan://telegram-id-directvpn@3.72.59.101:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206WlNQN1FIWkVXMlFUSURPTg@156.245.190.18:15009#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🔥Join+Telegram:@Farah_VPN🟣
+vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&fp=chrome&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@104.18.209.108:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=ey.nazanin.dpdns.org&type=ws#🔥Join+Telegram:@Farah_VPN🟣
