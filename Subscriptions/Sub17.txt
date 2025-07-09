@@ -145,6 +145,7 @@ trojan://15c33952@152.67.228.132:443?security=tls&type=tcp&sni=sj.5216818.xyz#�
 trojan://2ee85121-31de-4581-a492-eb00f606e392@15.204.248.103:443?security=tls&headerType=none&type=tcp&sni=rs3.freeguard.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&headerType=none&type=tcp&sni=rc6.freeguard.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://2ee85121-31de-4581-a492-eb00f606e392@23.95.14.5:443?security=tls&headerType=none&type=tcp&sni=rc9.freeguard.org#🔥Join+Telegram:@Farah_VPN🟣
+trojan://2ee85121-31de-4581-a492-eb00f606e392@23.95.14.5:443?security=tls&sni=rc9.freeguard.org&fp=chrome&allowInsecure=1&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?type=tcp&headerType=none&host=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&sni=nacho-rerun-crepe.stark-industries.solutions#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?type=tcp&headerType=none&security=tls&sni=chop-wrist-bud.stark-industries.solutions#🔥Join+Telegram:@Farah_VPN🟣
@@ -153,4 +154,3 @@ trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@chop-wrist-bud.stark-industries.so
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@guy-trace-lyric.stark-industries.solutions:443?security=tls&path=/vpnowl&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@nacho-rerun-crepe.stark-industries.solutions:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@us2.vpn.ong:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://398e0d38-8649-11ef-959c-f23c9164ca5d@46e8165b-syxog0-t7k911-1gxvd.cu2.plebai.net:15229?security=tls&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
