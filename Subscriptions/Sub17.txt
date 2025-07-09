@@ -115,6 +115,7 @@ trojan://123456@104.25.165.83:8443?encryption=none&security=tls&sni=top-azx.page
 trojan://123456@104.25.97.27:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.95.229:2053?security=tls&sni=iNvIncIbLE.faFA20.SHop&alpn=http/1.1&fp=chrome&type=ws&host=invincible.fafa20.shop&path=/trMryZDCWFzixHzF4I/NzguNDcuMTU3LjY=?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
 trojan://15c33952@152.67.228.132:443?security=tls&type=tcp&sni=sj.5216818.xyz#🔥Join+Telegram:@Farah_VPN🟣
+trojan://1SvZS6rRx9@77.93.91.53:46424?security=reality&pbk=BW7bMVrGZfvcbfuXtx1SohWlT8ydbzWO98bASo-YolI&headerType=none&fp=chrome&type=tcp&sni=tesla.com&sid=808ee464a9#🔥Join+Telegram:@Farah_VPN🟣
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@3.0.196.225:443?security=tls&sni=sg02.trojanyyds.xyz&type=tcp&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://254aa898-bc2a-4ec8-87d1-9f5d37658f6c@91.195.240.12:443?security=tls&sni=spkr.1234567890spcloud.com&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://254aa898-bc2a-4ec8-87d1-9f5d37658f6c@spkr.1234567890spcloud.com:443?security=tls&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
@@ -133,8 +134,7 @@ trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@nacho-rerun-crepe.stark-industries
 trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@us2.vpn.ong:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://398e0d38-8649-11ef-959c-f23c9164ca5d@46e8165b-syxog0-t7k911-1gxvd.cu2.plebai.net:15229?security=tls&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3bcaef9b-af27-4e23-8e18-91be0774ba89@37.128.255.108:22332?allowInsecure=0&sni=douyin.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://3bcaef9b-af27-4e23-8e18-91be0774ba89@high.eb.defehaita.xyz:22332?allowInsecure=0&sni=douyin.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.135.40:443?security=tls&headerType=none&type=tcp&sni=kdlsupport.zendesk.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@104.21.38.163:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@172.67.136.117:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
-trojan://4174b95d-115e-4d39-add6-1f8db95bb860@172.67.153.179:443?path=/uzJNzgkkYWRWGxgFnoFPw1&security=tls&alpn=http/1.1&host=qqqqqqqqqqa.www890604.dpdns.org&fp=chrome&type=ws&sni=qqqqqqqqqqa.www890604.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.192:443?security=tls&sni=trus.moonfree.top&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
