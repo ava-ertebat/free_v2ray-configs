@@ -115,11 +115,9 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@172.105.244.165:5003#🔥Join+Telegram
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDYyLjExMi45LjIyMDoyMzc1#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE0Mi4yMDIuNDguNTg6MjM3Ng#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@ak1071.www.getoutline.net:2376#🔥Join+Telegram:@Farah_VPN🟣
-trojan://Aimer@162.159.45.156:8443?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@172.64.34.52:2096?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@173.245.59.203:443?sni=ngepx.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@220.126.185.107:30019?allowInsecure=1&sni=ngepz.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
-trojan://Aimer@45.194.53.81:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me&path=/?ed=2560&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@45.80.209.25:81?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@46.254.92.142:2087?sni=ngepx.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://CjqK8GFZ),D?@172.67.149.210:443?security=tls&sni=7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv&alpn=http/1.1&fp=chrome&type=ws&host=7xvb-b9ws5zjp6cyjvw89zrku9gmupw6.maryafarhuni.workers.dev&path=/trU3kEraImU22Jv6vo?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
@@ -138,7 +136,6 @@ trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI?ed=1520#🔥Join+Teleg
 trojan://TurbooServer@turbooserver.aftabz.com:8080?security=reality&pbk=MlCxfES5k6SVZz4qfrnfF516r60hVZ7izp5MvPbfYk4&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=d5e7#🔥Join+Telegram:@Farah_VPN🟣
 trojan://VPSHU00R7U@free.starproxivpn.online:52607?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Xa4^l(;.;B#🔥Join+Telegram:@Farah_VPN🟣
-trojan://aacabbc-acba-abac-acbd-cbaabcbaaccb@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://abaabcc-acba-aacb-dcba-cccbbaababca@127.0.0.1:8080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://abcacba-abca-abca-bdca-ccacbacababb@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://abccbaa-caab-acba-cdba-bbbbcacacaac@127.0.0.1:8080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
@@ -154,3 +151,6 @@ trojan://caaacbb-baac-acba-cdab-babaccacabcb@127.0.0.1:8080?security=tls&type=tc
 trojan://cacbaab-abca-acab-dabc-caabaccbbabc@127.0.0.1:8080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://cbabaca-acba-cbaa-dacb-baaaccbbccab@127.0.0.1:2080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.10:9141?allowInsecure=1&sni=www.baidu.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.27:444?security=tls&headerType=none&type=tcp&sni=www.baidu.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://d2adff89-5143-4d67-921f-3478464de5bb@130.0.236.88:443?security=tls&sni=ua.freeguard.org&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?security=tls&sni=vle.amclubsvip.dpdns.org&type=ws&host=vle.amclubsvip.dpdns.org&path=/?ed=2560&PROT_TYPE=trojan#🔥Join+Telegram:@Farah_VPN🟣
