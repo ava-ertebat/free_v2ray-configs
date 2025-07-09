@@ -109,7 +109,6 @@ ss://Y2hhY2hhMjAtaWV0ZjozMDMw@20.113.70.231:3030#🔥Join+Telegram:@Farah_VPN�
 ss://Y2hhY2hhMjAtaWV0Zjo5ODA2@20.120.24.20:9806#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zjo5ODA2@20.106.241.226:9806#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zjo1MjY4NzgxMjY2ZjQ4MTg5@20.113.28.20:5337#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-privatevpns@51.44.95.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@52.29.32.68:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@52.57.71.35:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@63.178.143.137:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
@@ -146,3 +145,4 @@ trojan://vpn@46.29.234.154:2025?security=tls&type=ws&host=dns.google.com&path=/#
 trojan://wPslQ6KBJN@wivip.dtsazino.com:443?security=tls&headerType=none&type=tcp&sni=wivip.dtsazino.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://x2y3z4a5-1234-5bcd-6abc-7890abcdef78@104.21.25.370:443?type=ws&host=trojan.workers.dev&path=/trojan#🔥Join+Telegram:@Farah_VPN🟣
 trojan://xjN4xcuPGg@f.522226.xyz:45601?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://y3w0piQ7ZF@193.151.136.6:2086?security=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
