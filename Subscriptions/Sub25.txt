@@ -112,10 +112,5 @@ ss://7b2fac0c-3b65-4253-8247-266cbff3dde5@188.245.101.3:443?security=&amp;encryp
 ss://306e217d-e75e-45b2-8a78-da78f13e3e2d@108.61.224.94:443?type=xhttp&amp;path=%2Frfghj&amp;host=&amp;mode=stream-one&amp;security=none#🔥Join+Telegram:@Farah_VPN🟣
 ss://cd54a584-2aeb-4a81-8558-84822c5e60d1@3.122.180.190:443?security=reality&amp;encryption=none&amp;pbk=J2bRPBQbUXzfoe-sch7fxMlzKqaX2L0kEm4Rcly6Kgo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=chatgpt.com&amp;sid=d0c43a7737#🔥Join+Telegram:@Farah_VPN🟣
 ss://bc4f01ad-cf02-4d50-8f19-fd1f4dc953de@91.99.123.99:443?security=&amp;encryption=none&amp;host=exo.ir&amp;headerType=http&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://x2y3z4a5-1234-5bcd-6abc-7890abcdef78@104.21.25.370:443?type=ws&host=trojan.workers.dev&path=/trojan#🔥Join+Telegram:@Farah_VPN🟣
-trojan://xjN4xcuPGg@f.522226.xyz:45601?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://y9z0a1b2-5678-9abc-def0-1234567890ab@104.21.25.540:443?type=ws&host=trojan.workers.dev&path=/trojan#🔥Join+Telegram:@Farah_VPN🟣
-trojan://yo9Uweo3hm@vp2.diesevip.shop:58784/?type=grpc&serviceName=&authority=&mode=multi&security=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=tpmwh.phooeyunfold.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://ypDt8RkT7J@89.187.181.172:43118?security=tls&sni=egcmi.phooeyunfold.com&type=tcp&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://z4a5b6c7-5678-9abc-def0-1234567890ab@104.21.25.380:443?type=ws&host=trojan.workers.dev&path=/trojan#🔥Join+Telegram:@Farah_VPN🟣
