@@ -54,7 +54,6 @@ vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D256
 vless://4ee1809a-4a35-4601-99b3-51ce05fb4585@5.75.205.77:2054?&security=tls&fp=random&sni=oty.myto.ip-ddns.com&type=ws&headerType=none&host=oty.myto.ip-ddns.com&path=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.150:8880?security=&encryption=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
 vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws&sni=pq.chile1.09vpn.com#🔥Join+Telegram:@Farah_VPN🟣
-vless://499ee245-f954-4d41-9943-4e85666b7414@104.18.26.94:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=esetsecuritylicense.mybdgpd.workers.dev&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@34.228.235.1:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@54.80.121.136:443?sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 vless://9e85b4eb-f53d-457e-9385-454db3c1dcc1@104.17.148.22:80?type=ws&host=Www.speedtest.net.developsp.ir.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#🔥Join+Telegram:@Farah_VPN🟣
@@ -74,6 +73,7 @@ vless://7f93e196-1b2f-4a42-8051-5815554c05db@3.80.244.42:443?allowInsecure=0&sni
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@34.229.104.253:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 vless://2f3e929e-fe8c-44d5-b96b-6ec0e4b5e569@104.17.148.22:2082?allowInsecure=1&sni=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082#🔥Join+Telegram:@Farah_VPN🟣
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@100.24.71.29:443?allowInsecure=1&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
+vless://7f93e196-1b2f-4a42-8051-5815554c05db@13.217.86.162:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZIQDIwNC4xMzYuMTAuMTE1OjE4NjY=#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDQ1Ljg3LjE3NS4yODo4MDgw#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZIQDE3Mi4yMzMuMTI4LjEyNjoxODY2#🔥Join+Telegram:@Farah_VPN🟣
