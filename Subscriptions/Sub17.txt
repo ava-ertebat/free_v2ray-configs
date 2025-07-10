@@ -150,7 +150,7 @@ trojan://123456@104.25.165.83:8443?encryption=none&security=tls&sni=top-azx.page
 trojan://123456@104.25.97.27:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.95.229:2053?security=tls&sni=iNvIncIbLE.faFA20.SHop&alpn=http/1.1&fp=chrome&type=ws&host=invincible.fafa20.shop&path=/trMryZDCWFzixHzF4I/NzguNDcuMTU3LjY=?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
 trojan://15c33952@152.67.228.132:443?security=tls&type=tcp&sni=sj.5216818.xyz#🔥Join+Telegram:@Farah_VPN🟣
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@52.195.238.173:443?security=tls&sni=sg02.trojanyyds.xyz&type=tcp&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://2ee85121-31de-4581-a492-eb00f606e392@15.204.248.103:443?security=tls&headerType=none&type=tcp&sni=rs3.freeguard.org#🔥Join+Telegram:@Farah_VPN🟣
+trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&headerType=&type=tcp&sni=rc8.freeguard.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&headerType=none&type=tcp&sni=rc6.freeguard.org#🔥Join+Telegram:@Farah_VPN🟣
-trojan://2ee85121-31de-4581-a492-eb00f606e392@23.95.14.5:443?security=tls&headerType=none&type=tcp&sni=rc9.freeguard.org#🔥Join+Telegram:@Farah_VPN🟣
-trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#🔥Join+Telegram:@Farah_VPN🟣
