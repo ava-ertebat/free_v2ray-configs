@@ -109,6 +109,10 @@ ss://YWVzLTI1Ni1nY206cjZoRHJrUDRFdDZFRU5UUzhReTdUY21n@185.125.207.201:44539#🔥
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.99.188.71:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.105.244.165:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@139.162.58.13:443#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@13.37.71.81:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Bw5Mz7QkVp@70.34.206.32:443?security=tls&amp;sni=z-v2-077787.kailib.com&amp;allowInsecure=1&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@18.184.243.220:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@63.178.111.172:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@13.39.192.171:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@13.38.213.47:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://installshield@38.180.249.177:8443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=38.180.249.177#🔥Join+Telegram:@Farah_VPN🟣
@@ -142,7 +146,3 @@ trojan://Aimer@173.245.59.202:2083?security=tls&amp;type=tcp&amp;sni=ngepx.amber
 trojan://9a358480-2132-11f0-bf3f-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@63.176.71.61:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://dQDQCtns4R@162.159.138.232:443?security=tls&amp;sni=fadaei.movieland.top&amp;type=ws&amp;path=static34528&amp;host=fadaei.movieland.top#🔥Join+Telegram:@Farah_VPN🟣
-trojan://5e2ce79c-170e-484a-8802-40584a1a3a12@naiu-us.05vr9nyqg5.download:13020?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com&amp;type=tcp&amp;headerType=none#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-directvpn@51.44.232.118:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
-trojan://4e2e0080-1af3-11f0-8e1e-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-privatevpns@52.47.56.53:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
