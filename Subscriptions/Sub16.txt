@@ -159,6 +159,6 @@ trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@chop-wrist-bud.stark-industries.so
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@guy-trace-lyric.stark-industries.solutions:443?security=tls&path=/vpnowl&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@nacho-rerun-crepe.stark-industries.solutions:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3723507166611775488@54.146.207.76:443?sni=busy-buffalo.treefrog761.one#🔥Join+Telegram:@Farah_VPN🟣
-trojan://3767107462583558144@35.79.158.115:443?sni=first-sawfly.goat627.mom#🔥Join+Telegram:@Farah_VPN🟣
-trojan://3767107462583558144@52.57.173.145:443?sni=assuring-roughy.goat627.mom#🔥Join+Telegram:@Farah_VPN🟣
-trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@us2.vpn.ong:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://3763495894587285504@52.194.247.45:443?allowInsecure=1&sni=adapting-macaw.goat627.mom#🔥Join+Telegram:@Farah_VPN🟣
+trojan://3763495894587285504@daring-puma.goat627.mom:443?allowInsecure=1&sni=daring-puma.goat627.mom#🔥Join+Telegram:@Farah_VPN🟣
+trojan://3763495894587285504@settling-terrier.goat627.mom:443?allowInsecure=1&sni=settling-terrier.goat627.mom#🔥Join+Telegram:@Farah_VPN🟣
