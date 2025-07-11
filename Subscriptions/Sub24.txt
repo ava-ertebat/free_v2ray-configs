@@ -118,9 +118,6 @@ ss://752811df-c191-4f5f-acaa-ce6399a22024@104.18.26.90:2096?encryption=none&amp;
 ss://518d0495-2139-4bfd-94df-2a029108f1af@104.18.26.90:443?path=/1E6TZkrhu3EWOwlQ?ed&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;host=nextmusichamrah.site&amp;fp=randomized&amp;type=ws&amp;sni=nextMusIcHAMraH.Site#🔥Join+Telegram:@Farah_VPN🟣
 ss://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@172.232.248.143:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&amp;security=reality&amp;sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.cloudflare-cdn.com&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 ss://4bf96dd2-f451-4938-8fa4-1a2251290920@104.156.252.141:443?type=xhttp&amp;path=%2F7uj65&amp;host=&amp;mode=stream-one&amp;security=none#🔥Join+Telegram:@Farah_VPN🟣
-trojan://tg-fq521free@216.24.57.30:443?path=/&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#🔥Join+Telegram:@Farah_VPN🟣
-trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=chrome&type=ws&host=pangpi.pages.dev&path=/?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
-trojan://trojan@104.18.13.229:8880?security=tls&type=ws&host=azadnet.vileyo6708.workers.dev&path=/?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
 trojan://trojan@109.234.211.66:8443?path=/&security=tls&host=store.timimi.dpdns.org&type=ws&sni=store.timimi.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://trojan@www.digitalocean.com:443?path=/?ed=2560&security=tls&host=azadnet-9ya.pages.dev&fp=chrome&type=ws&sni=azadnet-9ya.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
