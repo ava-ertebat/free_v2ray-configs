@@ -52,3 +52,11 @@ vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443/?path=%2F57ba2ab1
 vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?security=&type=ws&path=/&host=onlytesla1.xz027.com&encryption=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://301d049f-26d9-15ba-a83c-b1d5111d4444@62.60.244.252:25888?security=reality&sni=www.microsoft.com&fp=chrome&pbk=1wWJ_HJdLChMyEqb1agU0pQr26966K5SK4u7ehst-VQ&sid=8c5f97c86a710a&type=tcp&flow=xtls-rprx-vision&encryption=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?security=tls&sni=simorgh.hpcode.ir&fp=firefox&type=ws&path=/Javid-SHAH-KingRezaPahlavi/?ed%3D@vpnserverrr_vpnserverrr_vpnserverrr&host=simorgh.hpcode.ir&encryption=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://aa2997e3-de24-43b5-a742-8d9deffee79f@fin1.nspay.top:35500?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJhZGQiOiAiZ3IxLm5zcGF5LnRvcCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDg1Yzk0NWYtOTUwOS00MTVjLWFhNTktZGI4OTQyMTFmZGI3IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIzNTYwMCIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=%2FZed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://3763495894587285504@golden-krill.treefrog761.one:443?allowInsecure=0&sni=golden-krill.treefrog761.one#🔥Join+Telegram:@Farah_VPN🟣
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.222.22.208:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#🔥Join+Telegram:@Farah_VPN🟣
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.133.98.15:2222?security=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://cc6b985d-0362-4129-8763-38564174fb3e@92.53.189.109:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@52.209.181.137:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
