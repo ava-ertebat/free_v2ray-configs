@@ -115,11 +115,11 @@ ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@152.89.160.115:33992#🔥J
 ss://YWVzLTI1Ni1nY206NGVqSjhuNWRkTHVZRFVIR1hKcmUydWZK@185.134.22.115:48938#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206NGVqSjhuNWRkTHVZRFVIR1hKcmUydWZK@156.146.33.83:48938#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206NGVqSjhuNWRkTHVZRFVIR1hKcmUydWZK@138.199.19.167:48938#🔥Join+Telegram:@Farah_VPN🟣
-trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@nacho-rerun-crepe.stark-industries.solutions:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3763495894587285504@13.43.156.128:443?allowInsecure=1&sni=useful-honeybee.treefrog761.one#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3763495894587285504@18.180.126.191:443?allowInsecure=1&sni=top-aphid.goat627.mom#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3763495894587285504@3.97.3.127:443?allowInsecure=1&sni=concise-dragon.goat627.mom#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3763495894587285504@35.180.240.183:443?security=tls&sni=honest-cow.goat627.mom&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://3763495894587285504@62.112.221.46:443?allowInsecure=0&sni=enabling-cat.goat627.mom#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3763495894587285504@nearby-sheep.goat627.mom:443?allowInsecure=1&sni=nearby-sheep.goat627.mom#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3763495982449565696@54.234.215.155:443?allowInsecure=1&sni=measured-moth.treefrog761.one#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@us2.vpn.ong:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
