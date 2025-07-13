@@ -118,7 +118,6 @@ vless://214424d8-99e0-46fe-82ff-7128ef45d126@143.14.220.111:25888?security=reali
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.200.210:443?security=tls&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=147135004002.sec20org.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.132.196:8443?path=%2Fsmcnjwi0ffy3gpdy%2Fodqumjm1lje2os4ymzq%3D%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=UuHuHyygESDFGh.uyHjhGVGfcJGUJHbUilbvfdxdXM.xYz&amp;fp=chrome&amp;type=ws&amp;sni=UuHuHyygESDFGh.uyHjhGVGfcJGUJHbUilbvfdxdXM.xYz#🔥Join+Telegram:@Farah_VPN🟣
 vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@172.67.175.148:2083?path=%2Fkshty81cfjdnvixr%2Fc2hpcmvulnlhzw1pa28uz2dmzi5uzxq%3D%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=FreEdOm.pANotosU.stOre&amp;fp=chrome&amp;type=ws&amp;sni=FreEdOm.pANotosU.stOre#🔥Join+Telegram:@Farah_VPN🟣
-ss://7bd338e7-703e-4310-9871-78393a40d483@193.238.153.70:11044?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 ss://71b7cafa-7d98-4190-ae0f-6654886edd5b@germany.playshoptv.com:9090?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdnl2VVBRRkRJbHorNE9wKzIzNlFtREwxdjc2VHN2cERTWmdxakowZ253PQ%3D%3D@david2.lemoex.blog:2083#🔥Join+Telegram:@Farah_VPN🟣
 ss://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=TW.kKpopH4Zmc.ZUlaIr.orG&amp;type=ws#🔥Join+Telegram:@Farah_VPN🟣
@@ -178,3 +177,4 @@ ss://YWVzLTI1Ni1nY206WWh1bnRDTWZMa01mZmF0alBOVkpQRg%3D%3D@pl04.outline.abvpn.ru:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206QVliRkwzOWJuNEVmRFhmRGJ1ZWFtTg%3D%3D@62.60.233.72:33155#🔥Join+Telegram:@Farah_VPN🟣
