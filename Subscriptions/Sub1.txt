@@ -98,3 +98,14 @@ trojan://telegram-id-directvpn@13.37.140.67:22223?security=tls&alpn=http%2F1.1&h
 vless://96479a22-9333-4b03-9912-4dd26acef75e@104.21.112.1:443?path=%2F9EkfcCDedhvB19xj%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=nextfilmtomovies.site&fp=randomized&type=ws&sni=NExtfilmtOmovies.sitE#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@3.74.102.227:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://54b4c039-7be6-448f-b704-820251b079db@5.75.197.120:2025?mode=gun&security=reality&encryption=none&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram%20%3A%20%40PouRia_Cheat&sni=www.cloudflare.com&sid=8d9c20be72b4#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@152.53.2.128:34045#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXRNNmxVU016YzlsZ083Z0R6ZDQ5@146.103.98.85:46303?type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZODQraFRkK3lPdm02ZThsTWlNbThyOXBmeG5HbTRxendwRXhVYmRkM3EwPQ@d1.marzano5.one:8080?type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://98880554-e43d-40b3-af8c-7d11b3a016e1@de.foxinonet.ir:443?security=tls&type=ws&host=de.foxinonet.ir&sni=de.foxinonet.ir&headerType=&path=%2Flw#🔥Join+Telegram:@Farah_VPN🟣
+vless://9359969a-f79b-47fd-9d79-c7397d10af3d@213.176.121.239:57257?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=%2FbPJ4mgkJbA7CnY7q%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=nOCTYq.pAGES.DEV&type=ws&sni=nOCTYq.pAGES.DEV#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.255.210.49:989#🔥Join+Telegram:@Farah_VPN🟣
+vless://1841c7ac-d763-4788-87fb-7a8a6584a2a4@a.livetetherprice.sbs:8443?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=www.microsoft.com#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJhZGQiOiAibmwxLnRpbnkxLmNsb3VkIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIxNjJmYjA1Ni00NzVhLTQxYzctYjMxNi04MGI2ODM3YjE5YzgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiODA4NSIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
+vless://8f27aceb-13ce-4bbe-9847-35049fbb46f4@panel1.zapserver.top:54002?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@46.151.194.89:8443?security=tls&sni=sao-br.fromblancwithlove.com&alpn=h2&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
