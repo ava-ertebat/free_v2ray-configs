@@ -115,6 +115,7 @@ ss://d35beec1-b572-44f7-a28a-cae936fc695e@188.245.119.163:24753?security=&amp;en
 ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&amp;security=tls&amp;sni=IyFpLkXk11.jOoLaJoOlA.OrG&amp;type=ws&amp;alpn=h3h2&amp;host=IyFpLkXk11.jOoLaJoOlA.OrG&amp;path=/#🔥Join+Telegram:@Farah_VPN🟣
 ss://80128acc-ff7f-41fe-af34-62f4108635ca@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&amp;security=tls&amp;sni=638880231667527799.madrid-prx-dnraaao.info&amp;type=ws&amp;alpn=&amp;host=638880231667527799.madrid-prx-dnraaao.info&amp;path=/jzkedews#🔥Join+Telegram:@Farah_VPN🟣
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&amp;security=tls&amp;sni=BpDnUd86Z1.aLaNvMmJaF-dM1.iNfO&amp;type=ws&amp;alpn=h3h2&amp;host=BpDnUd86Z1.aLaNvMmJaF-dM1.iNfO&amp;path=/#🔥Join+Telegram:@Farah_VPN🟣
+trojan://v6w7x8y9-3456-7bcd-8abc-9012abcdef12@104.21.25.530:443?type=ws&host=trojan.workers.dev&path=/trojan#🔥Join+Telegram:@Farah_VPN🟣
 trojan://vip@104.18.42.163:443?path=/?ed=2560&security=tls&host=heihu880.pages.dev&type=ws&sni=heihu880.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
 trojan://vip@104.21.90.78:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://vip@104.26.4.57:443?security=tls&headerType=none&type=tcp&sni=heihu880.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
