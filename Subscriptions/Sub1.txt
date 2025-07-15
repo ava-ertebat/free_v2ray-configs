@@ -116,3 +116,16 @@ vless://bf09ef80-aae7-42b7-ab37-a29cd310a9a4@104.18.14.19:2086?type=ws&host=0121
 trojan://xOWvsJYC58@91.99.234.241:47428?mode=auto&path=%2F&security=none&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
 vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=%2F9EkfcCDedhvB19xj%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=nextfilmtomovies.site&fp=randomized&type=ws&sni=NExtfilmtOmovies.sitE#🔥Join+Telegram:@Farah_VPN🟣
 vless://f078eee8-86d0-47b1-8b67-12a570be17ad@146.103.99.75:443?security=reality&encryption=none&pbk=O9DMPpwicRcMofaplcvpQStNRogPS_HJY0s5_4EaKQc&host=%40v2_azad&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nu.nl#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@188.164.159.43:2083?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vless://c07012cb-ed4c-4cf9-bfd7-11a67f6c8230@188.245.55.148:999?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=mC2_7hqeQtC5lHPS2JVy2h5ayLQQrAdp6TmU-9J0Ihg&sid=dcae68c2#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@54.241.79.250:80?allowInsecure=0&sni=ngep.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@188.164.159.22:2096?allowInsecure=0&sni=ngep.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@103.148.72.147:1443?allowInsecure=0&sni=ngep.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@3.74.9.115:8443?allowInsecure=0&sni=ngep.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@192.200.160.35:2083?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@86.38.214.186:443?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+vless://35e905b6-01d4-4697-8e1a-fce4cac9df75@fastly.vipfast7.site:80?path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%3Fed%3D2048&security=none&encryption=none&host=testfast7.v2fast7.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://telegram-id-Arfilter@www.speedtest.net:80?path=%2F-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter%3Fed%3D80&security=none&encryption=none&host=www.speedtest.net.a.4.speedtest2029.com.&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://1ae17c7d-6074-41e2-894b-478c9fcf5715@172.64.157.124:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=rough-hill-2959-ppal03.fawik58803.workers.dev&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://15219f08-71de-42e9-92ef-82ddded32704@151.101.3.8:80?mode=auto&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=skyshiield.global.ssl.fastly.net&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
