@@ -107,8 +107,8 @@ trojan://@bored_vpn@bored_vpn@bored_vpn@bored_vpn@bored_vpn@bored_vpn@62.60.176.
 trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x2swe-ovh.devefun.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@103.116.7.133:2083?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@108.165.152.14:2096?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
-trojan://Aimer@108.165.152.225:2083?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@108.165.152.241:2053?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@108.165.152.67:2053?sni=agepq.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@108.165.152.76:2096?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@108.165.152.93:2083?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@130.250.137.63:2083?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
@@ -121,8 +121,8 @@ trojan://Aimer@154.29.147.199:443?allowInsecure=1&sni=amepo.ambercc.filegear-sg.
 trojan://Aimer@160.79.105.80:2087?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@161.129.41.140:6352?allowInsecure=0&sni=ngep.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@173.245.59.203:443?sni=ngepx.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
-trojan://Aimer@176.53.144.206:8443?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@185.204.109.190:8443?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@188.164.159.174:2053?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@188.164.159.185:8443?allowInsecure=1&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=/#🔥Join+Telegram:@Farah_VPN🟣
-trojan://Aimer@188.164.159.18:443?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@188.164.159.241:2096?allowInsecure=1&sni=acepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@188.164.159.248:2053?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
