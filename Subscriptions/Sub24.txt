@@ -94,7 +94,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTk1LjEyLjQ5LjgyOjgwMQ==#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTg1LjEwNC4xODQuNzg6ODEy#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTg1LjE3LjExMy4yMzQ6ODEy#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTYzLjE3Mi4xMTAuNTQ6ODEy#🔥Join+Telegram:@Farah_VPN🟣
-trojan://Aimer@46.254.93.52:8443?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@46.254.92.142:2087?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@46.254.92.142:2087?sni=ngepx.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@46.254.92.201:2053?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@46.254.93.175:2083?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@5.182.84.120:443?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@5.182.84.9:2087?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@5.182.85.255:2096?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
@@ -123,6 +126,3 @@ trojan://Ng35283528@104.16.83.176:443?path=/?ed&security=tls&host=c2.validbv3528
 trojan://OmqcThZWp1@91.107.163.173:27596?security=tls&allowInsecure=1&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://OmqcThZWp1@91.107.163.173:27596?type=tcp&security=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520#🔥Join+Telegram:@Farah_VPN🟣
-trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#🔥Join+Telegram:@Farah_VPN🟣
-trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI?ed=1520#🔥Join+Telegram:@Farah_VPN🟣
-trojan://T9xcEjdUWx@62.60.176.240:36557?type=tcp&path=/@BORED_VPN@BORED_VPN@BORED_VPN@BORED_VPN@BORED_VPN@BORED_VPN@BORED_VPN@BORED_VPN@BORED_VPN@BORED_VPN@BORED_VPN@BORED_VPN@BORED_VPN@BORED_VPN&host=zula.ir&headerType=http&security=none#🔥Join+Telegram:@Farah_VPN🟣
