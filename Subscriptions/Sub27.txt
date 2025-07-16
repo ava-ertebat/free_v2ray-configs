@@ -94,6 +94,9 @@ ss://c106802e-577e-4dfd-ab45-c65d88af1ef9@104.16.98.3:2053?path=%2FpBo4JI9ey63R7
 ss://93753fb9-b3ea-48b5-af84-4a26a117963b@91.99.116.35:19322?security=&amp;encryption=none&amp;host=exo.ir&amp;headerType=http&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 ss://4cc04a11-08c8-4aa5-8ee4-1173bfdf9df5@5.22.217.136:80?type=tcp&amp;path=/&amp;host=zula.ir&amp;headerType=http&amp;security=none#🔥Join+Telegram:@Farah_VPN🟣
 ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh36v2.waipdirect.shop:8880?encryption=none&amp;security=none&amp;sni=pqh36v2.waipdirect.shop&amp;alpn=&amp;type=grpc&amp;host=pqh36v2.waipdirect.shop#🔥Join+Telegram:@Farah_VPN🟣
+trojan://eG92F3gh09@51.15.86.181:1935?security=tls&headerType=none&type=tcp&sni=x1ams-scaleway.devefun.net#🔥Join+Telegram:@Farah_VPN🟣
+trojan://f0g1h2i3-3456-7bcd-8abc-9012abcdef78@185.146.173.2500:443?type=ws&host=trojan.de.vpnfree.org&path=/trojan#🔥Join+Telegram:@Farah_VPN🟣
+trojan://f0g1h2i3-5678-9abc-def0-1234567890ab@104.21.25.410:443?type=ws&host=trojan.workers.dev&path=/trojan#🔥Join+Telegram:@Farah_VPN🟣
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#🔥Join+Telegram:@Farah_VPN🟣
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Tel-@V2ray_Alpha&security=tls&host=vpn.stupidworld.web.id&fp=chrome&allowinsecure=0&type=ws&sni=vpn.stupidworld.web.id#🔥Join+Telegram:@Farah_VPN🟣
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Tel-@V2ray_Alpha&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#🔥Join+Telegram:@Farah_VPN🟣
@@ -123,6 +126,3 @@ trojan://pChLk4O2J8@91.107.141.97:50255?type=tcp&security=none#🔥Join+Telegram
 trojan://phXKwfrd@223.113.54.145:36442?allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://ptM0AjehKC@x7-sweden-amazon-v2-ku4u8.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x7-sweden-amazon-v2-ku4u8.devefun.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://q1r2s3t4-3456-7bcd-8abc-9012abcdef12@104.21.25.490:443?type=ws&host=trojan.workers.dev&path=/trojan#🔥Join+Telegram:@Farah_VPN🟣
-trojan://r2s3t4u5-5678-9abc-def0-1234567890ab@185.146.173.3150:443?type=ws&host=trojan.de.vpnfree.org&path=/trojan#🔥Join+Telegram:@Farah_VPN🟣
-trojan://rXLpdbFugHcjfsmz1uaiLQ@195.182.38.66:2087?security=tls&sni=sec1.freevnet.click&fp=chrome&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#🔥Join+Telegram:@Farah_VPN🟣
