@@ -184,4 +184,5 @@ trojan://abbcaca-acba-baac-bacd-accabbccbaba@127.0.0.1:1080?security=tls&type=tc
 trojan://telegram-id-privatevpns@15.237.85.67:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@15.237.85.67:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://xjN4xcuPGg55@h.522226.xyz:45800?allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-directvpn@18.208.112.211:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://cbaabac-aabc-baca-cdba-accacabacbbb@127.0.0.1:8080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@18.170.94.221:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
