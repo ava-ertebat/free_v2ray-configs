@@ -157,10 +157,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.13
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#🔥Join+Telegram:@Farah_VPN🟣
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@43.198.154.122:45181?security=tls&sni=de1.bilibili.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://0028109a-37ed-4ded-b858-e566388a904c@43.206.241.229:20230?sni=421421.xyz&allowInsecure=0#🔥Join+Telegram:@Farah_VPN🟣
-trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
-trojan://1ba48a0e-af2e-45fb-9e15-2b2d4134657c@172.207.246.25:443?sni=vn.mjt000.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://blue2024@14.102.229.63:443?sni=b.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@79.125.41.206:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@13.42.172.1:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
@@ -210,3 +206,7 @@ trojan://blue2024@188.114.99.102:443?sni=hb.lii2010.us.kg#🔥Join+Telegram:@Far
 trojan://telegram-id-directvpn@51.44.197.229:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@51.44.197.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://NISHIKUITAN111@92.53.191.173:443?#🔥Join+Telegram:@Farah_VPN🟣
+trojan://auto@104.20.21.229:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
+trojan://NISHIKUITAN111@104.20.138.222:443?#🔥Join+Telegram:@Farah_VPN🟣
+trojan://PU3f7528NtNXnQqb9X263rGSD@195.133.11.229:443?security=tls&type=ws&sni=get.fragmentary.info&path=/socks5tobefree&host=get.fragmentary.info#🔥Join+Telegram:@Farah_VPN🟣
+trojan://blue2024@104.19.190.86:443?security=tls&type=ws&sni=td.promote.icu&path=/?ed=2560&host=td.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
