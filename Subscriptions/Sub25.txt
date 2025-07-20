@@ -160,6 +160,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#🔥Join+Telegram
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.37:989#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.60:989#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989#🔥Join+Telegram:@Farah_VPN🟣
+trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.17.128.1:2096?allowInsecure=0&sni=nc.ylka.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.17.68.85:443?allowInsecure=0&sni=ns.ylka.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.243.218:443?allowInsecure=0&sni=ns.ylka.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.17.68.85:443?allowInsecure=0&sni=nc.ylka.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
@@ -194,9 +195,7 @@ trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@sullivan.ns.cloudflare.com:443?all
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@whatismyipaddress.com:443?allowInsecure=0&sni=nc.ylka.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@icook.tw:443?allowInsecure=0&sni=nc.ylka.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.243.218:443?allowInsecure=0&sni=nc.ylka.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
-trojan://c3d6d2e4-05a5-4a48-b91a-070b5e9fcdfb@sg2-full.privateip.net:443?allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://SdCqFLcA@36.151.251.57:40252?allowInsecure=1&sni=www.baidu.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.239:4448?allowInsecure=1&sni=www.baidu.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@92.243.74.180:8443?allowInsecure=0&sni=tyep.esslh.filegear-sg.me&type=ws&host=tyep.esslh.filegear-sg.me&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://03e92910-34b1-4245-ac63-04a865f43cd5@[2606:4700:3033::ac43:c768]:443/?type=ws&host=eeefr5t6.4444916.xyz&path=/bi35bFWoRrnPhIJoo2wcE6Q&security=tls&sni=eEeFr5T6.4444916.XYZ&alpn=http/1.1&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
 trojan://061a01f1-704b-4712-8e12-6d3fc95a127d@129.154.208.231:21112?allowInsecure=0&sni=sale.alibaba.com#🔥Join+Telegram:@Farah_VPN🟣
@@ -214,3 +213,4 @@ trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@43.198.250.49:49782?sni=jp12.bilib
 trojan://abaccab-acba-abac-cbad-ccabbacabbac@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://blue2024@108.162.195.199:443?sni=tc.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
 trojan://blue2024@172.67.70.100:443?sni=tc.promote.icu&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://fd17fd03-844b-4c4b-9551-27f2b055d4f8@51.158.243.62:443?security=reality&encryption=none&pbk=1gKloUYtea1EJfBcatiTkmJVdCbb6SfVrnL6Lz-RYj0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=42#🔥Join+Telegram:@Farah_VPN🟣
