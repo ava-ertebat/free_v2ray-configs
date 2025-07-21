@@ -160,9 +160,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a1.samanehha.co
 trojan://telegram-id-directvpn@13.39.192.171:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://010bd080-2133-11f0-a064-1239d0255272@uk1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3058cb40-34de-11f0-92d9-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://322805a1-6634-40c6-a502-b0cfbd9c7d58@js-12f83a8c.kaiqsz.com:42765?sni=v1-dy.ixigua.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.239:4448?sni=www.baidu.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@92.243.74.180:8443?type=ws&sni=tyep.esslh.filegear-sg.me&path=/&host=tyep.esslh.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://322805a1-6634-40c6-a502-b0cfbd9c7d58@js-12f83a8c.kaiqsz.com:42765?sni=v1-dy.ixigua.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://SdCqFLcA@36.151.251.57:40252?sni=www.baidu.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@27.50.48.126:2083?sni=tyep.esslh.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://322805a1-6634-40c6-a502-b0cfbd9c7d58@js-12f83a8c.kaiqsz.com:42765?allowInsecure=1&sni=v1-dy.ixigua.com#🔥Join+Telegram:@Farah_VPN🟣
