@@ -165,7 +165,7 @@ trojan://Aimer@92.243.74.180:8443?type=ws&sni=tyep.esslh.filegear-sg.me&path=/&h
 trojan://322805a1-6634-40c6-a502-b0cfbd9c7d58@js-12f83a8c.kaiqsz.com:42765?sni=v1-dy.ixigua.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://SdCqFLcA@36.151.251.57:40252?sni=www.baidu.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@27.50.48.126:2083?sni=tyep.esslh.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
-trojan://322805a1-6634-40c6-a502-b0cfbd9c7d58@js-12f83a8c.kaiqsz.com:42765?allowInsecure=1&sni=v1-dy.ixigua.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@92.243.74.180:8443?allowInsecure=0&sni=tyep.esslh.filegear-sg.me&type=ws&host=tyep.esslh.filegear-sg.me&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.163:443?security=tls&type=ws&sni=blOOM-cHh.pAges.DeV&path=/Telegram@V2ray_Alpha/?ed=2048&host=blOOM-cHh.pAges.DeV#🔥Join+Telegram:@Farah_VPN🟣
 trojan://NISHIKUITAN111@198.41.205.148:443?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://trojan@162.159.153.2:80?security=none&type=ws&path=/?ed=2560&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.vpncustomize.iranibzai.com#🔥Join+Telegram:@Farah_VPN🟣
