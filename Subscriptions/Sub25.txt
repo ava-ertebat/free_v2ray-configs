@@ -157,6 +157,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.13
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#🔥Join+Telegram:@Farah_VPN🟣
+trojan://bpb-trojan@162.159.153.161:443?security=tls&type=tcp&sni=cf.090227.xyz#🔥Join+Telegram:@Farah_VPN🟣
 trojan://auto@172.66.47.150:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://NISHIKUITAN111@104.18.84.174:443?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://NISHIKUITAN111@104.20.12.219:443?#🔥Join+Telegram:@Farah_VPN🟣
@@ -209,4 +210,3 @@ trojan://telegram-id-privatevpns@13.61.123.74:22222?security=tls&sni=trojan.burg
 trojan://caabcab-aabc-aabc-dcba-cacbabbcabca@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.224:2052?security=none&type=ws&path=/?ed=2560&host=late-tooth.granzinhannah.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
 trojan://NISHIKUITAN111@104.18.215.15:443?#🔥Join+Telegram:@Farah_VPN🟣
-trojan://NISHIKUITAN111@104.19.247.200:443?#🔥Join+Telegram:@Farah_VPN🟣
