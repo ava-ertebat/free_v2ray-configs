@@ -165,6 +165,3 @@ trojan://ffcf7ec1-3e09-4821-b3d9-b426a107b73b@172.67.131.76:443/?type=grpc&servi
 trojan://telegram-id-privatevpns@51.44.130.13:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@63.176.186.43:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://vip@icook.tw:443?encryption=none&security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=/?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-privatevpns@15.237.146.197:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
-trojan://e174a370-dffe-11ef-8826-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&type=tcp&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
-trojan://ZU)0ryc$VSrG@uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev:443?security=tls&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV&fp=randomized&alpn=http/1.1&type=ws&path=/trg2dhGAnG15ULOP7i?ed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
