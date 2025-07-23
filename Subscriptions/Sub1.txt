@@ -2,3 +2,6 @@ vmess://eyJ0eXBlIjogIm5vbmUiLCAiaGVhZGVyVHlwZSI6ICJub25lIiwgInNlZWQiOiAiIiwgInYi
 vless://401374e6-df77-41fb-f638-dad8184f175b@62.72.166.15:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.1:8880?security=&type=ws&host=yd.laoyoutiao.link&encryption=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@35.181.196.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@35.181.196.98:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?path=%2Freklaz1FsDrIv7mW%3Fed%3D%23Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.222.98:8880?path=%2FuLF6HXZ7986oF7Yg%3Fed&security=&alpn=http%2F1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=chrome&type=ws&sni=VngSupply.Ip-DdNS.com#🔥Join+Telegram:@Farah_VPN🟣
