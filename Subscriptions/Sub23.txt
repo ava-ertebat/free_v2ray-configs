@@ -208,6 +208,12 @@ trojan://blue2024@162.159.22.29:443?allowInsecure=1&sni=td.promote.icu#🔥Join+
 trojan://blue2024@104.16.36.151:443?sni=ha.lii2010.us.kg#🔥Join+Telegram:@Farah_VPN🟣
 trojan://NISHIKUITAN111@185.193.30.187:443?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@199.34.228.71:8443?allowInsecure=1&sni=ngepy.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@104.196.250.34:2087?sni=ngepz.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+trojan://bpb-trojan@172.66.44.128:443?security=tls&type=tcp&sni=cf.090227.xyz#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@13.36.72.191:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://auto@104.21.69.44:443?security=tls&type=ws&sni=pAges.dEv.&path=/@custom_config?ed=2560&host=deploy-14030911.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
+trojan://DNUMdmnJ@36.151.192.242:51377?#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@63.176.235.247:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.238:2078?allowInsecure=1&sni=www.baidu.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.7:443?allowInsecure=0&sni=m.avhxc.cn#🔥Join+Telegram:@Farah_VPN🟣
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.7:40937?allowInsecure=1&sni=www.baidu.com#🔥Join+Telegram:@Farah_VPN🟣
@@ -216,9 +222,3 @@ trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.7:25618?allowInsecure=1&sni
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.7:44123?allowInsecure=1&sni=www.baidu.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.7:4448?allowInsecure=1&sni=www.baidu.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@92.243.74.180:8443?allowInsecure=0&sni=tyep.esslh.filegear-sg.me&ws=1&wspath=%2F#🔥Join+Telegram:@Farah_VPN🟣
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.7:3596?allowInsecure=1&sni=www.baidu.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.7:32962?allowInsecure=1&sni=www.baidu.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://Aimer@92.243.74.180:8443?allowInsecure=0&sni=tyep.esslh.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
-trojan://Aimer@92.243.74.180:8443?allowInsecure=0&sni=tyep.esslh.filegear-sg.me&type=ws&host=tyep.esslh.filegear-sg.me&path=/#🔥Join+Telegram:@Farah_VPN🟣
-trojan://Aimer@92.243.74.180:8443?sni=tyep.esslh.filegear-sg.me&type=ws&host=tyep.esslh.filegear-sg.me&path=%2F#🔥Join+Telegram:@Farah_VPN🟣
-trojan://0EBCBB23-C337-0909-4655-BC85BCDCFC02@dry-snowflake-b29f.vpnetwork3567.workers.dev:443?path=/&security=tls&host=dry-snowflake-b29f.vpnetwork3567.workers.dev&fp=chrome&type=ws&sni=dry-snowflake-b29f.vpnetwork3567.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
