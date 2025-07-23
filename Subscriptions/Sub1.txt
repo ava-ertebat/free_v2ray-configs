@@ -162,3 +162,12 @@ ss://5e454ad1-f158-4608-a51f-5f8700964e2e@irc6.vpsland.site:39357?security=none&
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.19.36.79:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔥Join+Telegram:@Farah_VPN🟣
 vless://7c05cbda-3034-4b0d-8e76-eee13986b3de@mmdamin.2.dragonspeed.top:5701?security=none&encryption=none&host=refersion.com%2C%20fast.com%2C%20P30afzar.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@83.217.9.128:2222#🔥Join+Telegram:@Farah_VPN🟣
+trojan://NISHIKUITAN111@104.20.192.18:443?allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://blue2024@104.16.30.221:443?allowInsecure=1&sni=td.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
+trojan://blue2024@104.19.253.28:443?allowInsecure=1&sni=td.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
+trojan://blue2024@104.19.162.122:443?allowInsecure=1&sni=td.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
+trojan://blue2024@104.16.93.142:443?allowInsecure=1&sni=td.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
+trojan://blue2024@103.21.244.133:443?allowInsecure=1&sni=td.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
+trojan://blue2024@104.26.15.133:443?allowInsecure=1&sni=td.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
+trojan://blue2024@188.114.96.186:443?allowInsecure=1&sni=td.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4yMjciLCAidiI6ICIyIiwgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
