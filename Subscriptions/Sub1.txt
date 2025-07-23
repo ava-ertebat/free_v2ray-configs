@@ -98,3 +98,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTA1YTMyYi0wMTJjLTQ3MTEtODllMi03M2I2NzEzZWN
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://auto@[2a06:98c1:3121::3]:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev&alpn=h3&fp=randomized&type=ws&host=dcf741e8.epeius-2gy.pages.dev&path=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?security=tls&sni=aio.zipzap.biz.id&type=ws&host=aio.zipzap.biz.id&path=%2Faioproxybot%2F129.150.49.58-18650#🔥Join+Telegram:@Farah_VPN🟣
+trojan://bpb-trojan@104.16.196.91:443?allowInsecure=1&sni=bpb.my79801.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://bpb-trojan@190.93.245.14:443?allowInsecure=1&sni=bpb.my79801.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://bpb-trojan@104.19.177.234:443?allowInsecure=1&sni=bpb.my79801.com#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjEwNC4yNy43Ny4yMiIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYWY2ZWVkZjUtZjJiNC00NDdmLThiOTMtNWZjYTMzYWYwNmY4IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJ5bGtzLnVzLmtnIiwgInRscyI6ICJ0bHMifQ==
+trojan://bpb-trojan@104.16.143.191:443?allowInsecure=1&sni=bpb.my79801.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://blue2024@104.19.172.92:443?allowInsecure=1&sni=td.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
+trojan://bpb-trojan@104.18.126.124:443?allowInsecure=1&sni=bpb.my79801.com#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjE3Mi42Ny43OS45MyIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYWY2ZWVkZjUtZjJiNC00NDdmLThiOTMtNWZjYTMzYWYwNmY4IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJ5bGtzLnVzLmtnIiwgInRscyI6ICJ0bHMifQ==
+trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=ws&host=hsdgbuys.pages.dev&path=%2F#🔥Join+Telegram:@Farah_VPN🟣
+vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?encryption=none&security=tls&sni=amIR-ebR.pAGeS.Dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=amir-ebr.pages.dev&path=%2F#🔥Join+Telegram:@Farah_VPN🟣
