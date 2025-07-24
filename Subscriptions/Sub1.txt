@@ -95,3 +95,4 @@ trojan://blue2024@108.162.195.155:443?security=tls&sni=tb.promote.icu&type=ws&ho
 vless://a83c693a-29da-4472-9da9-b0f4d04e42e5@bmi.raheaiande.ir:1001?security=reality&encryption=none&pbk=wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM&headerType=http&fp=edge&spx=%2Fjoin_telegram-%40vpnserverrr%2Fjoin_telegram-%40vpnserverrr%20join_telegram-%40vpnserverrr&type=tcp&sni=ea.com&sid=c7bc4d#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@167.88.61.111:8000#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@51.112.82.154:443#🔥Join+Telegram:@Farah_VPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🔥Join+Telegram:@Farah_VPN🟣
