@@ -205,7 +205,6 @@ trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.17.148.22:8443?path=/trwidp0EN
 trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.77.79:443/?type=grpc&serviceName=raChT39pjLFYRAO6JLn303d&security=tls&sni=XCdvFgt.986986.sHOP&alpn=h2&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3774827088566296576@natural-aphid.insect388.motorcycles:443?allowInsecure=1&sni=natural-aphid.insect388.motorcycles#🔥Join+Telegram:@Farah_VPN🟣
-trojan://395f14873b1d6b2@srwes1-confeg.sbs:56679?type=tcp&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 trojan://4ad0f58ba916627@srwes1-confeg.sbs:56679?type=tcp&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 trojan://527a7c04-9a2c-4fdb-aa18-37337e62e917@csgo.com:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#🔥Join+Telegram:@Farah_VPN🟣
 trojan://527a7c04-9a2c-4fdb-aa18-37337e62e917@fastcup.net:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#🔥Join+Telegram:@Farah_VPN🟣
@@ -226,3 +225,4 @@ trojan://a7b22c05-27fd-4a76-8896-2aebaf4cf3a1@172.67.173.64:443?sni=TttTtTYU.203
 trojan://blue2024@104.19.214.179:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=/?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
 trojan://bpb-trojan@104.26.4.60:443?security=tls&sni=zamim340.ggff.net&type=ws&path=/tr?ed=2560&host=zamim340.ggff.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://dac2d4dd-9a4d-4eb0-92a6-028532caed52@csgo.com:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#🔥Join+Telegram:@Farah_VPN🟣
+trojan://dac2d4dd-9a4d-4eb0-92a6-028532caed52@fastcup.net:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#🔥Join+Telegram:@Farah_VPN🟣
