@@ -114,3 +114,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjEwMy4x
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.134.48.109:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0dUVRd0dPNUdDLTZnTWU0ekZQVlJR@82.115.5.141:1080#🔥Join+Telegram:@Farah_VPN🟣
 trojan://NISHIKUITAN111@172.67.185.81:443?#🔥Join+Telegram:@Farah_VPN🟣
+vless://31b1473d-31bf-48fb-9b35-b12d459125e6@s3.vip.ip9s.ir:37916?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
