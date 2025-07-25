@@ -87,3 +87,15 @@ vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.4:443?path=%2Fproxyip&se
 vmess://eyJuZXQiOiAidGNwIiwgImlkIjogImM0YmQ5ZWJhLThhZWEtNGQ1ZS1hMmVlLWI1ZGU2NWFjMTRlMSIsICJob3N0IjogIiIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAidHlwZSI6ICJub25lIiwgInBhdGgiOiAiIiwgInNjeSI6ICJhdXRvIiwgImFkZCI6ICJwYW5lbDEuaXB5YXIub3JnIiwgInBvcnQiOiAiNDI2ODQifQ==
 trojan://telegram-id-privatevpns@13.61.134.83:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2Fconfig-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free%3Fed%3D2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=random&type=ws&sni=vl.hongkong6.qzz.io#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.95.174:5004#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBOFduVUtHRGZoc3N2YXBFTG5RUlNu@51.13.114.93:62004#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTUWowU2lBckt1QmlJemNyUEN2cjVq@77.83.246.74:33320#🔥Join+Telegram:@Farah_VPN🟣
+trojan://NISHIKUITAN111@190.93.247.175:443?#🔥Join+Telegram:@Farah_VPN🟣
+trojan://blue2024@104.20.2.145:443?sni=hb.lii2010.us.kg#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.53:8881#🔥Join+Telegram:@Farah_VPN🟣
+trojan://bpb-trojan@104.17.159.75:443?security=tls&type=tcp&sni=fcspring.ggff.net#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@52.47.166.182:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEWFFvY2JwSUk2Y01nTnVNSzV4Q2xR@85.208.139.158:25607#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@142.202.49.122:9102#🔥Join+Telegram:@Farah_VPN🟣
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyAidlvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJhZGQiIDogIjUxLjc5LjEwMi4yNTMiLCAicG9ydCIgOiAiODAiLCAiaWQiIDogIjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsICJhaWQiIDogIjAiLCAic2N5IiA6ICJhdXRvIiwgIm5ldCIgOiAid3MiLCAicGF0aCIgOiAiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiIH0=
