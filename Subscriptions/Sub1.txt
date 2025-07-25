@@ -101,3 +101,16 @@ vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&enc
 vmess://eyAidlvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJhZGQiIDogIjUxLjc5LjEwMi4yNTMiLCAicG9ydCIgOiAiODAiLCAiaWQiIDogIjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsICJhaWQiIDogIjAiLCAic2N5IiA6ICJhdXRvIiwgIm5ldCIgOiAid3MiLCAicGF0aCIgOiAiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiIH0=
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#🔥Join+Telegram:@Farah_VPN🟣
 vless://c32819a3-bb1c-4e15-be00-ffcb657f8323@dl1-tr-cdn.easy-upload.org:2010?security=none&encryption=none&host=gharar.ir&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:2082?security=none&encryption=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.50.105:443?path=%2F&security=tls&encryption=none&host=vngsupply.ip-ddns.com&type=ws&sni=vngsupply.ip-ddns.com#🔥Join+Telegram:@Farah_VPN🟣
+vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.21.54.198:8080?path=%2F&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:2082?security=none&encryption=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://43c06dde-b530-4536-a9d7-ba7bccb6d0dd@www.speedtest.net:80?path=%2Fali&security=none&encryption=none&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.43:2052?security=none&encryption=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.47:5500#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.12:2375#🔥Join+Telegram:@Farah_VPN🟣
+trojan://NISHIKUITAN111@104.20.159.113:443?#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjEwMy4xMzYuNjguOTIiLCAicG9ydCI6ICI1MTI4IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI1OWU1YmYzYi04NjAwLTQzYWUtOTZjNC1jMTNjYjYyYzc1ZjEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.134.48.109:443#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0dUVRd0dPNUdDLTZnTWU0ekZQVlJR@82.115.5.141:1080#🔥Join+Telegram:@Farah_VPN🟣
+trojan://NISHIKUITAN111@172.67.185.81:443?#🔥Join+Telegram:@Farah_VPN🟣
