@@ -194,3 +194,6 @@ vless://96525ea7-51db-4b8b-8459-5b7269e7066a@kafshu.ir:8080?type=ws&path=%2F@Maz
 vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.147.12:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.98.90:8443?mode=auto&path=%2Fxhttp&security=none&encryption=none&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://thbXMEc79h@65.109.209.53:24982/?type=tcp&security=none#🔥Join+Telegram:@Farah_VPN🟣
+trojan://NISHIKUITAN111@104.18.18.138:443?allowInsecure=0#🔥Join+Telegram:@Farah_VPN🟣
+trojan://NISHIKUITAN111@104.20.6.219:443?allowInsecure=0#🔥Join+Telegram:@Farah_VPN🟣
