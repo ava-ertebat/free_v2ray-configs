@@ -183,3 +183,4 @@ ss://YWVzLTI1Ni1nY206ZGU2YTA1YjctNjc3MC00NmI4LTgxYjUtNzA2NzUzOTFkYjZh@vmvmvm123.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2czlJR3NnVTJ5MEJMSE1vYzlnSkZz@62.210.88.22:443#🔥Join+Telegram:@Farah_VPN🟣
 trojan://wPslQ6KBJN@wivip.dtsazino.com:443?security=tls&headerType=none&type=tcp&sni=wivip.dtsazino.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://your_password@188.114.99.0:443?security=tls&type=ws&sni=aws-ge-frankfurt-1.f1cflinea.com&path=/f1rocket&host=aws-ge-frankfurt-1.f1cflinea.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@15.237.223.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
