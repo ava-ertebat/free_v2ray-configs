@@ -201,10 +201,3 @@ trojan://tunnel-astrovpn_official_nl@nl-1.stunnel.cc:8441?path=AstroVPN_Official
 trojan://tunnel-astrovpn_official_tr@tr-1.stunnel.cc:8441?path=AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official&security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=tr-1.stunnel.cc#🔥Join+Telegram:@Farah_VPN🟣
 trojan://wPslQ6KBJN@wivip.dtsazino.com:443?security=tls&headerType=none&type=tcp&sni=wivip.dtsazino.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://your_password@188.114.99.0:443?security=tls&type=ws&sni=aws-ge-frankfurt-1.f1cflinea.com&path=/f1rocket&host=aws-ge-frankfurt-1.f1cflinea.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://NISHIKUITAN111@89.116.180.246:443?allowInsecure=0#🔥Join+Telegram:@Farah_VPN🟣
-trojan://NISHIKUITAN111@104.17.174.232:443?allowInsecure=0#🔥Join+Telegram:@Farah_VPN🟣
-trojan://NISHIKUITAN111@104.17.154.159:443?allowInsecure=0#🔥Join+Telegram:@Farah_VPN🟣
-trojan://NISHIKUITAN111@103.21.244.167:443?allowInsecure=0#🔥Join+Telegram:@Farah_VPN🟣
-trojan://bpb-trojan@185.238.228.210:443?allowInsecure=0&sni=bpb.my79801.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://bpb-trojan@198.202.211.146:443?allowInsecure=0&sni=bpb.my79801.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://NISHIKUITAN111@104.20.243.154:443?allowInsecure=0#🔥Join+Telegram:@Farah_VPN🟣
