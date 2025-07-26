@@ -178,8 +178,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.138:811#🔥Jo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.166:804#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:801#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.166:812#🔥Join+Telegram:@Farah_VPN🟣
-trojan://ctZ66Vttffqq@104.21.80.1:2083?security=tls&sni=yjc.twn24.ir&type=ws&host=yjc.twn24.ir&path=/🆔@M3HDIO1&fp=chrome&alpn=h3,h2,http/1.1#🔥Join+Telegram:@Farah_VPN🟣
-trojan://d3d478b4-54a5-46e5-ab38-be052101df9c@jp4.78b6f218-a566-9905-b660-cd30c9ea0e03.69408ae5.the-best-airport.com:443/?type=tcp&security=tls&sni=new.download.the-best-airport.com&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://d3d478b4-54a5-46e5-ab38-be052101df9c@sg2.78b6f218-a566-9905-b660-cd30c9ea0e03.2c4b5066.the-best-airport.com:443/?type=tcp&security=tls&sni=new.download.the-best-airport.com&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://d6dd83c0-3f0f-11f0-9e9e-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://d9aa8760-4945-11f0-84b7-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&sni=www.speedtest.net#🔥Join+Telegram:@Farah_VPN🟣
@@ -238,3 +236,5 @@ trojan://uV8u9Q41e2@104.16.127.23:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&t
 trojan://uV8u9Q41e2@104.17.180.185:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=/&fp=chrome&alpn=h2#🔥Join+Telegram:@Farah_VPN🟣
 trojan://uV8u9Q41e2@104.18.165.78:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=/&fp=chrome&alpn=h2#🔥Join+Telegram:@Farah_VPN🟣
 trojan://vip@104.16.20.118:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=/?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
+trojan://vip@104.18.12.229:2053?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=/?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
+trojan://vip@104.18.27.94:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=/?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
