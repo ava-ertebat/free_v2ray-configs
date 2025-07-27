@@ -234,7 +234,6 @@ trojan://a8664a30-29cc-11f0-92d4-1239d0255272@fr1.test3.net:443?security=tls&hea
 trojan://ab052d70-48a0-11f0-bea4-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://ab33eed0-4684-11f0-8b81-1239d0255272@usa.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://aba831c0-4213-11f0-a2d6-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://auto@104.21.35.43:443?security=tls&sni=esetsecuritylicense3.wawafec355.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=esetsecuritylicense3.wawafec355.workers.dev&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://auto@104.21.72.108:443?security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://auto@172.67.213.48:443?security=tls&sni=esetsecuritylicense2.wawafec355.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=esetsecuritylicense2.wawafec355.workers.dev&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://auto@172.67.213.48:443?security=tls&sni=esetsecuritylicense2.wawafec355.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=esetsecuritylicense2.wawafec355.workers.dev&path=/Telegram-@V2ray_Alpha/?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
@@ -246,3 +245,4 @@ trojan://bb101390-29cc-11f0-936b-1239d0255272@fr1.test3.net:443?security=tls&hea
 trojan://bce0c7cb-08d1-46a7-b77b-7bff8b46252f@104.21.91.180:443?security=tls&sni=XXXXxxXxXc.666461.xyZ&type=ws&path=/x9F83IcyjcEyBXZBROjL3Q5vTymr&host=xxxxxxxxxc.666461.xyz#🔥Join+Telegram:@Farah_VPN🟣
 trojan://blue2024@104.19.214.179:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=/?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
 trojan://bpb-trojan@104.26.4.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=/tr?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
+trojan://bpb-trojan@86.38.214.132:443?sni=bpb.my79801.com#🔥Join+Telegram:@Farah_VPN🟣
