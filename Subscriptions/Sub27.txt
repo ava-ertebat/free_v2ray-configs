@@ -181,6 +181,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.144.56:443#🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQb2hYQVJ5OE1WSWtzd21qMDE0Szdx@154.205.147.68:8443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQdDFXcXdQeGI3elVHOVRuczJjWFBk@2.56.205.57:8443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmUnZJZzhJcmJvNmZmSlJGbWRYaUVy@37.235.50.119:8443#🔥Join+Telegram:@Farah_VPN🟣
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?sni=rc6.freeguard.org&type=tcp&security=tls&headerType=#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-directvpn@18.157.93.118:22223?sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&security=tls&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-directvpn@18.159.77.32:22223?sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&security=tls&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
