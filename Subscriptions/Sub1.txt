@@ -29,3 +29,9 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.165.71.144:2222?security=none&ty
 vless://3cbc61fa-0dd9-40a8-b80f-fb3aea91ca85@151.101.3.8:80?security=none&type=ws&host=External_Net.org&path=%3F%3D9090#🔥Join+Telegram:@Farah_VPN🟣
 vless://7455e612-b2b3-4092-af2f-679e039c64d8@109.207.171.107:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.146.19:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://85f00847-6c0b-41a3-882d-9bbee4ca453d@104.17.147.22:8080?path=%2F%40HqV2rayNG%3Fed%3D2048&security=none&encryption=none&host=s2p2e45.speedtest.web.s2pp.ir.&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880?path=%2F34COh9NCiin5SJMk%3Fed%3D2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@172.67.73.216:80?path=%2F&security=none&encryption=none&host=www.zula.ir.zula.ir.zula.ir.a2hdhjdxjbxjsjdjd.ddns-ip.nEt.&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=random&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#🔥Join+Telegram:@Farah_VPN🟣
+vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
