@@ -155,3 +155,14 @@ vless://7f09e7b4-4680-4653-a2da-307d110b6961@famous-experience.seotoolsforyou.co
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FTel-%40V2ray_Alpha&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#🔥Join+Telegram:@Farah_VPN🟣
 vmess://eyJhZGQiOiAidG1jaS5mYXJkaXNqb2JzLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ0ZWxld2ViaW9uLmNvbSIsICJpZCI6ICJhZjlhNDk3My02YzE2LTRlYzAtOTQxZC1kYTFhYmVlZjkzNDEiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIzNTkwNCIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
+trojan://blue2024@104.16.84.42:443?type=ws&sni=ha.lii2010.us.kg&host=ha.lii2010.us.kg#🔥Join+Telegram:@Farah_VPN🟣
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.37.227.73:2222?security=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://a87cea64-42d8-46c3-b617-e02ec175fe98@185.251.82.170:2096?path=%2F%3Fed%3D2096&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=arm1.dollardoon.com&fp=chrome&type=ws&sni=arm1.dollardoon.com#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIxMDQuMjYuMC4xMDgiLCAicG9ydCI6ICIyMDg2IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI3ZDkyZmZjOS0wMmUxLTQwODctOGE0Ni1jYzRkNzY1NjA5MTciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAiaG9zdCI6ICJlNS44MDgwNzUueHl6IiwgInRscyI6ICIifQ==
+vless://1ec9237a-2055-41a1-9251-13f89087958d@104.16.157.108:8080?path=%2F%40MaSTeRSeRVeR1-%40-MaSTeRSeRVeR1%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1%3Fed%3D2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🔥Join+Telegram:@Farah_VPN🟣
+trojan://bpb-trojan@86.38.214.132:443?security=tls&sni=bpb.my79801.com&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://NuL1nBAAaM@172.67.161.74:443?security=tls&sni=support.sabapardaziran.ir&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://juzi@18.184.27.249:443?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://bpb-trojan@185.193.29.193:443?security=tls&sni=bpb.my79801.com&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://azadnet-trojan@104.21.36.165:443?security=tls&sni=XN----PmCnaaC0dKn0Rb71NdA.PagES.DeV&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.20:443?security=tls&sni=trus.moonfree.top&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
