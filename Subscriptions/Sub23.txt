@@ -258,11 +258,6 @@ trojan://e979c5a0-3f0f-11f0-93ab-1239d0255272@fr1.test3.net:443?security=tls&hea
 trojan://eaf7e1e0-4683-11f0-bfef-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#🔥Join+Telegram:@Farah_VPN🟣
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Tel---@HiByeVPNN&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#🔥Join+Telegram:@Farah_VPN🟣
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&fp=chrome&type=ws&host=vpn.stupidworld.web.id&path=/Tel---@HiByeVPNN#🔥Join+Telegram:@Farah_VPN🟣
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&fp=chrome&type=ws&host=vpn.stupidworld.web.id&path=/Tel-@Confingam#🔥Join+Telegram:@Farah_VPN🟣
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&fp=chrome&type=ws&host=vpn.stupidworld.web.id&path=/Tel-@V2ray_Alpha#🔥Join+Telegram:@Farah_VPN🟣
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&fp=chrome&type=ws&host=vpn.stupidworld.web.id&path=/Tel-V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS#🔥Join+Telegram:@Farah_VPN🟣
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&type=ws&host=vpn.stupidworld.web.id&path=/Stupid-World/103.106.228.126-2053#🔥Join+Telegram:@Farah_VPN🟣
 trojan://f2ab1dd0-3f0f-11f0-a0bc-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://fbd3aa90-3f0f-11f0-b8ff-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://fd17fd03-844b-4c4b-9551-27f2b055d4f8@51.158.243.62:443?security=reality&encryption=none&pbk=1gKloUYtea1EJfBcatiTkmJVdCbb6SfVrnL6Lz-RYj0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=42#🔥Join+Telegram:@Farah_VPN🟣
@@ -270,3 +265,8 @@ trojan://fed92b60-489d-11f0-8257-1239d0255272@fr1.test3.net:443?security=tls&hea
 trojan://installshield@38.180.249.177:8443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://pBS63OYXOw3ATcOX5Cz0FEx4lS8CDCYZIBl3C3wzepKYa3SaSq9payCDRynqZxlKSea2A@154.17.16.149:443?security=tls&headerType=none&type=tcp&sni=ground.wireshop.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@15.236.28.202:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@3.124.230.127:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@3.77.162.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@3.77.162.60:22223?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@35.157.21.93:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@15.236.28.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
