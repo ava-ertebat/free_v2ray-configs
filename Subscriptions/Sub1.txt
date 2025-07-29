@@ -86,3 +86,5 @@ vless://4bcab95b-896f-4d27-b3f0-0f182657fb81@greensignal.metishop.top:2052?type=
 vless://18aeed6c-33c2-4be2-880e-a03c55daec37@client.kvm.iranpaydar.com:49810?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://52a297e5-cd3f-4173-aa8b-9013be44502d@46.249.101.145:8080?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://e39cbc40-fba8-4a29-930f-0c17f64a31e6@46.249.101.145:8080?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#🔥Join+Telegram:@Farah_VPN🟣
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.98.90:8443?mode=auto&path=%2Fxhttp&security=none&encryption=none&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
