@@ -92,3 +92,12 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?security
 trojan://er668@kfjdi.pages.dev:443?encryption=none&security=tls&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@52.59.70.243:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 vless://16f4a1c4-905e-4816-b825-443ec775bbc4@tunnel.aghamehdi52.ir:2000?security=none&encryption=none&host=sheypoor.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://bpb-trojan@141.11.202.133:443?allowInsecure=1&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=/tr#🔥Join+Telegram:@Farah_VPN🟣
+vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@dl.dornagamesco.ir:80?mode=auto&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=e.flyw.ir&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJhZGQiOiAiMTA0LjI0LjUzLjIwMCIsICJhaWQiOiAwLCAiaG9zdCI6ICJmLnlsa3MueHl6IiwgImlkIjogImFmNmVlZGY1LWYyYjQtNDQ3Zi04YjkzLTVmY2EzM2FmMDZmOCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.113:8119#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3389#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJhZGQiOiAiMTYyLjE1OS4xMzYuNjAiLCAiYWlkIjogMCwgImhvc3QiOiAiZi55bGtzLnh5eiIsICJpZCI6ICJhZjZlZWRmNS1mMmI0LTQ0N2YtOGI5My01ZmNhMzNhZjA2ZjgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.69:8009#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJhZGQiOiAiMTcyLjY3Ljg2LjgxIiwgImFpZCI6IDAsICJob3N0IjogImYueWxrcy54eXoiLCAiaWQiOiAiYWY2ZWVkZjUtZjJiNC00NDdmLThiOTMtNWZjYTMzYWYwNmY4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0MywgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#🔥Join+Telegram:@Farah_VPN🟣
