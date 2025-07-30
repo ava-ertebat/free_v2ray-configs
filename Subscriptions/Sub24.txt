@@ -214,3 +214,5 @@ trojan://tunnel-astrovpn_pt@pt-1.stunnel.cc:8441?path=AstroVPN_Official-AstroVPN
 trojan://vip@www.pcmag.com:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://vpn@91.108.241.73:2025?security=none&type=ws&host=vkvd127.mycdn.me&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://wPslQ6KBJN@wivip.dtsazino.com:443?security=tls&headerType=none&type=tcp&sni=wivip.dtsazino.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://NISHIKUITAN111@154.92.9.71:443?allowInsecure=0#🔥Join+Telegram:@Farah_VPN🟣
+trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.208:2053?security=tls&type=ws&sni=bPB-V.pageS.dEV&path=/Telegram@V2ray_Alpha/?ed=2560&host=Bpb-v.PAges.deV#🔥Join+Telegram:@Farah_VPN🟣
