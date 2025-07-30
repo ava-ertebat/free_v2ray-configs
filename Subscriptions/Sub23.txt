@@ -202,6 +202,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAzQDE4MS4xMTkuMzAuMjA6OTk
 ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTUAyMTcuMzAuMTAuMTg6OTAxOQ==#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206Tml6bkx2b0l1eUAyMjAuMTI0LjMxLjEzMDoxOTM3OA==#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTZAMTAzLjE0OS4xODMuNjE6ODM4OA==#🔥Join+Telegram:@Farah_VPN🟣
+trojan://7c95b300-4213-11f0-8e4e-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://7cf2d310-489f-11f0-8746-1239d0255272@usa.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://80e11690-29cc-11f0-bfc7-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://860deb50-4945-11f0-97d9-1239d0255272@sg2.6n6.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
@@ -256,6 +257,7 @@ trojan://e979c5a0-3f0f-11f0-93ab-1239d0255272@fr1.test3.net:443?security=tls&hea
 trojan://eaf7e1e0-4683-11f0-bfef-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#🔥Join+Telegram:@Farah_VPN🟣
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Tel---@HiByeVPNN&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#🔥Join+Telegram:@Farah_VPN🟣
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&fp=chrome&type=ws&host=vpn.stupidworld.web.id&path=/Tel-@V2ray_Alpha#🔥Join+Telegram:@Farah_VPN🟣
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?security=tls&sni=aio.zipzap.biz.id&type=ws&host=aio.zipzap.biz.id&path=/aioproxybot/129.150.49.58-18650#🔥Join+Telegram:@Farah_VPN🟣
 trojan://f2ab1dd0-3f0f-11f0-a0bc-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://fbd3aa90-3f0f-11f0-b8ff-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
@@ -268,5 +270,3 @@ trojan://telegram-id-directvpn@3.77.162.60:22223?security=tls&alpn=http/1.1&head
 trojan://telegram-id-privatevpns@3.121.254.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@3.68.1.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@3.77.162.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-privatevpns@63.176.186.43:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
-trojan://tunnel-astro@pl-1.stunnel.cc:8441?path=AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official&security=tls&alpn=http/1.1&host=pl-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
