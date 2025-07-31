@@ -234,7 +234,7 @@ trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.195.111:1582?allowInsecure=1&sn
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@165.22.3.117:443?allowInsecure=1&sni=www.baidu.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3aIMXgxQ3F@x1-germany-linode-v2-jk001.devefun.org:1935?allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://1CvlKYj1aU@x1-sweden-linode-v2-71u92.devefun.org:1935?allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
-trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?sni=xXcdvFgt.191268.XYz&type=ws&host=xXcdvFgt.191268.XYz&path=%2FctdmgeIg3NII3ibrzzKXJGy3S1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?allowInsecure=0&sni=xXcdvFgt.191268.XYz&type=ws&host=xXcdvFgt.191268.XYz&path=/ctdmgeIg3NII3ibrzzKXJGy3S1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@92.243.74.180:8443?allowInsecure=0&sni=tyep.esslh.filegear-sg.me&type=ws&host=tyep.esslh.filegear-sg.me&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://008a7900-34de-11f0-9f02-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://07301100-4684-11f0-9ffa-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
