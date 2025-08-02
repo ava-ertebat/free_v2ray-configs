@@ -29,3 +29,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=&encrypt
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.179:443#🔥Join+Telegram:@Farah_VPN🟣
 vless://9b6619f7-269d-4ac7-bd9a-3a3e42aface3@holanx.blacklike.ir:9008?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=skyroom.online#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bmux%3D4%3Bhost%3Dnewroot2v1.dsjsapp.com%3Bpath%3D%2Fcauejypbltqt%3Bmux%3Dmux%3D4%3B%3B#🔥Join+Telegram:@Farah_VPN🟣
+vless://82488ab1-59e0-42fb-959e-ec90ec2f3165@167.172.186.211:443?path=%2Fws&security=tls&encryption=none&host=167.172.186.211&fp=chrome&type=ws&sni=zula.ir#🔥Join+Telegram:@Farah_VPN🟣
+vless://ec4d22cf-176f-41fa-ad21-eb53501104e9@46.249.101.145:8080?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
+vless://585aa12b-b7b6-4944-9628-f4b01350bfc0@185.120.59.70:2087?path=%2Fvless&security=tls&encryption=none&host=185.120.59.70&fp=chrome&type=ws&sni=zula.ir#🔥Join+Telegram:@Farah_VPN🟣
