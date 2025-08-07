@@ -115,6 +115,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172?note=Telegram---@NetifyVPN---#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@20.91.252.21:48172#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#🔥Join+Telegram:@Farah_VPN🟣
+trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@us2.vpn.ong:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://39b9e540-4684-11f0-b86f-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://3a792860-34de-11f0-a992-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://3aIMXgxQ3F@x1-germany-linode-v2-jk001.devefun.org:1935?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://3d558620-48a3-11f0-a79b-1239d0255272@sg3.6n6.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://40bb32c0-3f10-11f0-8c33-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://432f85e0-4684-11f0-b5ac-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://4796ddd0-489f-11f0-a6bf-1239d0255272@usa.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
@@ -148,9 +154,3 @@ trojan://7fec5d9d-4a06-377f-9fc3-6c1fef6a7f4b@111.47.212.170:63985/?type=tcp&sec
 trojan://860deb50-4945-11f0-97d9-1239d0255272@sg2.6n6.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://86816650-4213-11f0-ba1d-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://8e2a3980-4684-11f0-b76c-1239d0255272@usa.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://8f97e6b0-4213-11f0-a9b4-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://970ec930-48a2-11f0-a318-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://98a3b810-4213-11f0-8131-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://9c3c38d0-8637-4c94-a790-61f3202a943a@f10011.flyflylflyflysbs.sbs:10187/?type=tcp&security=tls&sni=hk04.ckcloud.info&allowInsecure=1&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
-trojan://9c3c38d0-8637-4c94-a790-61f3202a943a@f10011.flyflylflyflysbs.sbs:19013/?type=tcp&security=tls&sni=sg02.ckcloud.info&allowInsecure=1&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
-trojan://9c3c38d0-8637-4c94-a790-61f3202a943a@f10011.flyflylflyflysbs.sbs:19949/?type=tcp&security=tls&sni=tw01.ckcloud.info&allowInsecure=1&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
