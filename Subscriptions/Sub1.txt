@@ -154,3 +154,14 @@ trojan://trojan@104.26.12.31:8443?encryption=none&security=tls&sni=fofang.pages.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZ0JCOGY4RzJCRUVTM2g0STNpRFJR@91.134.11.136:100?note=Telegram---@NetifyVPN---#🔥Join+Telegram:@Farah_VPN🟣
 vmess://eyJhZGQiOiAiNTEuMzguNjQuMjA5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI3ZGE0NTdkYS1lZDBmLTQzN2QtYzgxZC02YzM1ODg1YmJlYTMiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0MDIzIiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 trojan://NISHIKUITAN111@173.245.49.59:443?allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+vless://bacabac-acab-acba-cadb-ccaabcacbbab@127.0.0.1:8080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjE2OC4xMDAuNi40NiIsICJwb3J0IjogIjIwODIiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAiaG9zdCI6ICJpcDE4LjY5MjkxOTgueHl6IiwgInRscyI6ICIifQ==
+vless://49a2c7ca-002e-484c-fe76-bed8122007b1@152.42.163.217:443?security=tls&sni=aka.ms&type=ws&path=%2F#🔥Join+Telegram:@Farah_VPN🟣
+trojan://NISHIKUITAN111@31.22.116.151:443?allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjk0LjI0Mi4yMzEuMTg4IiwgInBvcnQiOiAiMjA4MiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9naXRodWIuY29tL0FsdmluOTk5OSIsICJob3N0IjogImlwMTguNjkyOTE5OC54eXoiLCAidGxzIjogIiJ9
+trojan://NISHIKUITAN111@104.18.31.159:443?allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://NISHIKUITAN111@104.20.8.252:443?allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTEyOC1nY206MTAwODY%3D@153.121.43.183:10087#🔥Join+Telegram:@Farah_VPN🟣
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.202.104.250:2222?security=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://blue2024@104.16.93.142:443?allowInsecure=1&sni=td.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
