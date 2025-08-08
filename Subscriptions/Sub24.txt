@@ -103,7 +103,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdXpuR1l4eUpGNU95T3ZCUldYNTJn@91.99.173.67:9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdXpuR1l4eUpGNU95T3ZCUldYNTJn@91.99.173.67:9007?type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@185.245.107.61:2222#🔥Join+Telegram:@Farah_VPN🟣
-trojan://auto@[2a06:98c1:3121::3]:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev&alpn=h3&fp=randomized&type=ws&host=dcf741e8.epeius-2gy.pages.dev&path=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
 trojan://8r%3C%5B9%27l6hAO%238ZQi@koma-yt.pages.dev:8443?security=tls&sni=Koma-YT.PAGeS.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=koma-yt.pages.dev&path=%2Ftro8sFW1S91B6sZrM1%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@3.123.67.61:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&allowInsecure=1&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
