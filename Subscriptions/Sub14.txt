@@ -79,6 +79,7 @@ vless://583ceab3-4022-4553-9158-9bedc625ad4e@45.131.6.177:8880?allowInsecure=0&s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTU4NmFhYi0zYTM3LTRmNTUtYjhiNy01YWU2OTU3MmQ0MDM=@94.182.106.140:1935#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708?type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRWQyUlVXTEhiUTB4Y1JDVjZvcENT@89.185.84.185:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTFUzNE1zSkRtWkJWNm9COXM1VmJpdU5WZVlEcWpNZjNSUlV2Z205ZGRvRDJpWlQ4TnVTRU5UVWd2dmNxRnM3MW9OenVtSjhXYUpqNkRSYUpucFJ5NlhUcnRlMmNXWDM=@host.phonygilson.icu:49072#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyU2ZVNDU2UTk3QkFuMlZnZTNaR3Q4QVlOV01FOEJlZWs4bUFUSmpmenFuZXBhcHlGdWJFRXl6OE1IUmVLeFNkVEoyc2pqd2p0UXVzMlBXU0Jjb0R5OFZrVHNUUWExMWI=@host.phonygilson.icu:49072#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@216.250.97.118:443#🔥Join+Telegram:@Farah_VPN🟣
@@ -114,7 +115,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfY2E=@ca-1.s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfYWU=@ae-1.stunnel.cc:8444#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfZ2I=@gb-1.stunnel.cc:8444#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfZGU@de-1.stunnel.cc:8444#🔥Join+Telegram:@Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfZWU=@ee-1.stunnel.cc:8444#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@67.226.221.102:80?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@lynn.ns.cloudflare.com:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@172.64.35.66:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
