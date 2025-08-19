@@ -127,6 +127,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#🔥Jo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnOUFKc3JCUGdXNE5oam95M3hDaW9D@45.87.175.164:8080#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443?note=--Telegram--@NetifyVPN--#🔥Join+Telegram:@Farah_VPN🟣
+trojan://blue2024@104.17.50.31:443?allowInsecure=1&sni=ha.lii2010.us.kg&ws=1&wspath=/?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
 trojan://blue2024@104.17.50.31:443?sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg#🔥Join+Telegram:@Farah_VPN🟣
 trojan://blue2024@104.17.52.12:443?allowInsecure=0&sni=ha.lii2010.us.kg&ws=1&wspath=/?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
 trojan://blue2024@104.17.90.26:443?allowInsecure=0&sni=ha.lii2010.us.kg&ws=1&wspath=/?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
@@ -169,4 +170,3 @@ trojan://c2c694f0-4213-11f0-8c78-1239d0255272@uk1.test3.net:443?security=tls&hea
 trojan://c623a730-48a2-11f0-b6c7-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://cd7fa4a0-4684-11f0-a8d1-1239d0255272@usa.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://cdb2a960-3f0f-11f0-83ae-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://cf6c3e40-4213-11f0-bc31-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
