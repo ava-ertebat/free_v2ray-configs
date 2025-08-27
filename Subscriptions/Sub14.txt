@@ -132,7 +132,6 @@ trojan://Kq0Pbl6wOh@79.137.195.203:80?path=/TELEGRAM_JKVPN-JKVPN-JKVPN-JKVPN-JKV
 trojan://LG7HKcZFIJ@45.155.54.117:110?security=tls&headerType=none&type=tcp&sni=sws.ftpcomand.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://NISHIKUITAN111@104.16.121.21:443?allowInsecure=0&ws=1&wspath=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://NISHIKUITAN111@104.17.157.109:443?allowInsecure=0&ws=1&wspath=/#🔥Join+Telegram:@Farah_VPN🟣
-trojan://NISHIKUITAN111@88.216.66.169:443?allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI?ed=1520#🔥Join+Telegram:@Farah_VPN🟣
@@ -142,3 +141,4 @@ trojan://TEL_JKVPN@www.zula.ir:80?path=/TELEGRAM_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-J
 trojan://WOeXShhJpL@104.18.71.140:443?allowInsecure=0&sni=09jzus.zdzdzd.xyz&ws=1&wspath=/juzigongyi#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Xa4^l(;.;B#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Z2P0nBrc5d-54JXKPLQcGg@www.speedtest.net:2087?type=ws&host=jfkgfuiodghlf.ahmadinabaz.ir&path=/speedtest&security=tls&fp=chrome&sni=jfkgfuiodghlf.ahmadinabaz.ir&alpn=h2,http/1.1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://a134e3de-b25a-4020-9998-05fa6b715f1a@csgo.com:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#🔥Join+Telegram:@Farah_VPN🟣
