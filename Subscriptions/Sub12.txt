@@ -119,6 +119,7 @@ trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@141.101.120.10:443?sni=ssp2.100896
 trojan://4bf21530-4684-11f0-ad62-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://4e7d3390-4213-11f0-b56b-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://56d167a0-4213-11f0-af38-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://572e7789-76af-51c8-928b-e327d862f16c@190.93.247.152:80?security=none&type=ws&path=/vless&host=Uk1.vless.site.#🔥Join+Telegram:@Farah_VPN🟣
 trojan://573bf780-4684-11f0-bda5-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://5a5d1112-4ae7-431f-bdde-0d008fb473dd@172.67.207.27:443?path=/685uFbiRrgAsHzTP8d&security=tls&alpn=http/1.1&host=90.taipei108.dpdns.org&fp=chrome&type=ws&sni=90.tAIpEI108.dpDnS.orG#🔥Join+Telegram:@Farah_VPN🟣
 trojan://5d59a6f0-48a1-11f0-94a7-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
@@ -141,4 +142,3 @@ trojan://62e4250a-fe02-40cc-ad32-c847389956cd@pubg.ac:8443?sni=cdn-node-oss-99.p
 trojan://6417fbb0-489f-11f0-bb34-1239d0255272@usa.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://68dc5a90-4213-11f0-b30d-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://6927305290f4e972cdd3575433bbc5f1@36.151.251.24:32765/?type=tcp&security=tls&sni=www.baidu.com&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
