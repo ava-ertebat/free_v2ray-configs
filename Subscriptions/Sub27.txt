@@ -32,8 +32,6 @@ vmess://eyJhZGQiOiAiMTcyLjY3LjE5OC4xODciLCAiYWlkIjogMCwgImhvc3QiOiAieG1pdmlkZW8u
 vmess://eyJhZGQiOiAiMTcyLjY3LjEzMS4yNyIsICJhaWQiOiAwLCAiaG9zdCI6ICJyYWsyZDQuODkwNjAwMDQueHl6IiwgImlkIjogIjM1MGUyYjAxLWQ0MTAtNDRhNi05MGJhLTY0ODNmMTA2Mjk3MiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAyMDUzLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogInJhazJkNC44OTA2MDAwNC54eXoiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8ifQ==
 vmess://eyJhZGQiOiAiMTUxLjEwMS4zLjgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibWFyZy56YWhhay5pciIsICJpZCI6ICJmcmVld2lyZWd1YXJkLW1hcmctYmFyLXphaGFrIiwgIm5ldCI6ICJ4aHR0cCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJ2IjogIjIifQ==
 vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTguMTQ3IiwgImFpZCI6IDAsICJob3N0IjogImlubmEuY2ZkIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8ifQ==
-vless://0ee3d06e-a584-4fd4-bada-1b8fa049df77@us.snappus.nikastoring.ir:50325?security=none&type=tcp&headerType=http&path=/&host=anten.ir#🔥Join+Telegram:@Farah_VPN🟣
-vless://0eed5550-98ca-4d46-8f88-f4194a441e2f@vip13.v1pdomainsldz.ir:15247?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.32.1:443?path=/Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=fqjedaza7b2vofj9ihemx319rmo41l7b.pages.dev&fp=chrome&type=ws&sni=FqJEDazA7b2VofJ9iHeMX319rmO41l7b.paGEs.DeV#🔥Join+Telegram:@Farah_VPN🟣
 vless://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.32.1:443?path=/Join---planB_proxy---BIA---planB_proxy---BIA---planB_proxy---BIA---planB_proxy=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=fqjedaza7b2vofj9ihemx319rmo41l7b.pages.dev&fp=chrome&type=ws&sni=FqJEDazA7b2VofJ9iHeMX319rmO41l7b.paGEs.DeV#🔥Join+Telegram:@Farah_VPN🟣
 vless://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.32.1:443?path=/vpghRaDdORhcsIFV/MzUuMTU3LjI0MC4yMzcsMTguMTk4LjIyNy4xNjE=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=fqjedaza7b2vofj9ihemx319rmo41l7b.pages.dev&fp=chrome&type=ws&sni=FqJEDazA7b2VofJ9iHeMX319rmO41l7b.paGEs.DeV#🔥Join+Telegram:@Farah_VPN🟣
@@ -66,6 +64,8 @@ vless://0f8bef13-2c43-4940-bbbc-90c37abd7302@rep.usa.spouver.ir:2689?mode=gun&se
 vless://0f8c0fbf-ad24-42ea-b226-8b3e60f4df1b@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.66.146.26:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048/?TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#🔥Join+Telegram:@Farah_VPN🟣
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?encryption=none&security=tls&sni=privasi.turah.my.id&fp=chrome&type=ws&host=privasi.turah.my.id&path=/Free-CF-Proxy-AD192.3.113.4-19318?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY------VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY------VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---#🔥Join+Telegram:@Farah_VPN🟣
+vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?encryption=none&security=tls&sni=privasi.turah.my.id&fp=chrome&type=ws&host=privasi.turah.my.id&path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048@Hddify---@Hddify---@Hddify---@Hddify#🔥Join+Telegram:@Farah_VPN🟣
+vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?encryption=none&security=tls&sni=privasi.turah.my.id&fp=chrome&type=ws&host=privasi.turah.my.id&path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048@WedBaZ#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.166.88.198:5003#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.143.66.87:5003#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@162.251.63.124:8881#🔥Join+Telegram:@Farah_VPN🟣
@@ -100,12 +100,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVGpsTHhybmNLeDRpMkhJanhmQTNN@51.142.171.150
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwaXY5N1hTMUN2YWw4NnZmd0hQRDVq@194.87.216.121:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9O@45.145.42.70:25366#🔥Join+Telegram:@Farah_VPN🟣
-trojan://xxoo@138.197.5.103:443?encryption=none&amp;security=tls&amp;sni=telewebion.com&amp;fp=chrome&amp;type=raw&amp;headertype=none#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-privatevpns@51.44.110.242:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
-trojan://NISHIKUITAN222@104.25.154.54:443?#🔥Join+Telegram:@Farah_VPN🟣
-trojan://d6b6ea41-0950-4611-8246-224583e4ed1e@151.101.194.228:443?security=tls&type=ws&sni=pscresearch.faculty.ucdavis.edu&path=ws/?ed=2048&host=uhc6rhiubu.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?security=tls&type=ws&sni=sherasheba.com&path=/6b777a91&host=sherasheba.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://NISHIKUITAN111@172.67.254.32:443?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://blue2024@104.27.65.15:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#🔥Join+Telegram:@Farah_VPN🟣
 trojan://NISHIKUITAN111@204.93.210.216:443?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@18.168.239.61:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
@@ -134,3 +128,9 @@ trojan://blue2024@104.26.6.89:443?sni=hb.lii2010.us.kg#🔥Join+Telegram:@Farah_
 trojan://blue2024@190.93.245.154:443?sni=hb.lii2010.us.kg#🔥Join+Telegram:@Farah_VPN🟣
 trojan://NISHIKUITAN111@104.20.243.154:443?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://blue2024@104.16.81.105:443?sni=hb.lii2010.us.kg#🔥Join+Telegram:@Farah_VPN🟣
+trojan://auto@[2a06:98c1:3121::3]:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev&alpn=h3&fp=randomized&type=ws&host=dcf741e8.epeius-2gy.pages.dev&path=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
+trojan://8r%3C%5B9%27l6hAO%238ZQi@koma-yt.pages.dev:8443?security=tls&sni=Koma-YT.PAGeS.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=koma-yt.pages.dev&path=%2Ftro8sFW1S91B6sZrM1%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
+trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?security=tls&sni=aio.zipzap.biz.id&type=ws&host=aio.zipzap.biz.id&path=%2Faioproxybot%2F129.150.49.58-18650#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@3.123.67.61:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&allowInsecure=1&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+trojan://9yu6m5okr@172.67.198.177:443?security=tls&type=ws&sni=production.tj.ojan.workers.dev&host=production.tj.ojan.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
