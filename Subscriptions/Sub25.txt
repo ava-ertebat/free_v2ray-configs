@@ -132,3 +132,10 @@ trojan://NISHIKUITAN111@104.19.166.187:443?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://NISHIKUITAN111@167.68.11.173:443?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://NISHIKUITAN111@104.27.44.212:443?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://NISHIKUITAN111@104.18.18.138:443?#🔥Join+Telegram:@Farah_VPN🟣
+trojan://3c4e10af98c30972@23.247.137.64:443?type=grpc&mode=gun&serviceName=db&security=tls&fp=chrome&sni=n2.gladns.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@210.203.60.189:443?type=tcp&security=tls&fp=chrome&sni=45.32.28.232#🔥Join+Telegram:@Farah_VPN🟣
+trojan://7778e684-f435-4166-bf9e-0256cb28bf10@download2hkt.windowsupdate.lol:443?type=tcp&security=tls&fp=chrome&sni=download2hkt.windowsupdate.lol#🔥Join+Telegram:@Farah_VPN🟣
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?type=tcp&security=tls&fp=chrome&sni=207.148.100.75#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@35.167.93.200:443?type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://af4d2493-9156-4514-9f6b-ee5d1a1e4713@15.197.162.184:443?type=tcp&security=tls&fp=chrome&sni=download2hkt.windowsupdate.lol#🔥Join+Telegram:@Farah_VPN🟣
+trojan://your_password@aws-uae-1.f1cflineb.com:443?type=ws&host=aws-uae-1.f1cflineb.com&path=/f1rocket&security=tls&fp=chrome&sni=aws-uae-1.f1cflineb.com#🔥Join+Telegram:@Farah_VPN🟣
