@@ -133,6 +133,7 @@ trojan://1CvlKYj1aU@x1-sweden-linode-v2-71u92.devefun.org:1935?security=tls&head
 trojan://1ce1df7962f71c6f@51.195.255.103:8443?security=tls&headerType=none&type=tcp&sni=uk-03.allhubb.info#🔥Join+Telegram:@Farah_VPN🟣
 trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&sni=hezijiasuqi.com&allowInsecure=1&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://2543a880-48a1-11f0-8578-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@104.17.148.22:80?security=none&type=httpupgrade&path=/&host=1i5.diginoshops10.ir#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3123deb0-4684-11f0-8fc7-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://34876650-48a2-11f0-8fd6-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3690911436885991424@52.221.9.240:443?security=tls&type=tcp&sni=master-boxer.pig299.lat#🔥Join+Telegram:@Farah_VPN🟣
@@ -149,4 +150,3 @@ trojan://4796ddd0-489f-11f0-a6bf-1239d0255272@usa.test3.net:443?security=tls&hea
 trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@104.22.5.205:443?allowInsecure=1&sni=ssp2.100896.xyz#🔥Join+Telegram:@Farah_VPN🟣
 trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@108.162.198.165:443?sni=ssp1.100896.xyz&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@188.114.97.58:443?allowInsecure=1&sni=ssp1.100896.xyz#🔥Join+Telegram:@Farah_VPN🟣
-trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@ssp1.100896.xyz:443?allowInsecure=1&sni=ssp1.100896.xyz#🔥Join+Telegram:@Farah_VPN🟣
