@@ -58,7 +58,6 @@ vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443?path=%2F%3Fed%3D2
 vless://a9c9c197-c626-4667-f219-1575f26715ac@tgju.org:80?encryption=none&security=none&type=ws&host=fin.channel.digicyber.click&path=%2Folem%2Fws%3Fed%3D1024#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#🔥Join+Telegram:@Farah_VPN🟣
-ss://0d836bdb-adbc-4863-8c56-dc662e7f6919@104.18.93.27:443?path=/?ed=2048&security=tls&encryption=none&host=mahdiv2.pages.dev&fp=chrome&type=ws&sni=mahdiv2.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
 ss://201049a5-69b2-4444-9c75-dcf674b7e8bd@136.244.76.124:8787?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🔥Join+Telegram:@Farah_VPN🟣
 ss://2928d83a-ca75-4d52-b437-fa78c7601378@104.22.73.111:443?path=/freedom-1rj.pages.dev/?ed=2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&type=ws&sni=freedom-1rj.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
 ss://4f073a8d-28e0-4dc3-94e8-57bb333cbe91@ayna.com:443?path=/VLESS/fr-freevmess.privateip.net&security=tls&alpn=http/1.1&encryption=none&host=yelan.thelastronin.cloudns.org&fp=chrome&type=ws&sni=yelt88rxdan.thelastronin.cloudns.org#🔥Join+Telegram:@Farah_VPN🟣
@@ -85,6 +84,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@de15.giamping.com:8080#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@fr09.giamping.com:8080#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@ie01.giamping.com:8080#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@us32.giamping.com:8080#🔥Join+Telegram:@Farah_VPN🟣
 trojan://slch2024@185.16.110.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#🔥Join+Telegram:@Farah_VPN🟣
 trojan://slch2024@192.0.63.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#🔥Join+Telegram:@Farah_VPN🟣
 trojan://slch2024@185.156.19.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#🔥Join+Telegram:@Farah_VPN🟣
