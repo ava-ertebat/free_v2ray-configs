@@ -58,6 +58,7 @@ vless://0855af4e-ec2c-4382-ac60-c54f9db3e04a@45.82.161.120:42671?security=none&e
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://0878df61-09ac-4c68-af57-db1523e9fd3b@46.31.76.33:868?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqaWZ1UjJOVE0wWXQ=@62.133.62.109:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXJQSVJYekVxbXhwbWpBeE9nY2VZ@45.150.32.13:14628#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprSnI1Q1BoajNYcm84a3kwbUhnRUJi@91.201.65.82:8443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprSnI1Q1BoajNYcm84a3kwbUhnRUJi@91.201.65.82:8443?note=--Telegram--@NetifyVPN--#🔥Join+Telegram:@Farah_VPN🟣
@@ -87,7 +88,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvS2d3cW1uWXdEc1g=@77.83.245.192:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvS2d3cW1uWXdEc1g=@77.83.245.192:443?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.85.73:1866#🔥Join+Telegram:@Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#🔥Join+Telegram:@Farah_VPN🟣
 trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.20.5.134:2083?security=tls&amp;type=ws&amp;sni=vfarid.xcdi.wOrKERS.DEV&amp;host=vfarid.xcdi.wOrKERS.DEV#🔥Join+Telegram:@Farah_VPN🟣
 trojan://1ce1df7962f71c6f@51.195.255.103:8443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=uk-03.allhubb.info#🔥Join+Telegram:@Farah_VPN🟣
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?type=tcp&amp;security=tls&amp;fp=chrome&amp;sni=207.148.100.75#🔥Join+Telegram:@Farah_VPN🟣
