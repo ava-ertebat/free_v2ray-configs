@@ -94,6 +94,7 @@ ss://YWVzLTI1Ni1nY206WUhLODJUUjczMTE0Vk45Tw==@154.196.244.26:16016#🔥Join+Tele
 ss://YWVzLTI1Ni1nY206YTdmMDgyYzEtMGQxMi00NjA5LWI2YmYtZTc2MGI2NjhjZjIz@77.110.110.240:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206YWQ3ZjkyZmQtYmZiYS00ZmIyLTgzMmUtOGJmYTYyYzYxYjQ2@51.195.101.222:8443#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206YWQ3ZjkyZmQtYmZiYS00ZmIyLTgzMmUtOGJmYTYyYzYxYjQ2@51.195.101.222:8443?note=--Telegram--@NetifyVPN--#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@52.215.96.168:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://VPNCUSTOMIZE@www.speedtest.net:80?path=%2Ftr----VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE&amp;security=none&amp;host=join-vpncustomize.ip-ddns.com&amp;type=ws#🔥Join+Telegram:@Farah_VPN🟣
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls&amp;type=tcp&amp;headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://654a309b-fdaa-3263-9bed-74a7e1532fd9@103.224.182.213:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;sni=az05feiy.kuli888.xyz#🔥Join+Telegram:@Farah_VPN🟣
@@ -106,7 +107,6 @@ trojan://telegram-id-privatevpns@35.157.250.100:22222?security=tls&amp;alpn=http
 trojan://auto@172.64.35.159:443?security=tls&amp;type=ws&amp;sni=trojanmz.pages.dev&amp;path=/trojanmz.pages.dev/?ed=2560&amp;host=trojanmz.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053%23Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;host=vpn.stupidworld.web.id&amp;fp=chrome&amp;type=ws&amp;sni=vpn.stupidworld.web.id#🔥Join+Telegram:@Farah_VPN🟣
 trojan://auto@104.20.20.23:443?security=tls&amp;type=ws&amp;sni=b96ef9ae.trojanfree-76s.pages.dev&amp;path=/b96ef9ae.trojanfree-76s.pages.dev/&amp;host=b96ef9ae.trojanfree-76s.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
-trojan://28da2596-a315-479b-8d85-e9fad6dde7fe@cdntwa.xiaomispeed.com:38522?sni=cdntwa.xiaomispeed.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://d6b6ea41-0950-4611-8246-224583e4ed1e@151.101.194.228:443?security=tls&type=ws&sni=pscresearch.faculty.ucdavis.edu&path=ws/?ed=2048&host=uhc6rhiubu.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?security=tls&type=ws&sni=sherasheba.com&path=/6b777a91&host=sherasheba.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://NISHIKUITAN111@172.67.254.32:443?#🔥Join+Telegram:@Farah_VPN🟣
