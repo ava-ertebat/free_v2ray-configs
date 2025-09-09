@@ -88,7 +88,6 @@ ss://YWVzLTI1Ni1nY206d043bU1XN1dSdDUta1c1bVRzRDREQQ==@ss.sps1.sbs:20#🔥Join+Te
 ss://bbb2dc41-cf61-40f7-b007-5d3678fe68e3@services.dissertationhelpspecialist.com:443?mode=gun&security=reality&encryption=none&pbk=ZV4e1OJFc5P1PH8pi6YN3mVzZ0G8WUOCNJZ6IibvT3Y&fp=chrome&spx=/&type=grpc&serviceName=twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixser#🔥Join+Telegram:@Farah_VPN🟣
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@13.229.238.238:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://cadabee9-d354-4ce7-f77c-99388c746574@www.speedtest.net:2087?path=/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Ar%#🔥Join+Telegram:@Farah_VPN🟣
-trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=uk-03.allhubb.info#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@13.36.17.197:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@15.188.179.102:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://dns68@199.68.156.69:443?security=tls&amp;sni=trojan.putata.us.kg&amp;type=ws&amp;host=trojan.putata.us.kg&amp;path=%2F%3Fed%3D2560&amp;fp=randomized&amp;alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
@@ -118,3 +117,4 @@ trojan://telegram-id-directvpn@15.188.112.221:22223?security=tls&amp;alpn=http/1
 trojan://telegram-id-directvpn@63.179.50.132:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@63.179.50.132:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://65f14831-5c67-483f-9e85-f3aa73f21187@naiu-us.05vr9nyqg5.download:13019?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com&amp;type=tcp&amp;headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+trojan://58bb35bc-8c58-4065-8c5f-9eeedb237eb1@gzog.runjustfast.com:30101?allowInsecure=1&amp;sni=hk1.runjustfast.com#🔥Join+Telegram:@Farah_VPN🟣
