@@ -105,6 +105,8 @@ trojan://juzi@3.76.154.119:443?security=tls&amp;sni=juzi8186-sr1.pages.dev&amp;t
 trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://bpb-trojan@162.159.152.227:443?security=tls&amp;sni=cf.090227.xyz&amp;allowInsecure=1&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://CXCu72eya8wFeRySSFpDz3CN6jBYac5OIl3q0gSl8xZOADY3EK94pxZanDA3RT@35.77.216.3:443?security=tls&amp;sni=broker.superpokemon.com&amp;allowInsecure=1&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://slch2024@185.59.218.195:2096?path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&amp;security=tls&amp;host=ocost-dy.wmlefl.cc&amp;type=ws&amp;sni=ocost-dy.wmlefl.cc#🔥Join+Telegram:@Farah_VPN🟣
+trojan://slch2024@192.0.63.195:2096?path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&amp;security=tls&amp;host=ocost-dy.wmlefl.cc&amp;type=ws&amp;sni=ocost-dy.wmlefl.cc#🔥Join+Telegram:@Farah_VPN🟣
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://slch2024@198.202.211.195:2096?path=Telegram%40ShadowProxy66&amp;security=tls&amp;host=ocost-dy.wmlefl.cc&amp;type=ws&amp;sni=ocost-dy.wmlefl.cc#🔥Join+Telegram:@Farah_VPN🟣
 trojan://QwwHvrnN@36.151.192.198:36900?allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
@@ -112,5 +114,3 @@ trojan://auto@104.20.18.121:443?security=tls&amp;type=ws&amp;sni=b96ef9ae.trojan
 trojan://auto@104.20.19.167:443?security=tls&amp;type=ws&amp;sni=b96ef9ae.trojanfree-76s.pages.dev&amp;path=/b96ef9ae.trojanfree-76s.pages.dev/&amp;host=b96ef9ae.trojanfree-76s.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
 trojan://WOeXShhJpL@104.16.148.178:443?security=tls&amp;sni=07jzus.zdzdzd.xyz&amp;type=ws&amp;host=07jzus.zdzdzd.xyz&amp;path=/juzigongyi#🔥Join+Telegram:@Farah_VPN🟣
 trojan://ChaNneL-DailY_cOnfIGs@104.17.207.36:443?security=tls&amp;type=ws&amp;sni=kanale-daily-configs.blackoutconnection.ir&amp;path=/TELEGRAM:@Daily_Configs?ed=2560&amp;host=kanale-daily-configs.blackoutconnection.ir#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-directvpn@13.36.201.87:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
-trojan://trojan@91.193.58.0:443?encryption=none&amp;security=tls&amp;sni=wahaha.yingyangkuaixian.dpdns.org&amp;fp=chrome&amp;type=ws&amp;host=wahaha.yingyangkuaixian.dpdns.org&amp;path=%2F#🔥Join+Telegram:@Farah_VPN🟣
