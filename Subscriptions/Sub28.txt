@@ -50,7 +50,6 @@ vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=/Free-
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048#🔥Join+Telegram:@Farah_VPN🟣
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048/config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free?ed=2560&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#🔥Join+Telegram:@Farah_VPN🟣
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048@&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#🔥Join+Telegram:@Farah_VPN🟣
-ss://f1b41dcf-b92d-46c1-a0ca-ce8c808eb8a2@t2.tehrandatacloud.site:2089?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 ss://f6bd0b57-1e1c-4dd1-8f1c-939cb96bdb0a@209.38.202.192:42030?mode=gun&security=reality&encryption=none&pbk=ZyEwIOp_n6SemqIK57145NS5UWz3-BrL_fRob9qx4Tk&fp=chrome&type=grpc&sni=journalofbigdata.springeropen.com&sid=15#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#🔥Join+Telegram:@Farah_VPN🟣
@@ -76,9 +75,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@79.127.233.170:989#🔥Join+Telegr
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-privatevpns@13.39.176.31:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-privatevpns@15.188.1.99:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-privatevpns@3.127.54.76:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@3.73.208.237:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=rc8.freeguard.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI%3Fed%3D1520%23%40v2ray_alpha&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;host=301.pooriam.ir&amp;fp=randomized&amp;type=ws&amp;sni=301.pOORiAm.ir#🔥Join+Telegram:@Farah_VPN🟣
@@ -102,3 +99,6 @@ trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&amp;sni=trojan.
 trojan://bpb-trojan@162.159.152.227:443?security=tls&amp;sni=cf.090227.xyz&amp;allowInsecure=1&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://CXCu72eya8wFeRySSFpDz3CN6jBYac5OIl3q0gSl8xZOADY3EK94pxZanDA3RT@35.77.216.3:443?security=tls&amp;sni=broker.superpokemon.com&amp;allowInsecure=1&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://slch2024@198.202.211.195:2096?path=Telegram%40ShadowProxy66&amp;security=tls&amp;host=ocost-dy.wmlefl.cc&amp;type=ws&amp;sni=ocost-dy.wmlefl.cc#🔥Join+Telegram:@Farah_VPN🟣
+trojan://vBKpLOSYzQ@178.128.138.210:443?mode=auto&amp;path=%2Fa-7135.80sh2025&amp;security=reality&amp;pbk=05tzrWopIy9nHI1FCMnIh5dsgx1IVuCztP3CGAIrKC0&amp;host=www.speedtest.net&amp;fp=chrome&amp;spx=%2FAug19&amp;type=xhttp&amp;sni=google.com&amp;sid=cdd5ff35#🔥Join+Telegram:@Farah_VPN🟣
+trojan://QwwHvrnN@36.151.192.198:36900?allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
