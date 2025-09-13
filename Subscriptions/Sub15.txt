@@ -32,6 +32,7 @@ vless://----telegram--ISVvpn----@91.107.142.109:443?security=reality&encryption=
 vless://----telegram--ISVvpn----@biapin.isvcloud.ir:443?security=reality&encryption=none&pbk=G-H9diIumZJioVE2Hhd4zlcawyEqTSQE5QCKycg-6Ec&headerType=none&fp=chrome&type=tcp&sni=varzesh3.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://----telegram-id-ISVvpn----@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=GeIm.IsVcLOd.CoM&fp=chrome&type=ws&sni=GeIm.IsVcLOd.CoM#🔥Join+Telegram:@Farah_VPN🟣
 vless://000aab6e-553b-4de8-93ef-cca2878f7cec@www.speedtest.net:2086/?type=ws&path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&host=mahan.mmadvip8563.ir&security=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.221.2:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.221.2:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=/xhttp&security=&encryption=none&host=Join---PLANB-PROXY&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=/xhttp&security=none&encryption=none&host=JOIN---PLANB_PROXY&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
@@ -43,7 +44,6 @@ vless://00134d22-e7bc-4690-860a-05d2be0f6f06@sss31842.tas-bazi.com:443?mode=stre
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@sss31842.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&host=skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@sss31842.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
 vless://002eedd4-0732-4ced-8ebd-ebe1acc45729@wwarden.mhrnet.com:39568?security=reality&encryption=none&pbk=eH2E-oZ8ViZrFsElgF5o8LZPi08XCEQe0YwG-gfwbCc&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=0ff1b59e1b#🔥Join+Telegram:@Farah_VPN🟣
-vless://003724c7-e0db-4975-92f4-16eed29105f3@172.66.40.99:443?path=/admin&security=tls&encryption=none&host=2free2.aparatir.xyz&type=ws&sni=2free2.aparatir.xyz#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@216.250.97.118:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🔥Join+Telegram:@Farah_VPN🟣
