@@ -67,8 +67,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng%3D@65.21.243.22:31348#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#🔥Join+Telegram:@Farah_VPN🟣
-trojan://auto@172.64.146.66:443?security=tls&amp;type=ws&amp;sni=trojanmz.pages.dev&amp;path=/trojanmz.pages.dev/?ed=2560&amp;host=trojanmz.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-directvpn@51.44.137.60:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@18.194.230.54:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@210.203.60.189:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;sni=45.32.28.232#🔥Join+Telegram:@Farah_VPN🟣
 trojan://trojan@ip.sb:8443?encryption=none&amp;security=tls&amp;sni=qianlang.pages.dev&amp;fp=random&amp;type=ws&amp;host=qianlang.pages.dev&amp;path=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
@@ -90,3 +88,5 @@ trojan://telegram-id-directvpn@3.72.224.12:22223?security=tls&amp;alpn=http/1.1&
 trojan://telegram-id-directvpn@15.188.112.221:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@63.179.50.132:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@63.179.50.132:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://65f14831-5c67-483f-9e85-f3aa73f21187@naiu-us.05vr9nyqg5.download:13019?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com&amp;type=tcp&amp;headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+trojan://58bb35bc-8c58-4065-8c5f-9eeedb237eb1@gzog.runjustfast.com:30101?allowInsecure=1&amp;sni=hk1.runjustfast.com#🔥Join+Telegram:@Farah_VPN🟣
