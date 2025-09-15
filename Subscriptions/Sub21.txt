@@ -40,9 +40,8 @@ vless://094af2f8-b421-4d0c-a96c-00625147a30c@63.141.128.13:8080?path=/Join-ZEDMO
 vless://09703cf7-a8d3-48ed-a2a5-daf853a6078d@m60a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://0976702b-b96f-4265-a855-e22d1e3365b4@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.xero-network.ir&type=httpupgrade#🔥Join+Telegram:@Farah_VPN🟣
 vless://0976702b-b96f-4265-a855-e22d1e3365b4@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.xero-network.ir&type=httpupgrade#🔥Join+Telegram:@Farah_VPN🟣
-vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?encryption=none&security=none&type=ws&host=elenaaaaaaaaaa.cloudns.pro.&path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
 vless://09c23aca-e8a3-4b09-e034-80c429d90e34@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🔥Join+Telegram:@Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#🔥Join+Telegram:@Farah_VPN🟣
+vless://0a2439d3-479f-44ff-f968-649d3bd1acb6@numberland.ir:80?flow=&type=ws&host=joinbdebe.vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjODZmZjU1My0wMDIwLTRkMzUtOTAxZC03MGFjMWRjOTM1OGU=@1.170.61.6:10082#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZjlwVEUyc1ZUOVVVdmFsVG1LNzJJ@45.144.54.33:34803#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpja1Z4eEJMQVZiRVF4eHJSRFNySHBZ@104.248.36.101:80#🔥Join+Telegram:@Farah_VPN🟣
@@ -64,6 +63,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNDkyYmVjNC1mMGQ2LTRiYmYtOTY1My1jYjg0NTU5MzM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNXVMZVB6ZmNlWEQxOE9aY0NJQVBN@94.242.59.206:39762#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkY2JjOTk1MS1mMDg3LTQ4ZDktYTA0Yy04NzUwMGJiMGVmNGI=@1.170.45.2:10109#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkb0dBejlsUGZMaFM=@62.60.233.152:443#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXA3eEsxSE5oUGJSdTk4dWN1Q29H@80.71.157.175:38211#🔥Join+Telegram:@Farah_VPN🟣
 trojan://slch2024@185.251.83.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#🔥Join+Telegram:@Farah_VPN🟣
 trojan://slch2024@185.7.240.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram@ShadowProxy66#🔥Join+Telegram:@Farah_VPN🟣
 trojan://slch2024@185.7.240.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/由零开始#🔥Join+Telegram:@Farah_VPN🟣
