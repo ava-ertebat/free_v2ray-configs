@@ -64,6 +64,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfdXM=@us-1.s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fcHQ=@pt-1.stunnel.cc:8444#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtdGVsZWdyYW0taWJhaGFk@193.124.46.134:8444#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dkhHaGVXd1M2MVFlS29GUnRaVnM2@194.87.45.189:443#🔥Join+Telegram:@Farah_VPN🟣
+trojan://1d29537a-3ec0-4775-97ec-c5773b6e4103@frontend.yijianlian.app:54530?allowInsecure=1&sni=frontend.yijianlian.app&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
 trojan://1468eae4-eb01-4b9f-ae8f-ce55c372d1af@frontend.yijianlian.app:54530?allowInsecure=1&sni=&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
 trojan://09833a6f-4d46-426e-87fe-7793a5489f84@foreign01.lovehjq.xyz:46521?allowInsecure=1&sni=lovehjq.xyz&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
 trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46527?allowInsecure=1&sni=lovehjq.xyz&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
@@ -72,7 +73,6 @@ trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tc
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#🔥Join+Telegram:@Farah_VPN🟣
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-privatevpns@18.195.237.139:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@13.39.11.27:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@13.37.117.144:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@52.59.58.34:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
