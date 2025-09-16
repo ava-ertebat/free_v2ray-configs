@@ -88,5 +88,5 @@ trojan://vBKpLOSYzQ@178.128.138.210:443?mode=auto&path=/a-7135.80sh2025&security
 trojan://zL78LA0D5P@5.255.103.217:58194?mode=stream-one&path=/moshali33&security=tls&alpn=h3&host=moshali.arshiacomplus.dpdns.org&fp=chrome&type=xhttp&sni=moshali.arshiacomplus.dpdns.org.cer#🔥Join+Telegram:@Farah_VPN🟣
 trojan://🤠JKVPN_JKVPN🤠@www.speedtest.net:80?path=/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 trojan://fa9b326c-ca6f-4bb2-88f5-a163b404fcf8@asia.artunnel57.host:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=asia.artunnel57.host#🔥Join+Telegram:@Farah_VPN🟣
-trojan://0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@pardazeshvpn-tg7.pages.dev:443?security=tls&type=ws&sni=pardazeshvpn-tg7.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&host=pardazeshvpn-tg7.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
 trojan://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.10:80?security=none&type=ws&path=%2F%3Fed%3D2048&host=uni.fi#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@52.60.170.144:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🔥Join+Telegram:@Farah_VPN🟣
