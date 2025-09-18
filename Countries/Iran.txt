@@ -1,5 +1,8 @@
-ss://9ceb4327-952c-4d87-981c-d933bd81ced9@81.12.21.147:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-ss://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 ss://e11e467c-415c-4545-8973-f7d4cae6bccf@213.176.65.192:443?path=%2Flogin%2Fazaronline.com%2F%3Fed%3D2560&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=httpupgrade&amp;sni=mehrab.mojtabajeab.ir#🔥Join+Telegram:@Farah_VPN🟣
-ss://eb6b1d2d-f4e6-499d-bce9-eeda18ed532c@109.122.247.103:2070?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTI1Ni1nY206Mno5dGtYVktpS2RGT2RuRk1VRUR1R0lJOEtEM3p1cGFGZ2lHRG1RM2NJST0=@31.47.45.146:13130#🔥Join+Telegram:@Farah_VPN🟣
+ss://2a54636c-20ab-42cd-b725-f0da347c50e2@94.101.176.12:443?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3M1RkenNIb3NQUWpHQWFMbW85bEdR@83.147.216.70:64519#🔥Join+Telegram:@Farah_VPN🟣
+ss://cac07fc1-9c38-42af-b26f-421eaca2cd65@94.183.158.13:1190?path=%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;type=ws#🔥Join+Telegram:@Farah_VPN🟣
+ss://9ceb4327-952c-4d87-981c-d933bd81ced9@81.12.21.147:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#🔥Join+Telegram:@Farah_VPN🟣
+ss://82b252cf-e2e9-48f8-864b-4b5efe1c3367@91.236.168.126:5151?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
