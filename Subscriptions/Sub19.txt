@@ -76,7 +76,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZTE2NmM1YjM0NjU1NDBm@desrv.ssvpnapp.win:574
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQjdPZU5aVkNPc1pHS1RodkpsY085SnVpVnNVZ0xQYThRSGpBREZobzVjdkd5NHY=@5.188.168.230:31348#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoNzkyMkNpR0JmYUxQU081OUc3TWxt@92.118.112.101:9483#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#🔥Join+Telegram:@Farah_VPN🟣
-trojan://905fcd78-866c-81e1-3cb8-1beb59d661ab@3050cfd7-sx6ps0-sydxa9-fa3p.cm5.cnkuaishou.com:27231?security=tls&amp;sni=3050cfd7-sx6ps0-sydxa9-fa3p.cm5.cnkuaishou.com&amp;type=tcp&amp;headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Watashi_VPN@104.18.13.229:2053?security=tls&amp;type=ws&amp;sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&amp;path=Telegram@V2ray_Alpha/?ed=2087&amp;host=t-watashi-r-jacket-o-people-jan.watashi-java.ir#🔥Join+Telegram:@Farah_VPN🟣
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&amp;security=tls&amp;host=vpn.stupidworld.web.id&amp;fp=chrome&amp;type=ws&amp;sni=vpn.stupidworld.web.id#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@63.179.19.28:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
@@ -102,3 +101,4 @@ trojan://telegram-id-privatevpns@63.179.226.235:22222?security=tls&amp;alpn=http
 trojan://telegram-id-privatevpns@13.39.254.180:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@3.65.184.141:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@35.181.39.4:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@13.39.254.180:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
