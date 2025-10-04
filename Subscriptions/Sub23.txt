@@ -70,7 +70,6 @@ vless://12345678-1234-1234-1234-123456789123@185.225.195.54:2096?path=/snippets&
 vless://12345678-1234-1234-1234-123456789123@185.251.80.54:2096?path=/snippets#🔥Join+Telegram:@Farah_VPN🟣
 vless://12345678-1234-1234-1234-123456789123@185.251.80.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://12345678-1234-1234-1234-123456789123@188.42.145.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@217.30.10.18:9060#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.60:989#🔥Join+Telegram:@Farah_VPN🟣
@@ -106,3 +105,4 @@ ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:6379#🔥Join+Telegram:
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@134.195.196.230:6379#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT@2.58.241.45:38033#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDE0Ni43MC4yNy4xMjo0MDA5Mw==#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@37.120.236.147:40093#🔥Join+Telegram:@Farah_VPN🟣
