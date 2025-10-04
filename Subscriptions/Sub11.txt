@@ -64,11 +64,11 @@ vless://ed87c882-17f3-491a-810c-c0000e4b279e@speedtest.net:80?encryption=none&se
 vless://ed87c882-17f3-491a-810c-c0000e4b279e@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#🔥Join+Telegram:@Farah_VPN🟣
 vless://f4b81795-2e5a-4584-ea25-44bc16e8fc2c@37.27.220.198:2001?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@5.44.42.60:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
+vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@94.228.169.221:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 vless://ac7b6757-05c0-4a28-8b08-14ab496a5fe4@vfast7.hvitrin.ir:49330?allowInsecure=0&sni=miro.com&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
-vless://5b7363e4-a00e-46ca-8c76-ac3fc7ea0d77@de1.tuiem.com:8443?allowInsecure=0&sni=refersion.com&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
-vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@45.95.233.8:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 vless://192ea2c7-d7d0-6676-2929-b04a072b387d@178.20.215.2:443?allowInsecure=0&sni=speed.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
-vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@147.45.49.17:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
+vless://8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6@gr1-4.9966662.xyz:20223?allowInsecure=0&sni=www.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
+vless://ed97e008-2b8d-4415-94c7-3da4919d361a@94.241.171.153:443?allowInsecure=0&sni=deepl.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 vless://7a05db54-8d5e-45d1-b7d8-98f1792d4c29@193.122.120.203:443?allowInsecure=0&sni=www.lamer.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 ss://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?path=/Telegram@Linkvws?ed=2560&security=tls&encryption=none&host=xn----pmcnaac0dkn0rb71nda.pages.dev&type=ws&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev#🔥Join+Telegram:@Farah_VPN🟣
 ss://28c27cde-5cf8-4cdb-af94-f773b0263729@104.17.234.114:8443?path=/Telegram,VPNCUSTOMIZE?ed=8080&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&fp=chrome&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de#🔥Join+Telegram:@Farah_VPN🟣
