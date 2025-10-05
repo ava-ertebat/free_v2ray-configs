@@ -103,8 +103,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.93.173.218:990#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-privatevpns@15.188.196.17:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-privatevpns@35.180.81.252:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@15.237.242.45:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@15.236.46.19:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@18.198.250.254:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
@@ -138,3 +136,5 @@ trojan://BAu7ZSyD3IZppnCOxCzaFXje3SECzZgX83e3x7yZA8SDCacyagKFlEO6O0AlTSwDDe4SF@#
 trojan://bpb-trojan@154.194.12.141:443?sni=bpb.my79801.com&amp;allowInsecure=1&amp;type=tcp&amp;path=&amp;host=bpb.my79801.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@5.182.84.50:2096?sni=epgb.aimercc.dpdns.org&amp;allowInsecure=1&amp;type=tcp&amp;path=&amp;host=epgb.aimercc.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://trojan@172.67.75.172:8443?sni=fofang.pages.dev&amp;allowInsecure=1&amp;type=tcp&amp;path=&amp;host=fofang.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
+trojan://trojan@172.67.130.66:443/?type=tcp&amp;security=tls&amp;sni=test-a23.pages.dev&amp;allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@5.182.84.50:2096/?type=tcp&amp;security=tls&amp;sni=epgb.aimercc.dpdns.org&amp;allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
