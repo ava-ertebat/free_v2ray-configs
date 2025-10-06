@@ -110,6 +110,7 @@ trojan://zmbOFDlgL5@144.91.125.7:30260?Telegram=@NasaV2,@NasaV2,@NasaV2,@NasaV2,
 trojan://🤠JKVPN_JKVPN🤠@www.speedtest.net:80?path=/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 trojan://fa9b326c-ca6f-4bb2-88f5-a163b404fcf8@asia.artunnel57.host:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=asia.artunnel57.host#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@3.136.138.228:22222?security=tls&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://d4ff43e1-3131-4c32-e41b-716303c8ee49@104.17.148.22:8880?security=none&type=ws&path=%2Fmelo%2F&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.#🔥Join+Telegram:@Farah_VPN🟣
 trojan://maradona_vpn@maradona_vpn14.history-paint.art:443?path=%2Fwss24142%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=teo.history-paint.art&fp=chrome&type=ws&sni=teo.history-paint.art#🔥Join+Telegram:@Farah_VPN🟣
 trojan://maradona_vpn@maradona_vpn10.history-paint.art:443?path=%2Fwss24142%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=teo.history-paint.art&fp=chrome&type=ws&sni=teo.history-paint.art#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Maradona_vpn@maradona_vpn.history-paint.art:443?security=tls&sni=teo.history-paint.art&alpn=h2&fp=chrome&type=grpc&serviceName=grpc20337&mode=multi#🔥Join+Telegram:@Farah_VPN🟣
@@ -141,4 +142,3 @@ trojan://telegram-id-directvpn@13.37.151.65:22223?security=tls&alpn=http/1.1&hea
 trojan://auto@dcf741e8.epeius-2gy.pages.dev:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev&type=ws&host=dcf741e8.epeius-2gy.pages.dev&path=%2f%3fed%3d2560#🔥Join+Telegram:@Farah_VPN🟣
 trojan://9096805c-e6b8-4da9-9bdc-d76e392e6630@172.67.168.193:443?path=%2FFree-VPN-Geo-Project%2F181.214.208.46-8011&security=tls&host=gamang.gpj2.dpdns.org&type=ws&sni=gamang.gpj2.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#🔥Join+Telegram:@Farah_VPN🟣
-trojan://02XtoczO7V@creativecommons.org:443?path=%2Fhishhhh123&security=tls&alpn=http%2F1.1&host=mooshali.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=mooshali.arshiacomplus.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
