@@ -63,7 +63,6 @@ vless://d483e7ab-5223-44bd-b68d-b4f185b1801e@www.speedtest.net:80?path=/Channel-
 vless://d5c1abb8-2024-4fc0-9810-09dc10a5b948@104.18.0.191:443?path=%2Fadmin&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=am.digikala-aparat-zula.com&fp=randomized&type=ws&sni=am.digikala-aparat-zula.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://da45876f-e3be-477e-b513-6a85e470339b@62.60.193.74:443?type=tcp&path=%2F&host=snapp.ir&headerType=http&security=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#🔥Join+Telegram:@Farah_VPN🟣
-vless://eb4f4498-ef97-4b6a-ae26-9bf9645d99d1@151.101.3.8:80?type=splithttp&path=%2Fphonex%3Fed%3D2560&host=phonex.global.ssl.fastly.net&mode=auto&security=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.1:443?path=%2Fproxyip%3Drobin.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=verina.ccantarella.dns-dynamic.net&fp=randomized&type=ws&sni=verina.ccantarella.dns-dynamic.net#🔥Join+Telegram:@Farah_VPN🟣
 vless://ed87c882-17f3-491a-810c-c0000e4b279e@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#🔥Join+Telegram:@Farah_VPN🟣
 vless://ed87c882-17f3-491a-810c-c0000e4b279e@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#🔥Join+Telegram:@Farah_VPN🟣
@@ -74,6 +73,7 @@ vless://01997b9d-a1f7-e188-981a-c665b723cfef@185.158.133.43:2096?allowInsecure=0
 vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@5.44.42.60:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 vless://2cd36c8e-38f6-4c2f-9ec0-eb5f79a1ed2c@cf-insights.api.cyberscaler.net:443?allowInsecure=0&sni=static.cloudflareinsights.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 vless://4c7f66da-af49-4e6d-b60c-f6a0eaa00919@mengying.eu.org:25801?allowInsecure=0&sni=updates.cdn-apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
+vless://6e433a29-22ac-4061-ae8b-f1731715d0d9@185.207.197.253:2096?allowInsecure=0&sni=vlesspro.llengcugit.sbs&type=ws&host=vlesspro.llengcugit.sbs&path=/Telegram@freecodes/?ed=2560security=tls#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#🔥Join+Telegram:@Farah_VPN🟣
