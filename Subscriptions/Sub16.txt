@@ -112,6 +112,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqaWZ1UjJOVE0wWXQ=@62.133.62.109:443#🔥Join
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMDV0M1lTQ2tyQjJIaFFnTnZsbnFO@213.111.143.243:8830#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprc2c5MjlCV2YxSzIyMGRH@azjnac1.uksouth.cloudapp.azure.com:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsYmh6a0ZyalpxVjlvd3dFRkM0dm5r@91.210.57.117:8443?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🔥Join+Telegram:@Farah_VPN🟣
+trojan://redfree8@104.17.148.22:80?path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560&amp;security=none&amp;host=redfree8-p1.pooriashop.ir&amp;type=ws#🔥Join+Telegram:@Farah_VPN🟣
 trojan://253bc477d4e43c209f2d427272968280@221.128.195.218:4431/?type=tcp&amp;security=tls&amp;sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://WyRE1b2elC@map.wimax.cc:8443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;headerType=none&amp;fp=safari&amp;type=tcp&amp;sni=map.wimax.cc#🔥Join+Telegram:@Farah_VPN🟣
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&amp;security=tls&amp;alpn=http%2F1.1&amp;host=kotlet.arshiacomplus.dpdns.org&amp;type=ws&amp;sni=kotlet.arshiacomplus.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
@@ -149,4 +150,3 @@ trojan://d4ff43e1-3131-4c32-e41b-716303c8ee49@104.17.147.22:8880?security=none&a
 trojan://channel-daily-configs@104.17.97.5:2053?security=tls&amp;type=ws&amp;sni=kanale-daily-configs.blackoutconnection.ir&amp;path=/TELEGRAM:@Daily_Configs?ed=2560&amp;host=kanale-daily-configs.blackoutconnection.ir#🔥Join+Telegram:@Farah_VPN🟣
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls&amp;type=tcp&amp;headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://dc15d997-8b26-4294-870e-c90a5784dca4@naiu-jp.05vr9nyqg5.download:13011?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com&amp;type=tcp&amp;headerType=none#🔥Join+Telegram:@Farah_VPN🟣
-trojan://tg-dns68@162.159.152.219:443?security=tls&amp;type=ws&amp;sni=vip.putata.eu.org&amp;host=vip.putata.eu.org#🔥Join+Telegram:@Farah_VPN🟣
