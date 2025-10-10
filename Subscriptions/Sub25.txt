@@ -36,8 +36,6 @@ vmess://eyJhZGQiOiAidGVuY2VudC5kYW1hb29vby5jb20iLCAidiI6IDIsICJwcyI6ICJcdWQ4M2Rc
 vmess://eyJhZGQiOiAiZGF0YS1oay12MS51c2Fib29rcy5jb20uY24iLCAidiI6IDIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAicG9ydCI6ICIyMDIwNiIsICJpZCI6ICJiMTQ3OGUyNC00OTE2LTNhYmUtOGYxNy0xNTkzMTAxMmVjYmUiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZGF0YS1oay12MS51c2Fib29rcy5jb20uY24iLCAidGxzIjogIiIsICJwYXRoIjogIi9kZWJpYW4ifQ==
 vmess://eyJhZGQiOiAiMTA3LjE0OS4xMTkuNTIiLCAidiI6IDIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAicG9ydCI6ICIzNzAwMCIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJ0bHMiOiAidGxzIiwgInBhdGgiOiAiL3BhdGgvMzMzNDEzMTUxNTIyIn0=
 vmess://eyJhZGQiOiAiNDUuMTk5LjEzOC4yMTciLCAidiI6IDIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAicG9ydCI6ICI0MTAwMCIsICJpZCI6ICJmOWZhM2E5Yy1mN2Q1LTQxNGYtODhlNi02OTcwNTg1ZDk5NDkiLCAiYWlkIjogIjY0IiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJ0bHMiOiAidGxzIiwgInBhdGgiOiAiL3BhdGgvMjgyMDE4MjUyNTI2In0=
-vless://169d94bb-e490-41e5-9cb1-5716f3d27d66@103.249.133.79:8443?encryption=none&security=reality&sni=ubuntu.com&fp=chrome&pbk=5BbAOuOXK2QXYEWq-Yy7f2wcbYgq5fKRodJsQ7Mn0lk&sid=858ef705a1&spx=/&type=grpc&authority=&serviceName=DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2056&mode=gun#🔥Join+Telegram:@Farah_VPN🟣
-vless://16cfe52d-7cae-48e8-9ece-f25b8aad7ae9@gem.talashit.com:8282?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://16cfe52d-7cae-48e8-9ece-f25b8aad7ae9@gem.talashit.com:8282?security=&encryption=none&host=cloudflare.com&headerType=http&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🔥Join+Telegram:@Farah_VPN🟣
 vless://16cfe52d-7cae-48e8-9ece-f25b8aad7ae9@gem.talashit.com:8282?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.156:443?type=xhttp&mode=stream-one&path=/ad?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🔥Join+Telegram:@Farah_VPN🟣
@@ -74,12 +72,8 @@ vless://1a6fe500-59da-4598-8576-256f06765ffb@82.148.21.174:443?security=reality&
 vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#🔥Join+Telegram:@Farah_VPN🟣
 vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#🔥Join+Telegram:@Farah_VPN🟣
 vless://1a6fe500-59da-4598-8576-256f06765ffb@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@172.105.39.228:3306#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@172.105.244.165:3389#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@172.105.244.165:3306#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:5601#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@145.239.1.100:5601#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@145.239.1.100:5600#🔥Join+Telegram:@Farah_VPN🟣
+vless://1a6fe500-59da-4598-8576-256f06765ffb@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#🔥Join+Telegram:@Farah_VPN🟣
+vless://1a714fa1-247b-4755-87d0-32c46d3fdc14@194.87.29.240:443?security=reality&encryption=none&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=bc97736f81817c41#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@145.239.1.100:5000#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@139.99.9.51:5000#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@139.162.58.13:3389#🔥Join+Telegram:@Farah_VPN🟣
@@ -112,3 +106,9 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.99.190.35:8090#🔥Join+Telegram:@
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.105.251.193:8091#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.105.251.193:8090#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.105.244.165:8090#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206TkJWSG9hTmVsV1JlTEh5dQ@45.153.229.146:3030#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.91.100.134:8080#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@172.105.244.165:8080#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@172.105.180.227:8080#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.38.72.170:7306#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.69:7307#🔥Join+Telegram:@Farah_VPN🟣
