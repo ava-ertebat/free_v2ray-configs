@@ -118,7 +118,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGYzNDMxMmM3M2FjYWUy@135.125.219.2:25930#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozUG5NMGNEc3FEbXM0QUNZVkUwNFoy@194.87.45.189:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0b2d0WU5EZlBWeno@185.242.247.149:443?note=--Telegram--@NetifyVPN--#🔥Join+Telegram:@Farah_VPN🟣
-trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://YwuvGJk36B@creativecommons.org:2053?security=tls&sni=kotlet.arshiacomplus.dpdns.org&alpn=http/1.1&fp=chrome&type=ws&host=kotlet.arshiacomplus.dpdns.org&path=/yamtekodasayahhh#🔥Join+Telegram:@Farah_VPN🟣
 trojan://atioxPSs6L@gsjcjkskfkdkkv.iranshopping.xyz:2052?path=/&security=tls&fp=chrome&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 trojan://biOrJGlcfX@creativecommons.org:443?path=/kos-madaret-khamneii&security=tls&alpn=h2,http/1.1&host=ghasem.kotlet.org&fp=chrome&type=ws&sni=ghasem.kotlet.org#🔥Join+Telegram:@Farah_VPN🟣
@@ -138,6 +137,7 @@ trojan://fi1DPGOQ0I34PYZfaYyTvQ@91.107.172.48:443?security=tls&headerType=none&t
 trojan://hNv80y7CWu@91.107.252.182:26805?type=tcp&security=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://juzi@3.76.154.119:443?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://liCV_rq-BftxwXpM@167.160.10.54:12184?encryption=none&security=tls&sni=visfg.invisiblesandwich.click&type=raw&headertype=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://mXP68BRNvU@66.59.208.7:17136?security=none&headerType=&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://mXP68BRNvU@66.59.208.7:17136?security=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://n611CzPX8k@mashti.isvcloud2.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#🔥Join+Telegram:@Farah_VPN🟣
