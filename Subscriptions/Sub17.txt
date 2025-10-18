@@ -153,8 +153,8 @@ trojan://telegram-id-privatevpns@63.179.224.187:22222?security=tls&amp;alpn=http
 trojan://telegram-id-directvpn@35.181.188.39:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@52.47.214.14:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@3.97.130.28:22222?security=tls&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.131.243:316?sni=www.baidu.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.131.243:5321?sni=www.baidu.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.30.92:443?sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://installshield@176.97.68.153:8443?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://ba3af426-765e-46d6-b157-ad0f1cdf3b3c@bestcdn3.868863.xyz:443?sni=tt-c5-cdn.the-best-airport.top#🔥Join+Telegram:@Farah_VPN🟣
-trojan://ba3af426-765e-46d6-b157-ad0f1cdf3b3c@bestcdn1.868863.xyz:443?sni=tt-a5-cdn.the-best-airport.top#🔥Join+Telegram:@Farah_VPN🟣
-trojan://d6b6ea41-0950-4611-8246-224583e4ed1e@151.101.194.228:443?security=tls&type=ws&sni=pscresearch.faculty.ucdavis.edu&path=ws/?ed=2048&host=uhc6rhiubu.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?security=tls&type=ws&sni=sherasheba.com&path=/6b777a91&host=sherasheba.com#🔥Join+Telegram:@Farah_VPN🟣
