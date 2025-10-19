@@ -106,6 +106,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMRFNBclZxVVlkeVJFclp2TFdhS3VZ@77.83.246.74:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMRFNBclZxVVlkeVJFclp2TFdhS3VZ@77.83.246.74:443?note=@freeOnlineVPN#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSmV6UjF0VlRMaEFCeGdRZmhaSlVP@217.60.38.83:63342#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@141.98.4.67:52952#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@15.188.36.211:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@3.124.147.46:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@3.65.9.84:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://auto@162.159.44.154:443?security=tls&amp;type=ws&amp;sni=trojanfree-76s.pages.dev&amp;path=/trojanfree-76s.pages.dev/?ed=2560&amp;host=trojanfree-76s.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@15.188.36.211:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
@@ -140,5 +142,3 @@ trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-jp.05vr9nyqg5.download:13011?
 trojan://blue2024@172.67.68.101:443?sni=ta.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@13.39.8.223:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@35.157.108.9:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
-trojan://tg-dns68@162.159.153.76:443?security=tls&amp;type=ws&amp;sni=vip.putata.eu.org&amp;path=/?ed=2560&amp;host=vip.putata.eu.org#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-privatevpns@35.181.188.39:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
