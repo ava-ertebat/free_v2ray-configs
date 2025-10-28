@@ -112,6 +112,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@azjnac1.uksouth.clouda
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZlVNNTk0RGZraW1KTDRzMkxHT0ZB@65.109.217.125:1080#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@212.224.125.154:57456#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@15.236.216.210:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://6e4e1d7500ff530d@134.195.101.59:443/?type=grpc&amp;serviceName=db&amp;security=tls&amp;sni=TG.WangCai2&amp;alpn=h2#🔥Join+Telegram:@Farah_VPN🟣
 trojan://01TELEGRAM-ID-soalvajavaab@www.infe.com.br.infe.com.br:446?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;headerType=none&amp;fp=chrome&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://d0ed2685-82ae-4f09-ac6d-a456146b05ba@2c6f2139-838e-4478-9e47-55140df12640.hkglink.xyz:12013/?type=tcp&amp;security=tls&amp;sni=tr.yuanul.com#🔥Join+Telegram:@Farah_VPN🟣
@@ -149,4 +150,3 @@ trojan://telegram-id-directvpn@15.236.136.134:22223?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@3.126.78.233:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://58176021-8165-48d5-94b1-ad3e96e71e8b@54.255.183.193:20230/?type=ws&amp;host=www.alibaba.com&amp;security=tls&amp;sni=www.alibaba.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@13.50.145.193:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-privatevpns@52.47.92.82:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
