@@ -76,7 +76,6 @@ vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@start.adsplustnet.com:80?path=%2Fte
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&security=tls&alpn=h3&encryption=none=&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#🔥Join+Telegram:@Farah_VPN🟣
 vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?security=reality&encryption=none&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=9917d2350096#🔥Join+Telegram:@Farah_VPN🟣
 vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#🔥Join+Telegram:@Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtdGVsZWdyYW0taWJhaGFk@193.124.46.134:8444#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0eEIxV3dYbGE0UUJTTXBvMmpHUnFX@172.237.88.77:60155#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0eEIxV3dYbGE0UUJTTXBvMmpHUnFX@172.237.88.77:60155?note=--Telegram--@NetifyVPN--#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#🔥Join+Telegram:@Farah_VPN🟣
@@ -115,6 +114,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDREFHRVlBQjFndmNJckZaWWhVYkVN@62.133.63.222:48981#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45635#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEMkU2bEl0aVJYbVlFUkN5dlBkZ0h6@192.121.113.60:8443#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUnJ5cjVVdU5sc0lwUkVRclNKUVNR@46.62.214.228:1080#🔥Join+Telegram:@Farah_VPN🟣
+trojan://trojan@109.234.211.66:2087?path=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)&security=tls&type=ws&sni=store.timimi.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
+trojan://trojan@22b.net:2087?path=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)&security=tls&type=ws&sni=store.timimi.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://trojan@AZERB.NET:443?path=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)?ed=2560&security=tls&alpn=h2,http/1.1&host=store.timimi.dpdns.org&fp=chrome&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 trojan://trojan@TM-AZARBAYJAB1.1.WORKERS.DEV:443?path=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)?ed=2560&security=tls&alpn=h2,http/1.1&host=store.timimi.dpdns.org&fp=chrome&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 trojan://ttfang@5.182.85.194:2096?path=Telegram@Config_Rayegan&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#🔥Join+Telegram:@Farah_VPN🟣
@@ -152,5 +154,3 @@ trojan://tunnel-v2ray_configs_pools_offcial-nl@nl-1.stunnel.cc:8441?security=tls
 trojan://tunnel-v2ray_configs_pools_official-de@de-1.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=de-1.stunnel.cc#🔥Join+Telegram:@Farah_VPN🟣
 trojan://tunnel-v2ray_configs_pools_official-gb@gb-1.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=gb-1.stunnel.cc#🔥Join+Telegram:@Farah_VPN🟣
 trojan://tunnel-v2ray_configs_pools_official-pl@pl-1.stunnel.cc:8441?security=tls&alpn=http/1.1&host=pl-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
-trojan://tunnel-v2ray_configs_pools_official-us@us-3.stunnel.cc:8441?security=tls&alpn=http/1.1&host=us-3.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
-trojan://tunnel-v2ray_configs_pools_official-us@us-4.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=us-4.stunnel.cc#🔥Join+Telegram:@Farah_VPN🟣
