@@ -127,7 +127,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmSjA3OFNjclFaNWk1YjN4M00zR0ti@193.149.187.51:23448?type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZTE2NmM1YjM0NjU1NDBm@desrv.ssvpnapp.win:57456#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQjdPZU5aVkNPc1pHS1RodkpsY085SnVpVnNVZ0xQYThRSGpBREZobzVjdkd5NHY=@5.188.168.230:31348#🔥Join+Telegram:@Farah_VPN🟣
-trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?type=tcp&security=tls&sni=fluxfloss.click#🔥Join+Telegram:@Farah_VPN🟣
 trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&sni=fluxfloss.click&type=tcp&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&sni=fluxfloss.click&type=tcp&headerType=none&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://D%2BelR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&headerType=none&type=tcp&sni=fluxfloss.click#🔥Join+Telegram:@Farah_VPN🟣
@@ -170,3 +169,4 @@ trojan://357b1bba-6400-4944-baff-1b933311ff28@104.21.88.226:443/?type=tcp&amp;se
 trojan://Aimer@154.197.64.219:2083/?type=tcp&amp;security=tls&amp;sni=epgb.aimercc.dpdns.org&amp;allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@154.197.64.104:8443/?type=tcp&amp;security=tls&amp;sni=epgb.aimercc.dpdns.org&amp;allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@172.64.33.69:2087/?type=tcp&amp;security=tls&amp;sni=epgb.aimercc.dpdns.org&amp;allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@216.24.57.186:443/?type=tcp&amp;security=tls&amp;sni=epgb.aimercc.dpdns.org&amp;allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
