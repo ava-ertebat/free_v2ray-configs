@@ -133,6 +133,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQjdPZU5aVkNPc1pHS1RodkpsY085SnVpVnNVZ0xQYTh
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQjdPZU5aVkNPc1pHS1RodkpsY085SnVpVnNVZ0xQYThRSGpBREZobzVjdkd5NHY@5.188.168.230:31348?note=@freeOnlineVPN#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoNzkyMkNpR0JmYUxQU081OUc3TWxt@92.118.112.101:9483#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@108.165.152.219:443/?type=tcp&amp;security=tls&amp;sni=agepj.ambercc.filegear-sg.me&amp;allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@216.198.53.212:8443/?type=tcp&amp;security=tls&amp;sni=epcct.ambercc.filegear-sg.me&amp;allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://juzi@172.66.46.221:443?path=%2F&amp;security=tls&amp;host=juzi8186-sr1.pages.dev&amp;fp=chrome&amp;type=ws&amp;sni=juzi8186-sr1.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
 trojan://auto@[2a06:98c1:3121::3]:443?path=%2F%3Fed&amp;security=tls&amp;alpn=h3&amp;host=dcf741e8.epeius-2gy.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=dcf741e8.epeius-2gy.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3BLPOJr3OY@pl.scpnb.top:50191?mode=gun&amp;security=reality&amp;pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=cloudflare.com&amp;sid=2e#🔥Join+Telegram:@Farah_VPN🟣
@@ -152,5 +154,4 @@ trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@whatismyipaddress.com:443?path=%2F
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=%2FtrGPZDfetEwuO25SAs%3Fed%3D2560&amp;security=tls&amp;type=ws&amp;sni=NOp-55q.pAgEs.dEv#🔥Join+Telegram:@Farah_VPN🟣
 trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@www.speedtest.net:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=red-dream-2d6c.xepis84786.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=red-dream-2d6c.xepis84786.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-privatevpns@35.157.82.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://T%40_WvT8Ho%40LW%25w_%2C@172.66.47.42:2053?path=%2FtrGPZDfetEwuO25SAs%3Fed%3D2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#🔥Join+Telegram:@Farah_VPN🟣
