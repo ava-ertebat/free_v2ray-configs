@@ -130,4 +130,5 @@ trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?security=tls&amp;s
 trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?security=tls&amp;sni=www.nintendogames.net&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?security=tls&amp;sni=azadnet-bdr.pages.dev&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://trojan@104.26.12.31:8443?security=tls&amp;sni=fofang.pages.dev&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?path=%2Fazadnet-bdr.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&amp;security=tls&amp;host=azadnet-bdr.pages.dev&amp;type=ws&amp;sni=azadnet-bdr.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
