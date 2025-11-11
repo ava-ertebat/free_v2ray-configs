@@ -117,7 +117,6 @@ trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&headerType=none&t
 trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://344ObcMIAb@ru2.asc-sam.ir:443?type=xhttp&path=/@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven&host=&mode=auto&security=tls&fp=chrome&alpn=h3,h2,http/1.1&sni=ru2.asc-sam.ir#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@us2.vpn.ong:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://76ed5507-80e9-4549-877c-f74c174c26b4@95.214.9.72:443?path=/Free-VPN-CF-Geo-Project/95.214.9.72=443&security=tls&host=joss.dus.biz.id&fp=chrome&type=ws&sni=joss.dus.biz.id#🔥Join+Telegram:@Farah_VPN🟣
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#🔥Join+Telegram:@Farah_VPN🟣
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&fp=chrome&type=tcp&sni=wus02.weyaf9sdoh2h.space#🔥Join+Telegram:@Farah_VPN🟣
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#🔥Join+Telegram:@Farah_VPN🟣
@@ -150,3 +149,4 @@ trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&sec
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?security=tls&sni=NOp-55q.pAgEs.dEv&type=ws&path=/trGPZDfetEwuO25SAs?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
 trojan://V2qblnpdB6@91.108.249.171:443?security=reality&pbk=YAdvt-gLAjJf-a36b9XwQyd9bGxH4xIlyyeNiY7sPik&host=www.namasha.com,s45.namasha.com&headerType=http&fp=chrome&spx=/&type=tcp&sni=google.com&sid=b235e63f3b4bf29c#🔥Join+Telegram:@Farah_VPN🟣
 trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
+trojan://ZHEKwAC5B4Hwwohd4PhhFw@46.62.214.228:443?mode=gun&security=tls&type=grpc&serviceName=trojan&sni=cyrus.v2bazzar.ir#🔥Join+Telegram:@Farah_VPN🟣
