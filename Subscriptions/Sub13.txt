@@ -72,6 +72,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.192:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.209:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.167:8880?mode=gun&security=none&encryption=none&authority=Join---_&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.161:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@us.vmagnum.win:57456#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTHBBSGNOU29sRVo5QWpkRU40bWlB@77.83.246.227:39830#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTHBBSGNOU29sRVo5QWpkRU40bWlB@77.83.246.227:39830?note=--Telegram--@NetifyVPN--#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTHBBSGNOU29sRVo5QWpkRU40bWlB@77.83.246.227:39830?note=@freeOnlineVPN#🔥Join+Telegram:@Farah_VPN🟣
@@ -108,7 +109,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5SnE3WnlFWktha0k3MUdVODI5TEdk@92.118.112.101
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5SnE3WnlFWktha0k3MUdVODI5TEdk@92.118.112.101:9483?note=--Telegram--@NetifyVPN--#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5UUVwZ2gwQUpXVHM1OE5tUmZzVmFR@102.130.49.69:8443#🔥Join+Telegram:@Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Z1NYTFRDckw4emVLYjJuNm1naEs4SjI2R1ZIV21aQTRweXk4NFB5ZzZFPQ==@45.67.32.147:13896#🔥Join+Telegram:@Farah_VPN🟣
 trojan://V2qblnpdB6@91.108.249.171:443?security=reality&pbk=YAdvt-gLAjJf-a36b9XwQyd9bGxH4xIlyyeNiY7sPik&host=www.namasha.com,s45.namasha.com&headerType=http&fp=chrome&spx=/&type=tcp&sni=google.com&sid=b235e63f3b4bf29c#🔥Join+Telegram:@Farah_VPN🟣
 trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://ZHEKwAC5B4Hwwohd4PhhFw@46.62.214.228:443?mode=gun&security=tls&type=grpc&serviceName=trojan&sni=cyrus.v2bazzar.ir#🔥Join+Telegram:@Farah_VPN🟣
