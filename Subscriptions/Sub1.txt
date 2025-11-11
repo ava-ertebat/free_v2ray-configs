@@ -10,3 +10,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.202.149.82:22222?path=/telegram-
 vless://9a267589-65de-4501-aedc-8d384b8b79a2@104.17.147.22:80?security=none&type=httpupgrade&host=1Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&path=/@Vpn_Mikey،@Vpn_Mikey#🔥Join+Telegram:@Farah_VPN🟣
 vless://84999452-7c28-48fd-8b3f-dc3e61f92777@89.47.197.42:24664?security=none&type=tcp&host=Ponisha.ir&headerType=http#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206Qm9pWDEwMjkyNA==@8.222.161.161:9875#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.4:38388#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJhZGQiOiAiMTQ4LjExMy4xNTMuMTA5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInlpY2h1ZW5nLm9yZyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAibGlua3Z3cyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogInlpY2h1ZW5nLm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
