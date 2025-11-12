@@ -65,13 +65,13 @@ vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&en
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 vless://297df885-9161-46cb-94d4-90a8a8489645@45.128.54.17:443?path=%2Fdahuqpws&security=tls&encryption=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#🔥Join+Telegram:@Farah_VPN🟣
-vless://6270eaeb-2f67-4fb5-9d58-662c52d67b3c@netherbobi.vtuix.ir:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 vless://866f919c-aa0d-4edb-b6a9-d5412c1c2ca3@drow-ranger.fonixapp.org:56765?allowInsecure=0&sni=stackoverflow.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 vless://31d35cbe-92d1-44cd-9991-e58d00499fb2@magnataur.fonixapp.org:10922?allowInsecure=0&sni=ilovepdf.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 vless://c37cdcff-42f1-4f09-8ce1-0df6cf7e2520@sandking.fonixapp.org:33115?allowInsecure=0&sni=yelp.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 vless://2360d5e9-5503-4e6d-9e4a-fe5fb25c38fa@bloodseeker.fonixapp.org:26143?allowInsecure=0&sni=steampowered.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 vless://0226ef52-e556-4f36-ab0f-6c9f5414942a@bonefletcher.fonixapp.org:22925?allowInsecure=0&sni=ilovepdf.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 vless://cac59dc2-e5a9-44f0-88da-e56ba06eac15@butcher.fonixapp.org:20220?allowInsecure=0&sni=cloudtalk.io&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
+vless://dcdd09ad-4519-46f7-8107-4c4290a9b2a3@40.233.78.152:40106?allowInsecure=0&sni=apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#🔥Join+Telegram:@Farah_VPN🟣
