@@ -109,6 +109,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@35.176.197.229:443#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXV21GZDlNQ3NkWWo=@77.83.245.172:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXamZOMG5jREg4U2FhN0RmSUlyanVS@62.133.63.21:65262#🔥Join+Telegram:@Farah_VPN🟣
+trojan://63b8ce6d-9a30-4122-a00f-fd47f020dc27@89.28.236.243:443?path=/Free-VPN-CF-Geo-Project/89.28.236.243=443&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#🔥Join+Telegram:@Farah_VPN🟣
 trojan://49d416e1-4cec-41e1-bff6-3748c466f275@45.144.48.158:8443?path=/Free-VPN-CF-Geo-Project/45.144.48.158=8443&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3BLPOJr3OY@91.108.250.230:50191?security=reality&pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&fp=chrome&type=grpc&sni=cloudflare.com&sid=2e#🔥Join+Telegram:@Farah_VPN🟣
 trojan://1b57001bd214304027025a740b6cf1ac@221.128.195.12:3841?sni=www.nintendogames.net&fp=chrome&path=/#🔥Join+Telegram:@Farah_VPN🟣
@@ -145,4 +146,3 @@ trojan://auto@159.246.55.132:443?security=tl...&amp;type=tcp#🔥Join+Telegram:@
 trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053?security=t...&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@104.26.15.138:2053?security=t...&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://D3OJA7xY5U@209.200.246.53:10785?security=reality&amp;sni=cloudflare.com&amp;fp=chrome&amp;pbk=Yj8X6ZHfj6UpI7-XxFpodTIoWKiZ5TYbNWj1LQqruCY&amp;sid=20b09680&amp;type=grpc#🔥Join+Telegram:@Farah_VPN🟣
-trojan://auto@104.21.90.210:443?security=tls...&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
