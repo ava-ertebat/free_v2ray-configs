@@ -112,3 +112,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprTkFzc3FmTlI4aGh2bTlyU1NKdmhx@151.236.11.221
 trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?security=tls&amp;sni=azadnet-bdr.pages.dev&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://trojan@104.26.12.31:8443?security=tls&amp;sni=fofang.pages.dev&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://1b57001bd214304027025a740b6cf1ac@202.181.103.246:2173?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
+trojan://55d19115-ec40-407b-a674-74e6a948347a@45.144.48.55:2053?path=/Free-VPN-CF-Geo-Project/45.144.48.55=2053&security=tls&host=joss.dus.biz.id&fp=chrome&type=ws&sni=joss.dus.biz.id#🔥Join+Telegram:@Farah_VPN🟣
+trojan://BxceQaOe@58.152.46.98:443?security=tls&allowInsecure=1&type=tcp&headerType=none&host=t.me/v2Line#🔥Join+Telegram:@Farah_VPN🟣
