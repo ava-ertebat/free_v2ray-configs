@@ -133,3 +133,4 @@ trojan://Trevely@173.245.59.110:443?security=tls&sni=trojan.trevely.us.kg&type=w
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.97:7002#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@142.202.49.68:8000#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@18.192.81.2:22222?security=tls&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&security=tls&encryption=none&host=ftm2.gerlemondns.info&fp=chrome&type=ws&sni=ftm2.gerlemondns.infoÂ¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#🔥Join+Telegram:@Farah_VPN🟣
