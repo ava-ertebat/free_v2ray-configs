@@ -70,6 +70,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&securi
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#🔥Join+Telegram:@Farah_VPN🟣
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#🔥Join+Telegram:@Farah_VPN🟣
 vless://e4824193-4f54-453b-d037-88368e85ef0e@public18v7.fastipsport.com:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MVc2ZTY2Z3k3a3VkMGhIWjE2c0RN@92.118.112.101:9483?note=--Telegram--@NetifyVPN--#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ==@45.144.31.24:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VHp0V0dLVWNLSm42OFh0STVZajA0@51.143.181.129:17415#🔥Join+Telegram:@Farah_VPN🟣
@@ -105,7 +106,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZ3p0czZ1Q0hNQWNTeHZPY2xuU1FR@103.35.190.211:55672#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToybktubXVhblU5SVVBSWFDLWhKanJ3@89.106.69.224:1085#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#🔥Join+Telegram:@Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🔥Join+Telegram:@Farah_VPN🟣
 trojan://BxceQaOe@58.152.26.173:443?security=tls&headerType=none&type=tcp&sni=t.me/ripaojiedian#🔥Join+Telegram:@Farah_VPN🟣
 trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&headerType=none&type=tcp&sni=fluxfloss.click#🔥Join+Telegram:@Farah_VPN🟣
 trojan://D3OJA7xY5U@209.200.246.53:10785?security=reality&sni=cloudflare.com&fp=chrome&pbk=Yj8X6ZHfj6UpI7-XxFpodTIoWKiZ5TYbNWj1LQqruCY&sid=20b09680&spx=/&allowInsecure=1&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
