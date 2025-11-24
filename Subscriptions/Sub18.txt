@@ -41,6 +41,7 @@ vless://00134d22-e7bc-4690-860a-05d2be0f6f06@sss31842.tas-bazi.com:443?mode=stre
 vless://0033fda5-029e-4de3-acea-3bd45a1912e2@156.244.41.221:443?security=reality&encryption=none&pbk=K195x6sAmXL2K_9fSwMsPR8uqYF7UISl1ehaTjNhEz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://00359224-815e-40dc-a4ad-a8642433f7f8@hg.kunlun01.com:18000?security=reality&encryption=none&pbk=hlRqquCI6AiCSbifwaNIlf_fVoHols95S2A1OG8xnVk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://003f001d-c04f-42af-fd58-f9854ced2139@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#🔥Join+Telegram:@Farah_VPN🟣
+vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.6.18:443?path=/?ShadowProxy66&security=tls&alpn=http/1.1&encryption=none&host=albedoalbedochan.violetchaan.ip-ddns.com&fp=chrome&type=ws&sni=albedoalbedochan.violetchaan.ip-ddns.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://005b0edd-ff5e-423e-9cc2-c2bf89a97b1c@www.speedtest.net:2095?type=httpupgrade&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=ww.irAnsheep.wEb.tr.&security=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://00651706-0d2d-448b-80f2-7678f3e5187c@93.185.158.14:443?path=/bing&security=tls&encryption=none&host=uk.rtot.me&fp=chrome&type=ws&sni=uk.rtot.me#🔥Join+Telegram:@Farah_VPN🟣
 vless://006b760a-ccec-4f28-997e-bcd29c1b56ef@[2001:41d0:701:1000::275]:58066?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🔥Join+Telegram:@Farah_VPN🟣
@@ -73,11 +74,6 @@ vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&enc
 vless://020eeb0a-796f-4e31-8ad1-08cc9e13ca21@85.90.207.183:54500?security=none&encryption=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 vless://0226ef52-e556-4f36-ab0f-6c9f5414942a@bonefletcher.fonixapp.org:22925?security=reality&encryption=none&pbk=Pzsb-3zlxbYLJwRE0ACSqzTL7h3ubqREGMEs17q_1z4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=886d#🔥Join+Telegram:@Farah_VPN🟣
 vless://022f09bf-075f-4d40-80da-bd49ab5b49fa@a-l0.suupermeat.ir:8080?path=/de?ed=1048/?TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&security=none&encryption=none&type=httpupgrade#🔥Join+Telegram:@Farah_VPN🟣
-vless://022f09bf-075f-4d40-80da-bd49ab5b49fa@k-w.ferdowsi-rgb.ir:2095?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWeEhHaDdHWmdKa28yMlZza0kzZTdX@193.176.190.17:443?note=--Telegram--@NetifyVPN--#🔥Join+Telegram:@Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNjdxMnBFeGlRc1NYS2JCTlE2ZFRx@213.173.33.38:8443#🔥Join+Telegram:@Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@35.176.197.229:443#🔥Join+Telegram:@Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXV21GZDlNQ3NkWWo=@77.83.245.172:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXamZOMG5jREg4U2FhN0RmSUlyanVS@62.133.63.21:65262#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXbURoVlNpRGlqN1IyWFJPcjNDbTU1@83.147.216.70:64519#🔥Join+Telegram:@Farah_VPN🟣
@@ -112,6 +108,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZlVNNTk0RGZraW1KTDRzMkxHT0ZB@65.109.217.125
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpicDhSQXlZRG5zbmlrbU44WUdyZ2lx@62.133.60.60:7048#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@212.224.125.154:57456#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVTdZdUxma3pnc1dNRUQzWXVsRzZG@45.95.232.236:4248#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080?note=@freeOnlineVPN#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@35.87.137.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@13.53.149.14:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@3.228.217.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@44.198.54.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#🔥Join+Telegram:@Farah_VPN🟣
@@ -149,4 +150,3 @@ trojan://z-H_x58nS%3DVUaw.o@216.238.94.42:19939/?type=tcp&security=tls&sni=xuhyq
 trojan://S40Vr.vnDP2BsCKF@103.43.75.230:13536/?type=tcp&security=tls&sni=smartphone.angrypiano.click&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://V8cbmRo4T2Qd+JwW@216.238.120.105:16555/?type=tcp&security=tls&sni=qdsbwfvjal.zwodhfgqaps.click&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://2euhAfXj-1RMSEgK@155.138.164.81:13590/?type=tcp&security=tls&sni=bookstore.bluetigeraa.click&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.204.136:2890/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
