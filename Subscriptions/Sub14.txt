@@ -12,13 +12,13 @@ vless://6923b959-c65f-764c-b072-94711382d716@183.97.196.49:50000?encryption=none
 vless://6923b959-c65f-764c-b072-94711382d716@59.2.75.64:50001?encryption=none&security=tls&sni=s2.sni565.netlib.re&alpn=h3&fp=random&type=ws&host=s2.sni565.netlib.re&path=%2Fproxyip%3Dtw.sni2025.netlib.re#🔥Join+Telegram:@Farah_VPN🟣
 vless://e258977b-e413-4718-a3af-02d75492c349@45.66.129.7:21262?encryption=none&security=tls&sni=www.x-aniu--sg.netlib.re&allowInsecure=1&type=ws&host=www.x-aniu--sg.netlib.re&path=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@docs.cloudflare.com:2095?encryption=none&security=none&sni=docs.cloudflare.com&type=ws&host=fuckingfangbinxing.asshole-afc.workers.dev&path=%2F#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTEyOC1nY206NzlhZDI4NTItZWI3Ni00YzNlLWJhNGQtMzY2OGVlNWVjZTc0@103.219.103.217:21712#🔥Join+Telegram:@Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTEyOC1nY206NzlhZDI4NTItZWI3Ni00YzNlLWJhNGQtMzY2OGVlNWVjZTc0@103.219.103.217:23344#🔥Join+Telegram:@Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.9.17.198:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.9.17.198:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2V0c0NGFrdGtiVVJOTURCSlpVOGxJeVFqWmtwQlRYUnpSVUZGVlU5d1NDOVpWMWwwV1hGRVJtNVVNRk5X@103.186.155.110:38388#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/zksuapgx;host=newroot2v1.dsjsapp.com;tls#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@jp3.t.sgateway.link:5223?allowInsecure=0&sni=pod-jp-z1.psusercontent.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://6e6191a3-9a93-4617-859a-8d0ea0fce937@joss.gpj1.web.id:443?allowInsecure=0&sni=joss.gpj1.web.id&ws=1&wspath=%2FFree-VPN-CF-Geo-Project%2F81.91.214.85%3D443#🔥Join+Telegram:@Farah_VPN🟣
 trojan://abb96ae5-8337-4719-b300-fc3b2efbd14d@47.89.150.45:21575?allowInsecure=0&sni=joss.gpj1.web.id&ws=1&wspath=%2FFree-VPN-CF-Geo-Project%2F47.89.150.45%3D21575#🔥Join+Telegram:@Farah_VPN🟣
