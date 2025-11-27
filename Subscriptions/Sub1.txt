@@ -16,3 +16,12 @@ vless://58a2d971-ab7d-4895-b9f6-96b929cc85ad@crtvbyun.global.ssl.fastly.net:80?m
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.88.181:443?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#🔥Join+Telegram:@Farah_VPN🟣
 vless://a35e8e2e-d535-4adb-9098-7ebd086793c0@95.179.253.176:27076?mode=gun&security=reality&encryption=none&pbk=jbHh3Eg4ms0xpX8Dophp-kqk1MzMNtAhitDAH0_YrhY&fp=chrome&spx=%2F&type=grpc&sni=cloudflare.com&sid=a45710#🔥Join+Telegram:@Farah_VPN🟣
 ss://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.88.181:443?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#🔥Join+Telegram:@Farah_VPN🟣
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?security=tls&encryption=none&type=ws&path=/&sni=Rx2TfQ98lT.sOlEnTrAa.InFo&fp=chrome&alpn=h2,h3#🔥Join+Telegram:@Farah_VPN🟣
+trojan://o6x5BZAuSj@creativecommons.org:2053?path=%2Fhishhhh123&security=tls&alpn=http%2F1.1&host=mooshali.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=mooshali.arshiacomplus.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@63.180.87.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://f64ec975-bed6-4c91-b02b-80e5fdad363b@51.222.84.252:25429?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://8a9f4774-c02e-4d93-90ee-b6c1765cc021@37.27.220.218:42671?path=%2FNT_Safe&security=&encryption=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://cfe554a3-4cd5-4fe1-9951-e6b65fc52a74@sea-daisy.unity4world.ir:8880?encryption=none&type=grpc&mode=gun&security=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://2c165738-3a35-4549-ab59-eb37f7250ded@5.75.194.74:8443?security=&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://dc0c3ea1-2960-4fad-99ec-3385adeafbb5@172.67.166.192:2053?security=tls&sni=connectingno.technewspaper.store&type=grpc&alpn=h2%2Chttp%2F1.1#🔥Join+Telegram:@Farah_VPN🟣
+vless://f4b69ef0-d4b9-4ad5-954e-0c98fc169fce@91.98.233.176:24199?security=&encryption=none&host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
