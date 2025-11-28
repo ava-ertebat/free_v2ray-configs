@@ -113,3 +113,8 @@ vless://47aa4978-3ec7-47d2-ad4d-15e8e1bd25ff@pscresearch.faculty.ucdavis.edu:80?
 vless://07b9f4ab-1f02-4df4-b188-df3caa17ee93@ae.howfast.ir:42539?security=none&type=tcp&headerType=http&path=%2F&host=zhaket.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://f4b69ef0-d4b9-4ad5-954e-0c98fc169fce@91.98.233.176:24199?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzcWdOZ3pYQWRtYlpHUm1iU042QmpM@62.133.63.21:65262#🔥Join+Telegram:@Farah_VPN🟣
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.156:443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=wwW.oPEnsIGnAL.cOM.naynay09.Dynv6.nET#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MkxCaG9rNWx2alI%3D@83.217.9.4:443#🔥Join+Telegram:@Farah_VPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.104:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
+trojan://tunnel-astrovpn_official_ca@ca-1.stunnel.cc:8441?path=AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official&security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none&host=ca-1.stunnel.cc#🔥Join+Telegram:@Farah_VPN🟣
+vless://7dfe125d-806d-4e5a-a91c-bcc2020ef7be@91.99.238.186:31015?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
