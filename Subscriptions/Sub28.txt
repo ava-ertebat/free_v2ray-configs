@@ -136,7 +136,6 @@ trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpl
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&type=tcp&headerType=none&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://Tg3RnK7Xp8B1@65.20.82.177:443?sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Tg3RnK7Xp8B1@64.176.60.125:443?sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Tg3RnK7Xp8B1@207.148.66.54:443?sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Tg3RnK7Xp8B1@207.148.95.57:443?sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#🔥Join+Telegram:@Farah_VPN🟣
@@ -150,3 +149,4 @@ trojan://telegram-id-privatevpns@63.180.130.43:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@13.38.225.85:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@13.37.18.131:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@63.181.53.216:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@63.181.74.15:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
