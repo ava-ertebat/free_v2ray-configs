@@ -72,6 +72,7 @@ vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.28.39:443?mode=gun&security=
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&insecure=1&host=piaz.mrconfigur.site&type=ws&allowInsecure=1&sni=piaz.mrconfigur.site#🔥Join+Telegram:@Farah_VPN🟣
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?encryption=none&type=ws&host=piaz.mrconfigur.site&path=/&security=tls&sni=piaz.mrconfigur.site#🔥Join+Telegram:@Farah_VPN🟣
 vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?security=reality&encryption=none&pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&headerType=none&fp=chrome&type=tcp&sni=www.ok.ru&sid=fdc8125ea6f61323#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@4.250.141.14:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ==@94.131.104.147:443#🔥Join+Telegram:@Farah_VPN🟣
@@ -108,7 +109,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@ltnl02.saint.y
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxVGRBZE9nZ1FZbXVqYW9DVnZITFpw@174.138.17.254:52252#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZWY5akd2QXl6WExMbmpzc1JGcjhN@94.228.169.114:25663#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZWtsZVF3YWJ2cDZBVHY4VEpPbDZ6@62.133.60.43:36456#🔥Join+Telegram:@Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZjhqZE9JS2t4UldNVWVPZlhQZW84@109.107.172.30:28190#🔥Join+Telegram:@Farah_VPN🟣
 trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443?security=tls#🔥Join+Telegram:@Farah_VPN🟣
 trojan://xxoo@138.124.183.222:443?security=tls&sni=138.124.183.222#🔥Join+Telegram:@Farah_VPN🟣
 trojan://394a715e-3ef1-4aae-bb5e-a48857ed00b7@77.91.69.146:443?security=tls&type=ws&sni=joss.gpj4.web.id&path=/Free-VPN-CF-Geo-Project/77.91.69.146=443&host=joss.gpj4.web.id#🔥Join+Telegram:@Farah_VPN🟣
