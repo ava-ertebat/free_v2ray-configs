@@ -186,3 +186,11 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.16:2375#🔥Join+Telegram:@
 vless://669be00c-67b4-4b87-b08f-311c45abced2@212.233.73.23:443?security=reality&encryption=none&pbk=a_LbD81zTm6S8JtU98gY00xqsPOEucV4k0OEx0LOwgQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=static.rutube.ru&sid=ffffffffff#🔥Join+Telegram:@Farah_VPN🟣
 trojan://tg-dns68@162.159.153.84:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🔥Join+Telegram:@Farah_VPN🟣
 vless://499ae33f-cc94-4749-853f-a86724717ac8@194.182.79.236:24552?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@18.197.203.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@18.197.203.30:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:80?mode=auto&path=%2F%40WarpiFree---%40WarpiFree---%40WarpiFree---%40WarpiFree&security=none&encryption=none&host=vp13.mydatacloud1.ir&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRTzBOeW5hZ1ZURkR1M25VckZDU3p3@66.94.108.81:1100#🔥Join+Telegram:@Farah_VPN🟣
+vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?security=none&encryption=none&host=%2F%3F&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.69:1001/?type=tcp&encryption=none&flow=&sni=telewebion.com&fp=chrome&security=reality&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJhZGQiOiAiNDYuMjI0LjkyLjIyOSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJmYXN0LmNvbSIsICJpZCI6ICI4NjczZDlkYy05M2QzLTQxNTItYmUxYi0zY2M4OTFlMjdiNzMiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIzOTYxNyIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
+vless://6c7a6a6a-6a6a-4000-8000-000000000002@104.20.2.221:8443?encryption=none&security=tls&sni=bycf.lzjnb.shop&type=ws&host=bycf.lzjnb.shop&path=%2Ftel-@v2rayn5%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
