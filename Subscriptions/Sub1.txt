@@ -195,3 +195,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.216:443?path=%2Fblue&secu
 ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@80.92.204.106:9084#🔥Join+Telegram:@Farah_VPN🟣
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMFlXTXlaakJoTlMxbFkySTNMVFF3Wm1NdE9HUTNNQzAyWldaaU9EZ3lZalV5TlRj@free.2apzhfa.xyz:31311#🔥Join+Telegram:@Farah_VPN🟣
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.106:443?security=tls&sni=vf.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔥Join+Telegram:@Farah_VPN🟣
+vless://7039f4f0-4733-49ce-8925-2852a42d9a37@51-ya-wl.connect-opengate.ru:8443?security=reality&encryption=none&pbk=gKP71Sngd6wzxOmzLdjsU-VW8BGKAS6AZSCrvUCASyk&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=c5ae63ea7da57035#🔥Join+Telegram:@Farah_VPN🟣
