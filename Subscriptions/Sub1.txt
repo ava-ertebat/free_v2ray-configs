@@ -25,3 +25,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@92.112.126.90:443#🔥Join+Telegram:@Farah_VPN🟣
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.38.116:443?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8080#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@63.181.49.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WUxpRTBMT3NyMEN3SWpiaUNTTHky@147.45.235.63:49115#🔥Join+Telegram:@Farah_VPN🟣
+vless://36d05a32-d2aa-439d-968f-9ede2a4aa018@turkiye.torprospeed.ir:6630?encryption=none&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=KO3CB84Ea9vNhaxlPjg0EKu_FMPeEH6Bgb_P43Fp_2o&sid=e0c8f8e163c60a4f&spx=%2F&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://36d05a32-d2aa-439d-968f-9ede2a4aa018@german.torprospeed.ir:6630?encryption=none&security=reality&sni=cloudflare.com&fp=firefox&pbk=KO3CB84Ea9vNhaxlPjg0EKu_FMPeEH6Bgb_P43Fp_2o&sid=e0c8f8e163c60a4f&spx=%2F&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://36d05a32-d2aa-439d-968f-9ede2a4aa018@finland.torprospeed.ir:5890?encryption=none&security=reality&sni=www.slideshare.net&fp=firefox&pbk=OFvAJ_DLwS-628oyg8UesadYl-a8hJljcSfd9Ri3Rmo&sid=0506143c33da39f6&spx=%2F&type=grpc&authority=&serviceName=xyz&mode=gun#🔥Join+Telegram:@Farah_VPN🟣
+vless://36d05a32-d2aa-439d-968f-9ede2a4aa018@dubai.torprospeed.ir:6630?encryption=none&security=reality&sni=cloudflare.com&fp=firefox&pbk=KO3CB84Ea9vNhaxlPjg0EKu_FMPeEH6Bgb_P43Fp_2o&sid=e0c8f8e163c60a4f&spx=%2F&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://36d05a32-d2aa-439d-968f-9ede2a4aa018@england.torprospeed.ir:6630?encryption=none&security=reality&sni=cloudflare.com&fp=firefox&pbk=KO3CB84Ea9vNhaxlPjg0EKu_FMPeEH6Bgb_P43Fp_2o&sid=e0c8f8e163c60a4f&spx=%2F&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://36d05a32-d2aa-439d-968f-9ede2a4aa018@usa.torprospeed.ir:6630?encryption=none&security=reality&sni=cloudflare.com&fp=firefox&pbk=KO3CB84Ea9vNhaxlPjg0EKu_FMPeEH6Bgb_P43Fp_2o&sid=e0c8f8e163c60a4f&spx=%2F&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
