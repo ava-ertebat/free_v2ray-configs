@@ -66,6 +66,8 @@ vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.10:443?type=xhttp&mode=au
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.228.179:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.228.179:443?type=xhttp&path=/ds&host=&mode=auto&security=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.233.77:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.146.153:990#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.89.142.56:990#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLWWlpeTk2WGVWRFNocUFvUDd2aVhs@81.19.141.45:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUmpZb2tXVXZSS2tjM3EyYTlBYm5u@81.19.141.45:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQalVUS2lZWU1DakZkM3pubWJ6b2FQ@81.19.141.45:443#🔥Join+Telegram:@Farah_VPN🟣
@@ -98,8 +100,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ%3D%3D@95.164.116.33:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#🔥Join+Telegram:@Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@79.127.233.170:989#🔥Join+Telegram:@Farah_VPN🟣
 trojan://d78d48df-b788-4a95-9e9f-77c9b2f69822@193.233.114.58:8443?security=tls&sni=joss.gpj1.web.id&type=ws&path=%2FFree-VPN-CF-Geo-Project%2F193.233.114.58%3D8443&Host=joss.gpj1.web.id#🔥Join+Telegram:@Farah_VPN🟣
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@in01.trojanyyds.xyz:443?security=tls#🔥Join+Telegram:@Farah_VPN🟣
 trojan://vpn@109.120.132.80:2025?security=tls&sni=vkvd127.mycdn.me&type=ws&path=/&Host=vkvd127.mycdn.me#🔥Join+Telegram:@Farah_VPN🟣
