@@ -59,3 +59,7 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.7:443?security=tls&sni=T
 trojan://Watashi_VPN@104.18.26.94:8443?security=tls&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir#🔥Join+Telegram:@Farah_VPN🟣
 trojan://tg-dns68@162.159.152.169:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.95:5498#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo%3D@141.98.4.67:52952#🔥Join+Telegram:@Farah_VPN🟣
+vless://5b687f17-0176-495e-84a1-0835f8feec91@delilah.ns.cloudflare.com:443?path=%2Fegakxows&security=tls&encryption=none&insecure=0&host=639002592262919469.sentra-amsir.info&type=ws&allowInsecure=0&sni=639002592262919469.sentra-amsir.info#🔥Join+Telegram:@Farah_VPN🟣
+vless://9e728936-8015-41a1-a0ab-80997c084465@2margate.superip.ir:3041?security=reality&encryption=none&pbk=uHj-YSliobSCte9w83Jm1VWpOnXl64sKghSSNVdFvVw&host=%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=chrome&spx=%2FTELEGRAM--BYA--KANAL--JKVPN&type=tcp&sni=www.refersion.com&sid=4c14#🔥Join+Telegram:@Farah_VPN🟣
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@www.visa.com.hk:2095?encryption=none&security=none&type=ws&host=fuckingxijinping.xijinpingbigsb.workers.dev&path=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
