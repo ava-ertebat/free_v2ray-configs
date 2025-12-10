@@ -52,3 +52,4 @@ vless://9e3456fa-bcce-44b6-b91e-22c324a2f12f@151.101.130.219:443?security=tls&sn
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.95:6679#🔥Join+Telegram:@Farah_VPN🟣
 vless://e1baa082-e0aa-4ab6-a0df-eb56b1b80bb1@speedtest.net:443?path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=join-dailyconfigs.com&fp=random&type=ws&sni=speedtest.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://jR51RL4UoTov@3.145.172.196:12181?allowInsecure=0&sni=appsvs.shop#🔥Join+Telegram:@Farah_VPN🟣
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.144.253:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
