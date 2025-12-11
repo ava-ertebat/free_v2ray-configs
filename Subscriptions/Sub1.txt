@@ -89,3 +89,11 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.9:2375#🔥Join+Telegram:@Fa
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.135.18:8090#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@18.153.189.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@18.153.189.222:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://24f24aac-2429-0e34-3a6b-64f5ff443332@gafenot.hashtag.cinemaaliiiiii.top:8242?security=reality&encryption=none&pbk=lYpIrl4g9XeHoi5Qkn4H5AvZRJO50siRQrdpEvoQ7DY&headerType=none&fp=chrome&type=tcp&sni=aparat.com&sid=816cdb201907b82a#🔥Join+Telegram:@Farah_VPN🟣
+vless://24f24aac-2429-0e34-3a6b-64f5ff443332@www.speedtest.net:2095?security=none&encryption=none&host=shtagcinema.srjofood.ir&type=httpupgrade#🔥Join+Telegram:@Farah_VPN🟣
+vless://24f24aac-2429-0e34-3a6b-64f5ff443332@gafenot.aminborna.vgyop.com:8242?security=reality&encryption=none&pbk=lYpIrl4g9XeHoi5Qkn4H5AvZRJO50siRQrdpEvoQ7DY&headerType=none&fp=chrome&type=tcp&sni=aparat.com&sid=816cdb201907b82a#🔥Join+Telegram:@Farah_VPN🟣
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws&security=tls&encryption=none&type=ws&sni=azizoarjmand.info#🔥Join+Telegram:@Farah_VPN🟣
+vless://24f24aac-2429-0e34-3a6b-64f5ff443332@www.speedtest.net:2095?security=none&encryption=none&host=hashtagcinema.srjofood.ir&type=httpupgrade#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8%3D@185.172.113.182:804#🔥Join+Telegram:@Farah_VPN🟣
+trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=6b777a91&host=jobscareerforstudent.com#🔥Join+Telegram:@Farah_VPN🟣
+vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@go.inmobi.com:2053?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http%2F1.1&host=FrEeDOM2.paGES.dEV&type=ws&sni=FrEeDOM2.paGES.dEV#🔥Join+Telegram:@Farah_VPN🟣
