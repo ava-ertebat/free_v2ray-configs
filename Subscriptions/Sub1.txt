@@ -103,3 +103,5 @@ vless://302b3f27-236e-40a7-ae3c-f7df551f3631@microsoft.com.mra1.shop:443?securit
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@172.67.151.137:2095?security=none&type=ws&path=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&host=vless.hubp.de&sni=vless.hubp.de&encryption=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=9d90d7ada8&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&encryption=none#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.165:8080#🔥Join+Telegram:@Farah_VPN🟣
+trojan://253bc477d4e43c209f2d427272968280@153.121.39.240:1085?allowInsecure=1&sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
+vless://9eeaebce-523f-4fa2-a4b9-547f86159cf1@91.99.150.201:443?path=%2Flinkws%23%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=91.99.150.201&type=ws#🔥Join+Telegram:@Farah_VPN🟣
