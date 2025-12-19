@@ -114,3 +114,8 @@ vless://309fa273-6579-4cb2-9143-7cad50401eba@45.8.145.182:443?security=reality&t
 vless://c7c325ea-d3bc-4700-9e00-8fb6b614da01@hy6awiaa3c2e.dopweed.com:2053?mode=gun&security=reality&encryption=none&pbk=MT9ODgKq9ix6fkp2zsyNcV8Os9FTOXKGKp_6NAoA0Ac&fp=firefox&spx=%2F&type=grpc&serviceName=t.me/entryNET&sni=tgju.org&sid=9ea773bd0f13#🔥Join+Telegram:@Farah_VPN🟣
 vless://9818b579-3746-468b-88ac-65bd26b28e86@95.163.251.240:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.vk.com&pbk=tEt-vtWho9yRtM2sz5pjolmh4aAshJDxvgtPwR-FIEc&sid=e74115#🔥Join+Telegram:@Farah_VPN🟣
 vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.152.2:443?security=tls&type=ws&path=%2F&host=asuka.boringdad.netlib.re&sni=asuka.boringdad.netlib.re&fp=chrome&encryption=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://1701081e-c78c-44d7-97cd-f329284c90c8@64.227.33.161:443?path=%2Fidrutrws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ozon.ru#🔥Join+Telegram:@Farah_VPN🟣
+vless://65756824-435e-47c0-ff31-b24a5405e79d@116.203.11.168:2052?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://c9b1948f-2f1d-48df-e428-b1fe46700869@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=%2F&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
+vless://a9dd9c0e-540f-45fc-9cf7-84d2b51f8ea7@91.107.171.230:8443?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?encryption=none&security=tls&sni=cdn.chandplus.com&alpn=h3%2Ch2%2Chttp%2F1.1&type=raw&headertype=none#🔥Join+Telegram:@Farah_VPN🟣
