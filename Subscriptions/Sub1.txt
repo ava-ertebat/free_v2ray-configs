@@ -180,3 +180,5 @@ vless://93b99881-df03-4597-9146-0c11e46387f7@65.75.192.35:22857?path=%2F%3Fed&se
 trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.16.201.94:2096?security=tls&type=ws&sni=mailbox.CpiForPersia.Uk&path=trojan-ws/?ed&host=mailbox.CpiForPersia.Uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@51.21.70.184:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjSnJMR2xDVXdmUk1ha1J2TkI0UWVP@77.83.246.74:33320#🔥Join+Telegram:@Farah_VPN🟣
+vless://9788a8af-ed11-4204-a003-84fe71c95f2f@151.101.3.8:80?mode=auto&path=%2F%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.57.90:990#🔥Join+Telegram:@Farah_VPN🟣
