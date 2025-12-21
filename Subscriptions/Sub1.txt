@@ -182,3 +182,4 @@ vless://77d19746-328e-4938-92b5-faf379be7046@speedtest.net:80?path=%2FTelegram-i
 vless://14e55fd0-84ad-42e0-93eb-ebac8c6ce6ca@94.183.149.98:6000?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://78c5381d-3283-533c-ba54-805a5cc3b4a4@104.17.147.22:2095?path=%2F%40ELiV2ry-%40ELiV2ry-%40ELiV2ry-%40ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=Rubika.ir.Join--ELiV2ry.com.tr1.vless.Sitespeedtest.net.&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwaFpXVTVaalF3WkMwMU56ZGhMVFEyTWpRdFlXUTVPQzAyTnpRMU1qTXpNV0ptTkRn@free.2apzhfa.xyz:31175#🔥Join+Telegram:@Farah_VPN🟣
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?security=tls&encryption=none&insecure=0&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&allowInsecure=0&sni=gaosir.unfeeling.sbs#🔥Join+Telegram:@Farah_VPN🟣
