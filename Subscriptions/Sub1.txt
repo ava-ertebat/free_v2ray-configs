@@ -148,3 +148,10 @@ vless://telegram-id-ArV2ray@speedtest.net:443?encryption=none&security=tls&sni=s
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.21:2376#🔥Join+Telegram:@Farah_VPN🟣
 vless://9db2f138-e66b-4269-a645-94e5b739bf5a@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v04.com#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5004#🔥Join+Telegram:@Farah_VPN🟣
+vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@31.14.135.127:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://6e95243c-544c-4770-b2cd-a5c5cc10211e@104.21.64.1:443?encryption=none&security=tls&sni=DIP.Amperes.Workers.DEV&alpn=h3&type=ws&host=dip.amperes.workers.dev&path=%2Fassets#🔥Join+Telegram:@Farah_VPN🟣
+vless://bfb7355f-da10-470c-99d2-16c5061c403a@152.42.185.230:23675?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=m.zoom.us&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://1b6cba9c-e6d0-4cce-9840-0731e66210a1@arda156.ardaserver.site:14494?type=tcp&security=none#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQUpvZ0t1RnNpVmE1U3JoRDd2UG44UDI4c2U5REJBVDU2NFhUR0RuRTloNUhaUGg1OTNiekpSeFlhdld6cnlhY3I2Q0FONW5IRm04UnBzSGZxUm5hc3loYnNSelk0TnA=@imap.roomyinmita.name:40565#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@35.158.205.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04=@103.253.74.94:31348#🔥Join+Telegram:@Farah_VPN🟣
