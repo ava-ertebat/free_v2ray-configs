@@ -112,9 +112,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTk9acDlGSXA4M1E2WmVXSUpiZVRN@45.95.232.236:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTk9acDlGSXA4M1E2WmVXSUpiZVRN@45.95.232.236:4248?note=--Telegram--@NetifyVPN--#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYzhMTUpldzNGbDlNYmNGQ29GZ1Qw@46.246.96.30:31561#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYzhMTUpldzNGbDlNYmNGQ29GZ1Qw@46.246.96.30:31561?#🔥Join+Telegram:@Farah_VPN🟣
-trojan://WOeXShhJpL@172.67.67.64:443?security=tls&amp;sni=09jzus.zdzdzd.xyz&amp;type=ws&amp;path=/juzigongyi&amp;Host=09jzus.zdzdzd.xyz#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-privatevpns@15.188.216.8:22222?security=tls&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-directvpn@34.231.80.229:22222?security=tls&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://WOeXShhJpL@104.18.71.140:443?security=tls&amp;sni=09jzus.zdzdzd.xyz&amp;type=ws&amp;host=09jzus.zdzdzd.xyz&amp;path=%2Fjuzigongyi#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@63.176.182.62:22222?allowInsecure=0&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://bpb-trojan@104.21.30.195:443?security=tls&amp;sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
@@ -150,3 +147,6 @@ trojan://BxceQaOe@95.40.79.48:381?allowInsecure=1&sni=t.me%252Fripaojiedian#🔥
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.151.196:4054?allowInsecure=0&sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.81.84:2890?allowInsecure=1&sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://BxceQaOe@3.112.30.103:4569?allowInsecure=1&sni=t.me%2Fripaojiedian#🔥Join+Telegram:@Farah_VPN🟣
+trojan://5a2c16f9@104.17.162.3:443?allowInsecure=0&sni=snippets.kkii.eu.org&ws=1&wspath=%2F#🔥Join+Telegram:@Farah_VPN🟣
+trojan://5a2c16f9@104.19.220.22:443?allowInsecure=0&sni=snippets.kkii.eu.org&ws=1&wspath=%2F#🔥Join+Telegram:@Farah_VPN🟣
+trojan://5a2c16f9@104.26.1.110:443?allowInsecure=0&sni=snippets.kkii.eu.org&ws=1&wspath=%2F#🔥Join+Telegram:@Farah_VPN🟣
