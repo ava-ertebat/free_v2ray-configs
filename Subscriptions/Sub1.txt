@@ -87,3 +87,5 @@ vless://a91e64f0-9295-499d-bf4a-661ad99d4938@217.16.24.170:8443?security=reality
 vless://a91e64f0-9295-499d-bf4a-661ad99d4938@217.16.24.170:443?security=reality&type=tcp&sni=api-maps.yandex.ru&fp=ios&flow=xtls-rprx-vision&sid=5540e44a53c3d01c&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&encryption=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.18.241.114:2095?encryption=none&security=none&type=ws&host=index.arcane509.workers.dev&path=%2Fl25hqs0onbig#🔥Join+Telegram:@Farah_VPN🟣
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.10.136:444?security=reality&type=grpc&mode=gun&serviceName=t.me/entryNET&sni=t.me/entryNET&fp=chrome&sid=0614386789abcdef&pbk=L0ZCh9LynIMEkK9BZq3gC--mzL6xnR4bkBJmXHSwVCM&encryption=none#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@18.135.201.47:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://b9674dd8-c6ed-4be6-af5c-31490ba4d106@us2.myyemail.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=us2.b01d1e-cdd6-4a11-9fb8-1c45613e3eab.chaoyueemail.com&fp=chrome&type=raw&headertype=none#🔥Join+Telegram:@Farah_VPN🟣
