@@ -101,3 +101,4 @@ vless://5408b813-0a75-41de-9a4f-d5df4c10087b@tfl.gov.uk:443?encryption=none&secu
 trojan://zWFjJENcljZm@usa.visa.com:443?sni=vahidqaz-7o61u7.vahidqaz.workers.dev&type=ws&path=%2F%3Fed%3D2560&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
 vless://v1bsy2b9q5@v1bsy2b9q5-451516735-direct.bahame.co:443?security=tls&type=tcp&alpn=h2%2Chttp%2F1.1&sni=v1bsy2b9q5-451516735-direct.bahame.co&fp=chrome&flow=xtls-rprx-vision&encryption=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@www.visa.com.hk:2095?encryption=none&security=none&type=ws&host=xijinpingnmsl.s4ar.workers.dev&path=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.218:38388#🔥Join+Telegram:@Farah_VPN🟣
