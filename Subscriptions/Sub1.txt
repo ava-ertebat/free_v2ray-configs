@@ -68,3 +68,7 @@ vless://e1912020-5896-4ba3-8c85-604b58f6a667@www.speedtest.net:8880?path=%2F-LiV
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3389#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.112:9090#🔥Join+Telegram:@Farah_VPN🟣
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=api.avito.ru#🔥Join+Telegram:@Farah_VPN🟣
+vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@172.67.193.88:443?security=tls&type=ws&path=%2Fvless.hubp.de&host=hemmat.iranmap.workers.dev&alpn=http%2F1.1&sni=hemmat.iranmap.workers.dev&fp=chrome&encryption=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://299d9490-a2c1-4f00-9512-318e24b4e015@80.71.157.175:8443?security=reality&type=tcp&sni=isharing.us&fp=chrome&flow=xtls-rprx-vision&sid=a4eed13ebbf2f9d2&pbk=oy7HvK2b2f44HoOwTcx-v-mIySy690bIUbbI9DnCq0k&encryption=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://e5017995-2093-491b-a0fa-d4890782d42a@51.250.77.124:443?security=reality&type=tcp&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&sid=fe2f8495c476efd4&pbk=mLApF78WJzjM4mijtlx4NPIbSA9Hizk66AVeck51wxY&encryption=none#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcXptVXNYUFl6UFc0S3MxeXVhUWJo@62.133.60.43:36456#🔥Join+Telegram:@Farah_VPN🟣
