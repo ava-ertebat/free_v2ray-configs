@@ -115,10 +115,8 @@ trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&sni=ww
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.242.183:3093?security=tls&sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.117.182:3093?sni=www.nintendogames.net&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?sni=www.nintendogames.net&path=/#🔥Join+Telegram:@Farah_VPN🟣
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3093?sni=www.nintendogames.net&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3093?security=tls&sni=www.nintendogames.net&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.67.215:3093?security=tls&sni=www.nintendogames.net&path=/#🔥Join+Telegram:@Farah_VPN🟣
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.53.187:3169?sni=www.nintendogames.net&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3d24de45-e38a-49c2-a963-ba8271c62d2b@tronblue.qzz.io:443?type=ws&host=tronblue.qzz.io&path=/152.32.255.24:587&security=tls&sni=tronblue.qzz.io&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?type=ws&host=seashell.qzz.io&path=/156.254.114.120:30011&security=tls&sni=seashell.qzz.io&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://0507fbcd-b983-43a7-8e1d-2c561960ad4f@d-4bed-b726-2c53a82e4925.664.qzz.io:443?security=tls&sni=d-4bED-B726-2C53a82E4925.664.Qzz.iO&alpn=http/1.1&type=ws&path=/E2JXJM5geneWfr9noOhn#🔥Join+Telegram:@Farah_VPN🟣
@@ -146,3 +144,5 @@ trojan://telegram-id-privatevpns@63.180.109.216:22222?security=tls&amp;alpn=http
 trojan://telegram-id-privatevpns@35.180.171.33:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=rc8.freeguard.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://trojan@ip.sb:8443?path=%2F&amp;security=tls&amp;host=fofang.pages.dev&amp;type=ws&amp;sni=fofang.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
+trojan://blhwsknjxmfuydz0vhfv@146.70.73.211:53809?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.vk.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.vk.com#🔥Join+Telegram:@Farah_VPN🟣
