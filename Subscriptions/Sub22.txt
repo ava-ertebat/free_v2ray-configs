@@ -129,10 +129,10 @@ trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.129.3.220:10668/?type=tcp&security=tls&sni=
 trojan://pUF+zmIw0QuRESBPLofx7eOj6Xc49@38.54.82.205:27877/?type=tcp&security=tls&sni=www.metaphysicalmagnet.click#🔥Join+Telegram:@Farah_VPN🟣
 trojan://sMed9E7gA1@verahk1.uspn.io:443/?type=ws&host=verahk1.uspn.io&path=/trojan&security=tls&sni=verahk1.uspn.io&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106/?type=tcp&security=tls&sni=binaryboots.algorithmblanket.click#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@15.236.28.119:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@18.193.19.215:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@3.74.127.230:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@13.37.158.14:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-privatevpns@16.171.87.45:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@18.193.19.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@3.74.127.230:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@35.180.171.33:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
