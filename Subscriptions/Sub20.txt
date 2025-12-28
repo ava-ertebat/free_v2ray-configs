@@ -109,9 +109,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjaHplYTZWNEt0NDBHQV9wZ3hMNk4yczBSZjVnY1hmUg@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080?note=@freeOnlineVPN#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#🔥Join+Telegram:@Farah_VPN🟣
-trojan://BxceQaOe@95.40.19.252:1112?allowInsecure=1&sni=t.me%2Fripaojiedian#🔥Join+Telegram:@Farah_VPN🟣
-trojan://913d0c8a-1c21-4fe2-9ce3-1d98f0db12e0@green2.cdntencentmusic.com:31102?allowInsecure=0&sni=green2.cdntencentmusic.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://15b641c6-9abf-456b-8441-8662f5ab99c7@green2.cdntencentmusic.com:35502?allowInsecure=0&sni=green2.cdntencentmusic.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3d7d3041-275b-4238-a7ed-faa24700c204@green2.cdntencentmusic.com:35502?allowInsecure=0&sni=green2.cdntencentmusic.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://404a16fa-9eb0-42ed-8f18-65eba7202f05@green2.cdntencentmusic.com:31102?allowInsecure=0&sni=green2.cdntencentmusic.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://5a2c16f9@162.159.128.253:443?allowInsecure=0&sni=snippets.kkii.eu.org&ws=1&wspath=%2F#🔥Join+Telegram:@Farah_VPN🟣
@@ -146,3 +143,6 @@ trojan://87a0f7a0-4733-45a6-92b2-9a689fb4f354@green2.cdntencentmusic.com:31103?a
 trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@jp3.t.sgateway.link:5223?allowInsecure=0&sni=pod-jp-z1.psusercontent.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@202.181.103.235:4054?allowInsecure=0&sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?sni=shoppingmall.electricbanana.click#🔥Join+Telegram:@Farah_VPN🟣
+trojan://fa0370ed-8558-4d66-b257-d31d2a51e660@141.193.213.199:443?sni=1cyq93vs4amcu625.ukgogo202511.top#🔥Join+Telegram:@Farah_VPN🟣
+trojan://5a2c16f9@162.159.24.131:443?sni=snippets.kkii.eu.org#🔥Join+Telegram:@Farah_VPN🟣
+trojan://87a0f7a0-4733-45a6-92b2-9a689fb4f354@green2.cdntencentmusic.com:31101?sni=green2.cdntencentmusic.com#🔥Join+Telegram:@Farah_VPN🟣
