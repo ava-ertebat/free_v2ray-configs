@@ -52,3 +52,13 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.68.134.9:6697#🔥Join+Telegram:@Fa
 trojan://tg-dns68@43.156.56.22:7676?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔥Join+Telegram:@Farah_VPN🟣
 trojan://tg-dns68@162.159.153.1:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔥Join+Telegram:@Farah_VPN🟣
 trojan://aRh4GRxYO6@38.180.70.206:2096?security=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://cc23a688-1031-4cdf-a909-82aa1338d63d@46.224.181.65:2087?path=%2F%3Fed%3D2560&security=none&encryption=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://01973bf7-048a-4dc6-a82b-2fa3be7046a5@45.85.119.44:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=dagh.mojavadd.space&sni=dagh.mojavadd.space#🔥Join+Telegram:@Farah_VPN🟣
+trojan://tg-dns68@162.159.152.227:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔥Join+Telegram:@Farah_VPN🟣
+trojan://fe066c73-d2f4-4471-9d38-beb1ea6c2068@91.192.81.110:17711?sni=data.52daishu.life#🔥Join+Telegram:@Farah_VPN🟣
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.17.215.2:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#🔥Join+Telegram:@Farah_VPN🟣
+trojan://KsAG60yhjU@136.244.101.16:48163?security=tls&sni=ne.atrinshops.ir&type=grpc&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://auto@162.159.138.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔥Join+Telegram:@Farah_VPN🟣
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@108.162.194.176:443?path=%2Fsghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.info#🔥Join+Telegram:@Farah_VPN🟣
+trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@15.222.167.168:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
